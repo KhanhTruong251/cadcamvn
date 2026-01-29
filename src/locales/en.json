@@ -1,0 +1,2394 @@
+{
+  "common": {
+    "header": {
+      "home": "Home",
+      "products": "Products",
+      "devices": "Devices",
+      "about": "About",
+      "contact": "Contact",
+      "admin": "Admin",
+      "viewAllProducts": "View all products",
+      "viewAllDevices": "View all devices",
+      "productCategories": "Product categories",
+      "deviceCategories": "Device categories",
+      "backToProducts": "Back to products"
+    },
+    "tabs": {
+      "overview": "Overview",
+      "features": "Features",
+      "videos": "Videos & Demo"
+    },
+    "buttons": {
+      "learnMore": "Learn More",
+      "watchDemo": "Watch Demo",
+      "play": "Play",
+      "watchVideo": "Watch Video"
+    },
+      "footer": {
+        "copyright": "© 2025 3C CNC SOFT. All rights reserved.",
+        "description": "Professional CAD/CAM software and hardware solutions",
+        "companyInfo": "Professional CADCAM product showcase and consultation services, providing comprehensive solutions for businesses in CAD/CAM technology.",
+        "quickLinks": "Quick Links",
+        "customerSupport": "Customer Support",
+        "helpCenter": "Help Center",
+        "faq": "FAQ",
+        "contactUs": "Contact Us",
+        "consultation": "Consultation",
+        "privacyPolicy": "Privacy Policy",
+        "followUs": "Follow us:",
+        "newsletter": "Subscribe to newsletter:",
+        "emailPlaceholder": "Your email",
+        "subscribe": "Subscribe",
+        "address": "83, Street 19, Hiep Binh Chanh Ward, Thu Duc City, Ho Chi Minh City",
+        "phone": "0918416100",
+        "email": "3ccncsoft@gmail.com"
+      },
+    "home": {
+      "hero": {
+        "title": "Advanced",
+        "subtitle": "CADCAM",
+        "subtitle2": "Solutions",
+        "description": "Elevate footwear manufacturing with modern CADCAM technology. Optimize processes, increase productivity and ensure superior product quality for the footwear industry.",
+        "exploreProducts": "Explore Products",
+        "contactConsultation": "Contact Consultation"
+      },
+      "stats": {
+        "trustedCustomers": "Trusted customers",
+        "yearsExperience": "Years of experience",
+        "satisfactionRate": "Satisfaction rate",
+        "technicalSupport": "Technical support"
+      },
+      "features": {
+        "title": "Why choose us?",
+        "description": "We provide comprehensive CADCAM solutions with advanced technology and professional support services",
+        "highPerformance": {
+          "title": "High Performance",
+          "description": "Advanced CADCAM technology helps increase manufacturing productivity by up to 300%"
+        },
+        "accuracy": {
+          "title": "Accuracy",
+          "description": "Accuracy up to 0.001mm, ensuring perfect product quality"
+        },
+        "multiPlatform": {
+          "title": "Multi-platform",
+          "description": "Full support for Windows, macOS and Linux operating systems"
+        },
+        "support247": {
+          "title": "24/7 Support",
+          "description": "Professional technical team supports you anytime, anywhere"
+        }
+      },
+      "featuredProducts": {
+        "title": "Featured Products",
+        "description": "Discover high-quality CADCAM products trusted by thousands of customers",
+        "viewDetails": "View details",
+        "viewAllProducts": "View all products",
+        "items": {
+          "rhinoceros": {
+            "title": "Rhinoceros 8",
+            "description": "Professional 3D design software with advanced NURBS technology",
+            "tag": "3D Design",
+            "link": "/products/rhinoceros"
+          },
+          "rhinocam": {
+            "title": "RhinoCAM",
+            "description": "Integrated CAM solution for precise machining programming",
+            "tag": "CNC Machining",
+            "link": "/products"
+          },
+          "voxeldanceAdditive": {
+            "title": "VoxelDance Additive",
+            "description": "Software for optimizing metal and polymer 3D printing workflows",
+            "tag": "3D Printing",
+            "link": "/products"
+          },
+          "voxeldanceManufacturing": {
+            "title": "VoxelDance Manufacturing",
+            "description": "Manufacturing management platform with advanced build preparation tools",
+            "tag": "Manufacturing",
+            "link": "/products/voxeldance-manufacturing"
+          },
+          "voxeldanceEngineering": {
+            "title": "VoxelDance Engineering",
+            "description": "Design and analyze lattice structures for advanced manufacturing",
+            "tag": "Engineering",
+            "link": "/products/voxeldance-engineering"
+          },
+          "rizomuv": {
+            "title": "RizomUV",
+            "description": "Professional UV unwrap tool for industrial design teams",
+            "tag": "UV Mapping",
+            "link": "/products"
+          },
+          "jevero": {
+            "title": "Jevero",
+            "description": "Easy pattern making, on top of Rhino. Create and modify patterns with ease and efficiency with powerful parametric tools.",
+            "tag": "Pattern Engineering",
+            "link": "/products/jevero"
+          },
+          "botcha": {
+            "title": "Botcha",
+            "description": "Virtual prototypes as fast as possible. The ultimate 3D footwear tool with intuitive user interface built on Rhinoceros.",
+            "tag": "3D Modeling",
+            "link": "/products/botcha"
+          },
+          "orangRhino": {
+            "title": "Orang-Rhino & Ant3D",
+            "description": "Professional plugin for Rhinoceros 3D, designed for footwear sole design with advanced tools",
+            "tag": "CAD Plugin",
+            "link": "/products/orang-rhino"
+          }
+        }
+      },
+      "featuredDevices": {
+        "title": "Featured Devices",
+        "description": "Discover our professional 3D scanning devices with high precision and advanced technology",
+        "viewDetails": "View details",
+        "viewAllDevices": "View all devices",
+        "items": {
+          "scan3dTexu630w": {
+            "title": "Scan3D Texu 630W",
+            "description": "High-precision 3D scanner with 630W power, ideal for large-scale industrial scanning applications",
+            "link": "/products/scan3d-texu-630w"
+          },
+          "scan3dTexu3w": {
+            "title": "Scan3D Texu 3W",
+            "description": "Compact 3D scanner with 3W power, perfect for small to medium-sized objects",
+            "link": "/products/scan3d-texu-3w"
+          },
+          "scan3dTexuT22": {
+            "title": "Scan3D Texu T22",
+            "description": "Professional 3D scanner with T22 technology, featuring enhanced scanning speed and precision",
+            "link": "/products/scan3d-texu-t22"
+          }
+        }
+      },
+      "cta": {
+        "title": "Ready to elevate manufacturing?",
+        "description": "Contact us now for the best consultation and support",
+        "contactNow": "Contact Now",
+        "viewProducts": "View Products"
+      },
+      "banner": {
+        "placeholderText": "Banner",
+        "placeholderImage": "Placeholder Image"
+      },
+      "orangRhinoSection": {
+        "badge": "Featured Product",
+        "title": "Orang-Rhino & Ant3D",
+        "subtitle": "Professional Footwear Design",
+        "description": "Industry-leading plugin for Rhinoceros 3D, specifically designed for footwear sole design. Create complex sole patterns, multi-layer structures, and precision-engineered components.",
+        "contactSales": "Contact Sales",
+        "discoverMore": "Discover More",
+        "badge1": "#1 Choice",
+        "badge2": "Professional Grade"
+      },
+      "voxeldanceManufacturing": {
+        "hero": {
+          "title": "VoxelDance Manufacturing",
+          "subtitle": "Powerful build preparation software for additive manufacturing",
+          "learnMore": "Learn More",
+          "watchDemo": "Watch Demo"
+        },
+        "about": {
+          "title": "About VoxelDance Manufacturing",
+          "description": "VoxelDance Manufacturing is a powerful 3D printing build preparation software for popular 3D printing applications such as prototypes, shoe molds, dental polymer/metal, jewelry, healthcare, education, industrial molds, consumer products, etc. It is compatible with LPBF, SLA, DLP and SLS 3D printing technologies. Thanks to the optimized VDK geometry engine and highly streamlined workflow, users can quickly achieve 3D printing build preparation and production efficiency, and the printing success rate has been significantly improved.",
+          "buildPreparation": "Build Preparation Software"
+        },
+        "features": {
+          "importFormats": {
+            "title": "Just import all the formats.",
+            "description": "Supports nearly all the file formats, bridges the gap between CAD files and 3D printers. Seamlessly import from any CAD software and export to your 3D printer.",
+            "meshFormats": "Mesh & 3D Printing Formats",
+            "cadFormats": "CAD Formats"
+          },
+          "repair": {
+            "title": "Repairing files was never so easy.",
+            "description": "Provides you powerful fix tools to create water-tight data and achieve perfect printing.",
+            "identifyErrors": "Help you identify file errors",
+            "autoRepair": "Automatically repair files just with one click"
+          },
+          "orientation": {
+            "title": "Powerful Orientation Tools",
+            "description": "Unique orientation for dental printing. Just with one click, all of the crown cups face in an upright position automatically. This reduces manual operation and greatly improves process efficiency and quality assurance."
+          },
+          "nesting": {
+            "title": "Nest Your Parts in 2D/3D Automatically and Fast.",
+            "description": "VoxelDance Manufacturing not only can complete 2D/3D nesting placement quickly, it also provides multiple placement options. These options include X/Y-axis orientation, blade direction, and platform layout alignment."
+          },
+          "supports": {
+            "title": "Multiple Supports for SLA, LPBF and DLP.",
+            "description": "VoxelDance Manufacturing provides you powerful support types that are compatible with DLP, SLA, and LPBF technologies.",
+            "supportTypes": "Support types include:",
+            "barSupport": "Bar support",
+            "pointSupport": "Point support",
+            "lineSupport": "Line support",
+            "blockSupport": "Block support",
+            "smartSupport": "Smart support"
+          },
+          "hatches": {
+            "title": "Enhance Your Slice Files with Hatches",
+            "description": "VoxelDance Manufacturing could generate slices and add hatches with one click. Export slice file as multiple format, including CLI, SLC, PNG, SVG etc. Its integrated visualization interface allows you to check slices and hatches conveniently."
+          }
+        },
+        "cta": {
+          "title": "Ready to get started?",
+          "description": "Experience the power of VoxelDance Manufacturing for your additive manufacturing workflow",
+          "requestDemo": "Request Demo",
+          "contactSales": "Contact Sales"
+        }
+      },
+      "jevero": {
+        "hero": {
+          "title": "Easy pattern making, on top of Rhino.",
+          "subtitle": "Create and modify patterns with ease and efficiency. Jevero integrates seamlessly with Rhino and adds powerful parametric tools that enable a smooth pattern development process.",
+          "requestDemo": "Request a demo",
+          "contactUs": "Contact us"
+        },
+        "description": {
+          "text": "Jevero plugin makes pattern engineering smooth and reliable, with quick, intuitive grading and post processing features. Output patterns for most cutting machines and plotters. Jevero's advanced features also include automatic nesting, fabric utilization optimization, and easy-to-use marker making tools, making the production process even more efficient and cost-effective."
+        },
+        "highlights": {
+          "robustGrading": {
+            "title": "Robust grading",
+            "description": "With Jevero you can visualize your designs and make precise pattern adjustments, ensuring a perfect fit for your shoes. With a user-friendly interface that incorporates familiar tools, allowing those with experience in other shoe CAD software to easily adapt and feel at home when working with Jevero."
+          },
+          "fitsPipeline": {
+            "title": "Fits to your pipeline",
+            "description": "We support all the major file extensions on the market. We also have invested to be able to support Crispin Engineer .shoe and .pat files. To support your legacy, to have a quicker transition to our tool."
+          },
+          "supportedByManufacturers": {
+            "title": "Supported by major cutting machine manufacturers and post-processing tools",
+            "description": "With compatibility for formats such as DXF, PLT, HPGL, L2N, and more, Jevero provides a professional and seamless integration with various systems in the footwear industry."
+          },
+          "worldOfTools": {
+            "title": "A world of tools: design, prototype, product",
+            "description": "We support all the usual workflows and the most advanced one. From the creation of the patterns to the grading, review and production preparation, from one prototyping to final mass production."
+          }
+        },
+        "features": {
+          "title": "Main features",
+          "parametricPatterns": {
+            "title": "Parametric patterns",
+            "description": "Create pattern with dependencies that automatically track your changes across the model."
+          },
+          "grading": {
+            "title": "Grading",
+            "description": "Create the sample size and automatically grade to all the sizes, use grading centers and groups to precisely control the changes across sizes."
+          },
+          "partManagement": {
+            "title": "Part management",
+            "description": "Each pattern will be structured into parts that represent a singular assembly unit for the construction of the shoe. Organize your parts and easily assign them properties."
+          },
+          "dataExport": {
+            "title": "Data export",
+            "description": "Export all the created parts to your cutting tables. Jevero support a variety of diverse export format for all the needs."
+          },
+          "preciseMeasurements": {
+            "title": "Precise measurements",
+            "description": "Jevero offers many tools to measure each part of the shoe, whether it is in the sample size or across the grading."
+          },
+          "processing": {
+            "title": "Processing",
+            "description": "Create processing sheets for each part to instruct the workforce. Skiving, stitching or any other important step can be documented."
+          },
+          "layering": {
+            "title": "Layering",
+            "description": "Compute the amount of material that each shoe uses, easily estimate the custom and duties that you will have to pay for exports."
+          },
+          "dxfRebuilding": {
+            "title": "DXF rebuilding",
+            "description": "Import old models and easily bring them up to speed into Jevero with the rebuilding feature."
+          }
+        },
+        "cta": {
+          "title": "Contact us to bring your footwear process into the future with",
+          "subtitle": "The FOOTWEARkit for Rhino",
+          "requestDemo": "Request a demo"
+        }
+      },
+      "botcha": {
+        "hero": {
+          "title": "Virtual prototypes as fast as possible",
+          "subtitle": "Botcha is the ultimate 3D footwear tool, offering an intuitive user interface built on Rhinoceros. Discover all the features and preset that will speed up your modelling process.",
+          "requestDemo": "Request a demo",
+          "contactUs": "Contact us"
+        },
+        "highlights": {
+          "remapping": {
+            "title": "Remapping and UV Editing",
+            "description": "Botcha's UV tools allow for quick flattening, texture manipulations and material simulation. Precise unwrapping that minimize the distortion and automated chart layout that preserve the correct sizing with your 3D model."
+          },
+          "tooling": {
+            "title": "Tooling digital textures",
+            "description": "Appling displacement textures to toolings and molded parts has never been so easy. Botcha tooling texture manager can handle textures from preview quality to production ready files. Export and clean your toolings directly for laser engravings or 3D printing."
+          },
+          "lacing": {
+            "title": "Last, lacing and stitching presets",
+            "description": "Botcha offers presets to quickly add laces and stitching to 3D shoe models, saving time and effort. You can also create a custom library of patterns, ensuring flexibility and precision for tailored designs."
+          },
+          "grasshopper": {
+            "title": "Grasshopper Nodes",
+            "description": "Use Grasshopper with Botcha to enhance automation and customization in your footwear design process. Create parametric models and automate repetitive tasks, enabling seamless adjustments and increasing efficiency."
+          }
+        },
+        "gallery": {
+          "title": "Gallery showcase"
+        },
+        "features": {
+          "title": "Main Features",
+          "uvUnwrap": {
+            "title": "UV Unwrap",
+            "description": "Generate a 2D version of the 3D object minimizing the stretch of the original mesh. The 2D version will be stored within the object as a texture mapping channel."
+          },
+          "drawOnMesh": {
+            "title": "Draw on mesh",
+            "description": "Easily draw a curve laying on a mesh, simply selecting the mesh and choosing the points you want the curve to go through."
+          },
+          "uvTransfer": {
+            "title": "UV Transfer",
+            "description": "Texturing is a crucial step in creating realistic 3D models. With the UV Tranfer tool, you can ensure your textures are always perfectly aligned."
+          },
+          "changeLast": {
+            "title": "Change Last",
+            "description": "Moves planar curves from a flatten last to another one and generates two meshes with the same topology for the source and target last curves respectively."
+          },
+          "remapObject": {
+            "title": "Remap object",
+            "description": "This functionality allows an object to be modeled in an advantageous condition (e.g. on a 2D plane) and remapped onto another 3D surface."
+          },
+          "flattenLast": {
+            "title": "Flatten Last",
+            "description": "Flatten the last and add its boundary to the document as a curve and simplifies the pattern engineers' workflow."
+          },
+          "projectMesh": {
+            "title": "Project Mesh",
+            "description": "Projects a mesh onto one or more other meshes. It is useful, for example, to \"stick\" objects like logos to the shoe."
+          },
+          "softEdit": {
+            "title": "Soft Edit",
+            "description": "Change a mesh by applying a transformation proportionally to neighbors of the selected vertices."
+          }
+        },
+        "cta": {
+          "title": "Contact us to bring your footwear process into the future with",
+          "subtitle": "The FOOTWEARkit for Rhino",
+          "requestDemo": "Request a demo"
+        }
+      }
+    },
+    "voxeldanceManufacturing": {
+      "hero": {
+        "title": "VoxelDance Manufacturing",
+        "subtitle": "Powerful build preparation software for additive manufacturing",
+        "learnMore": "Learn More",
+        "watchDemo": "Watch Demo"
+      },
+      "about": {
+        "title": "About VoxelDance Manufacturing",
+        "description": "VoxelDance Manufacturing is a powerful 3D printing build preparation software for popular 3D printing applications such as prototypes, shoe molds, dental polymer/metal, jewelry, healthcare, education, industrial molds, consumer products, etc. It is compatible with LPBF, SLA, DLP and SLS 3D printing technologies. Thanks to the optimized VDK geometry engine and highly streamlined workflow, users can quickly achieve 3D printing build preparation and production efficiency, and the printing success rate has been significantly improved.",
+        "buildPreparation": "Build Preparation Software"
+      },
+      "features": {
+        "importFormats": {
+          "title": "Just import all the formats.",
+          "description": "Supports nearly all the file formats, bridges the gap between CAD files and 3D printers. Seamlessly import from any CAD software and export to your 3D printer.",
+          "meshFormats": "Mesh & 3D Printing Formats",
+          "cadFormats": "CAD Formats"
+        },
+        "repair": {
+          "title": "Repairing files was never so easy.",
+          "description": "Provides you powerful fix tools to create water-tight data and achieve perfect printing.",
+          "identifyErrors": "Help you identify file errors",
+          "autoRepair": "Automatically repair files just with one click"
+        },
+        "orientation": {
+          "title": "Powerful Orientation Tools",
+          "description": "Unique orientation for dental printing. Just with one click, all of the crown cups face in an upright position automatically. This reduces manual operation and greatly improves process efficiency and quality assurance."
+        },
+        "nesting": {
+          "title": "Nest Your Parts in 2D/3D Automatically and Fast.",
+          "description": "VoxelDance Manufacturing not only can complete 2D/3D nesting placement quickly, it also provides multiple placement options. These options include X/Y-axis orientation, blade direction, and platform layout alignment."
+        },
+        "supports": {
+          "title": "Multiple Supports for SLA, LPBF and DLP.",
+          "description": "VoxelDance Manufacturing provides you powerful support types that are compatible with DLP, SLA, and LPBF technologies.",
+          "supportTypes": "Support types include:",
+          "barSupport": "Bar support",
+          "pointSupport": "Point support",
+          "lineSupport": "Line support",
+          "blockSupport": "Block support",
+          "smartSupport": "Smart support"
+        },
+        "hatches": {
+          "title": "Enhance Your Slice Files with Hatches",
+          "description": "VoxelDance Manufacturing could generate slices and add hatches with one click. Export slice file as multiple format, including CLI, SLC, PNG, SVG etc. Its integrated visualization interface allows you to check slices and hatches conveniently."
+        }
+      },
+      "cta": {
+        "title": "Ready to get started?",
+        "description": "Experience the power of VoxelDance Manufacturing for your additive manufacturing workflow",
+        "requestDemo": "Request Demo",
+        "contactSales": "Contact Sales"
+      }
+    },
+    "jevero": {
+      "hero": {
+        "title": "Easy pattern making, on top of Rhino.",
+        "subtitle": "Create and modify patterns with ease and efficiency. Jevero integrates seamlessly with Rhino and adds powerful parametric tools that enable a smooth pattern development process.",
+        "requestDemo": "Request a demo",
+        "contactUs": "Contact us"
+      },
+      "description": {
+        "text": "Jevero plugin makes pattern engineering smooth and reliable, with quick, intuitive grading and post processing features. Output patterns for most cutting machines and plotters. Jevero's advanced features also include automatic nesting, fabric utilization optimization, and easy-to-use marker making tools, making the production process even more efficient and cost-effective."
+      },
+      "highlights": {
+        "robustGrading": {
+          "title": "Robust grading",
+          "description": "With Jevero you can visualize your designs and make precise pattern adjustments, ensuring a perfect fit for your shoes. With a user-friendly interface that incorporates familiar tools, allowing those with experience in other shoe CAD software to easily adapt and feel at home when working with Jevero."
+        },
+        "fitsPipeline": {
+          "title": "Fits to your pipeline",
+          "description": "We support all the major file extensions on the market. We also have invested to be able to support Crispin Engineer .shoe and .pat files. To support your legacy, to have a quicker transition to our tool."
+        },
+        "supportedByManufacturers": {
+          "title": "Supported by major cutting machine manufacturers and post-processing tools",
+          "description": "With compatibility for formats such as DXF, PLT, HPGL, L2N, and more, Jevero provides a professional and seamless integration with various systems in the footwear industry."
+        },
+        "worldOfTools": {
+          "title": "A world of tools: design, prototype, product",
+          "description": "We support all the usual workflows and the most advanced one. From the creation of the patterns to the grading, review and production preparation, from one prototyping to final mass production."
+        }
+      },
+      "features": {
+        "title": "Main features",
+        "parametricPatterns": {
+          "title": "Parametric patterns",
+          "description": "Create pattern with dependencies that automatically track your changes across the model."
+        },
+        "grading": {
+          "title": "Grading",
+          "description": "Create the sample size and automatically grade to all the sizes, use grading centers and groups to precisely control the changes across sizes."
+        },
+        "partManagement": {
+          "title": "Part management",
+          "description": "Each pattern will be structured into parts that represent a singular assembly unit for the construction of the shoe. Organize your parts and easily assign them properties."
+        },
+        "dataExport": {
+          "title": "Data export",
+          "description": "Export all the created parts to your cutting tables. Jevero support a variety of diverse export format for all the needs."
+        },
+        "preciseMeasurements": {
+          "title": "Precise measurements",
+          "description": "Jevero offers many tools to measure each part of the shoe, whether it is in the sample size or across the grading."
+        },
+        "processing": {
+          "title": "Processing",
+          "description": "Create processing sheets for each part to instruct the workforce. Skiving, stitching or any other important step can be documented."
+        },
+        "layering": {
+          "title": "Layering",
+          "description": "Compute the amount of material that each shoe uses, easily estimate the custom and duties that you will have to pay for exports."
+        },
+        "dxfRebuilding": {
+          "title": "DXF rebuilding",
+          "description": "Import old models and easily bring them up to speed into Jevero with the rebuilding feature."
+        }
+      },
+      "cta": {
+        "title": "Contact us to bring your footwear process into the future with",
+        "subtitle": "The FOOTWEARkit for Rhino",
+        "requestDemo": "Request a demo"
+      }
+    },
+    "botcha": {
+      "hero": {
+        "title": "Virtual prototypes as fast as possible",
+        "subtitle": "Botcha is the ultimate 3D footwear tool, offering an intuitive user interface built on Rhinoceros. Discover all the features and preset that will speed up your modelling process.",
+        "requestDemo": "Request a demo",
+        "contactUs": "Contact us"
+      },
+      "highlights": {
+        "remapping": {
+          "title": "Remapping and UV Editing",
+          "description": "Botcha's UV tools allow for quick flattening, texture manipulations and material simulation. Precise unwrapping that minimize the distortion and automated chart layout that preserve the correct sizing with your 3D model."
+        },
+        "tooling": {
+          "title": "Tooling digital textures",
+          "description": "Appling displacement textures to toolings and molded parts has never been so easy. Botcha tooling texture manager can handle textures from preview quality to production ready files. Export and clean your toolings directly for laser engravings or 3D printing."
+        },
+        "lacing": {
+          "title": "Last, lacing and stitching presets",
+          "description": "Botcha offers presets to quickly add laces and stitching to 3D shoe models, saving time and effort. You can also create a custom library of patterns, ensuring flexibility and precision for tailored designs."
+        },
+        "grasshopper": {
+          "title": "Grasshopper Nodes",
+          "description": "Use Grasshopper with Botcha to enhance automation and customization in your footwear design process. Create parametric models and automate repetitive tasks, enabling seamless adjustments and increasing efficiency."
+        }
+      },
+      "gallery": {
+        "title": "Gallery showcase"
+      },
+      "features": {
+        "title": "Main Features",
+        "uvUnwrap": {
+          "title": "UV Unwrap",
+          "description": "Generate a 2D version of the 3D object minimizing the stretch of the original mesh. The 2D version will be stored within the object as a texture mapping channel."
+        },
+        "drawOnMesh": {
+          "title": "Draw on mesh",
+          "description": "Easily draw a curve laying on a mesh, simply selecting the mesh and choosing the points you want the curve to go through."
+        },
+        "uvTransfer": {
+          "title": "UV Transfer",
+          "description": "Texturing is a crucial step in creating realistic 3D models. With the UV Tranfer tool, you can ensure your textures are always perfectly aligned."
+        },
+        "changeLast": {
+          "title": "Change Last",
+          "description": "Moves planar curves from a flatten last to another one and generates two meshes with the same topology for the source and target last curves respectively."
+        },
+        "remapObject": {
+          "title": "Remap object",
+          "description": "This functionality allows an object to be modeled in an advantageous condition (e.g. on a 2D plane) and remapped onto another 3D surface."
+        },
+        "flattenLast": {
+          "title": "Flatten Last",
+          "description": "Flatten the last and add its boundary to the document as a curve and simplifies the pattern engineers' workflow."
+        },
+        "projectMesh": {
+          "title": "Project Mesh",
+          "description": "Projects a mesh onto one or more other meshes. It is useful, for example, to \"stick\" objects like logos to the shoe."
+        },
+        "softEdit": {
+          "title": "Soft Edit",
+          "description": "Change a mesh by applying a transformation proportionally to neighbors of the selected vertices."
+        }
+      },
+      "cta": {
+        "title": "Contact us to bring your footwear process into the future with",
+        "subtitle": "The FOOTWEARkit for Rhino",
+        "requestDemo": "Request a demo"
+      }
+    }
+  },
+  "shrinkwrap": {
+    "hero": {
+      "badge": "New in Rhino 8",
+      "title": "ShrinkWrap",
+      "subtitle": "Create watertight meshes from any geometry with unprecedented ease",
+      "features": {
+        "printing": "Perfect meshes for 3D printing",
+        "union": "Solid union from multiple objects",
+        "scanData": "Clean meshes from scan data"
+      }
+    },
+    "overview": {
+      "title": "What is ShrinkWrap?",
+      "description": "ShrinkWrap creates clean, watertight meshes from any input geometry. It is ideal for 3D printing, manufacturing workflows, and preparing complex models by wrapping them into a solid, manifold mesh."
+    },
+    "capabilities": {
+      "title": "Key capabilities",
+      "items": {
+        "watertight": {
+          "title": "Watertight meshes",
+          "desc": "Generate closed, manifold meshes that pass 3D print checks."
+        },
+        "combine": {
+          "title": "Combine complex sets",
+          "desc": "Unify multiple parts into a single shell without manual booleans."
+        },
+        "scanData": {
+          "title": "Scan data cleanup",
+          "desc": "Wrap noisy scans/point-cloud derived data into clean surfaces."
+        },
+        "robust": {
+          "title": "Robust on mixed inputs",
+          "desc": "Works with NURBS, SubD, meshes, and mixed model types."
+        },
+        "parameters": {
+          "title": "Parameter control",
+          "desc": "Adjust offset, target detail, and gap filling behavior."
+        },
+        "manufacturing": {
+          "title": "Manufacturing ready",
+          "desc": "Produce shells suitable for downstream CAM and printing."
+        }
+      }
+    },
+    "workflow": {
+      "title": "Suggested workflow",
+      "steps": [
+        "Prepare your input: select geometry (NURBS/SubD/mesh) you want to wrap",
+        "Run ShrinkWrap and choose an offset if you need clearance",
+        "Set target detail for the mesh quality and processing time trade-off",
+        "Fill holes and small gaps to ensure a closed, watertight shell",
+        "Validate: run mesh checks or slice a test to confirm print readiness"
+      ]
+    },
+    "tips": {
+      "title": "Tips & best practices",
+      "items": {
+        "detail": {
+          "title": "Balance detail vs speed",
+          "desc": "Use moderate target detail first; increase only if needed."
+        },
+        "offset": {
+          "title": "Offset for tolerance",
+          "desc": "Positive offset adds clearance; 0 keeps the shell tight."
+        },
+        "clean": {
+          "title": "Pre-clean inputs",
+          "desc": "Delete stray parts or extreme outliers before wrapping."
+        },
+        "thickness": {
+          "title": "Check for thin regions",
+          "desc": "Ensure minimum wall thickness for your printer and material."
+        }
+      }
+    }
+  },
+  "products": {
+    "rhinoceros": "Rhinoceros 8",
+    "orangRhino": "Orang-Rhino & Ant3D",
+    "rhinocam": "RhinoCAM",
+    "voxeldanceAdditive": "VoxelDance Additive",
+    "voxeldanceManufacturing": "VoxelDance Manufacturing",
+    "voxeldanceEngineering": "VoxelDance Engineering",
+    "rizomuv": "RizomUV"
+  },
+  "productPages": {
+    "voxeldanceManufacturing": {
+      "hero": {
+        "title": "VoxelDance Manufacturing",
+        "subtitle": "Powerful build preparation software for additive manufacturing",
+        "learnMore": "Learn More",
+        "watchDemo": "Watch Demo"
+      },
+      "about": {
+        "title": "About VoxelDance Manufacturing",
+        "description": "VoxelDance Manufacturing is a powerful 3D printing build preparation software for popular 3D printing applications such as prototypes, shoe molds, dental polymer/metal, jewelry, healthcare, education, industrial molds, consumer products, etc. It is compatible with LPBF, SLA, DLP and SLS 3D printing technologies. Thanks to the optimized VDK geometry engine and highly streamlined workflow, users can quickly achieve 3D printing build preparation and production efficiency, and the printing success rate has been significantly improved.",
+        "buildPreparation": "Build Preparation Software"
+      },
+      "features": {
+        "importFormats": {
+          "title": "Just import all the formats.",
+          "description": "Supports nearly all the file formats, bridges the gap between CAD files and 3D printers. Seamlessly import from any CAD software and export to your 3D printer.",
+          "meshFormats": "Mesh & 3D Printing Formats",
+          "cadFormats": "CAD Formats"
+        },
+        "repair": {
+          "title": "Repairing files was never so easy.",
+          "description": "Provides you powerful fix tools to create water-tight data and achieve perfect printing.",
+          "identifyErrors": "Help you identify file errors",
+          "autoRepair": "Automatically repair files just with one click"
+        },
+        "orientation": {
+          "title": "Powerful Orientation Tools",
+          "description": "Unique orientation for dental printing. Just with one click, all of the crown cups face in an upright position automatically. This reduces manual operation and greatly improves process efficiency and quality assurance."
+        },
+        "nesting": {
+          "title": "Nest Your Parts in 2D/3D Automatically and Fast.",
+          "description": "VoxelDance Manufacturing not only can complete 2D/3D nesting placement quickly, it also provides multiple placement options. These options include X/Y-axis orientation, blade direction, and platform layout alignment."
+        },
+        "supports": {
+          "title": "Multiple Supports for SLA, LPBF and DLP.",
+          "description": "VoxelDance Manufacturing provides you powerful support types that are compatible with DLP, SLA, and LPBF technologies.",
+          "supportTypes": "Support types include:",
+          "barSupport": "Bar support",
+          "pointSupport": "Point support",
+          "lineSupport": "Line support",
+          "blockSupport": "Block support",
+          "smartSupport": "Smart support"
+        },
+        "hatches": {
+          "title": "Enhance Your Slice Files with Hatches",
+          "description": "VoxelDance Manufacturing could generate slices and add hatches with one click. Export slice file as multiple format, including CLI, SLC, PNG, SVG etc. Its integrated visualization interface allows you to check slices and hatches conveniently."
+        }
+      },
+      "cta": {
+        "title": "Ready to get started?",
+        "description": "Experience the power of VoxelDance Manufacturing for your additive manufacturing workflow",
+        "requestDemo": "Request Demo",
+        "contactSales": "Contact Sales"
+      }
+    },
+    "jevero": {
+      "hero": {
+        "title": "Easy pattern making, on top of Rhino.",
+        "subtitle": "Create and modify patterns with ease and efficiency. Jevero integrates seamlessly with Rhino and adds powerful parametric tools that enable a smooth pattern development process.",
+        "requestDemo": "Request a demo",
+        "contactUs": "Contact us"
+      },
+      "description": {
+        "text": "Jevero plugin makes pattern engineering smooth and reliable, with quick, intuitive grading and post processing features. Output patterns for most cutting machines and plotters. Jevero's advanced features also include automatic nesting, fabric utilization optimization, and easy-to-use marker making tools, making the production process even more efficient and cost-effective."
+      },
+      "highlights": {
+        "robustGrading": {
+          "title": "Robust grading",
+          "description": "With Jevero you can visualize your designs and make precise pattern adjustments, ensuring a perfect fit for your shoes. With a user-friendly interface that incorporates familiar tools, allowing those with experience in other shoe CAD software to easily adapt and feel at home when working with Jevero."
+        },
+        "fitsPipeline": {
+          "title": "Fits to your pipeline",
+          "description": "We support all the major file extensions on the market. We also have invested to be able to support Crispin Engineer .shoe and .pat files. To support your legacy, to have a quicker transition to our tool."
+        },
+        "supportedByManufacturers": {
+          "title": "Supported by major cutting machine manufacturers and post-processing tools",
+          "description": "With compatibility for formats such as DXF, PLT, HPGL, L2N, and more, Jevero provides a professional and seamless integration with various systems in the footwear industry."
+        },
+        "worldOfTools": {
+          "title": "A world of tools: design, prototype, product",
+          "description": "We support all the usual workflows and the most advanced one. From the creation of the patterns to the grading, review and production preparation, from one prototyping to final mass production."
+        }
+      },
+      "features": {
+        "title": "Main features",
+        "parametricPatterns": {
+          "title": "Parametric patterns",
+          "description": "Create pattern with dependencies that automatically track your changes across the model."
+        },
+        "grading": {
+          "title": "Grading",
+          "description": "Create the sample size and automatically grade to all the sizes, use grading centers and groups to precisely control the changes across sizes."
+        },
+        "partManagement": {
+          "title": "Part management",
+          "description": "Each pattern will be structured into parts that represent a singular assembly unit for the construction of the shoe. Organize your parts and easily assign them properties."
+        },
+        "dataExport": {
+          "title": "Data export",
+          "description": "Export all the created parts to your cutting tables. Jevero support a variety of diverse export format for all the needs."
+        },
+        "preciseMeasurements": {
+          "title": "Precise measurements",
+          "description": "Jevero offers many tools to measure each part of the shoe, whether it is in the sample size or across the grading."
+        },
+        "processing": {
+          "title": "Processing",
+          "description": "Create processing sheets for each part to instruct the workforce. Skiving, stitching or any other important step can be documented."
+        },
+        "layering": {
+          "title": "Layering",
+          "description": "Compute the amount of material that each shoe uses, easily estimate the custom and duties that you will have to pay for exports."
+        },
+        "dxfRebuilding": {
+          "title": "DXF rebuilding",
+          "description": "Import old models and easily bring them up to speed into Jevero with the rebuilding feature."
+        }
+      },
+      "cta": {
+        "title": "Contact us to bring your footwear process into the future with",
+        "subtitle": "The FOOTWEARkit for Rhino",
+        "requestDemo": "Request a demo"
+      }
+    },
+    "botcha": {
+      "hero": {
+        "title": "Virtual prototypes as fast as possible",
+        "subtitle": "Botcha is the ultimate 3D footwear tool, offering an intuitive user interface built on Rhinoceros. Discover all the features and preset that will speed up your modelling process.",
+        "requestDemo": "Request a demo",
+        "contactUs": "Contact us"
+      },
+      "highlights": {
+        "remapping": {
+          "title": "Remapping and UV Editing",
+          "description": "Botcha's UV tools allow for quick flattening, texture manipulations and material simulation. Precise unwrapping that minimize the distortion and automated chart layout that preserve the correct sizing with your 3D model."
+        },
+        "tooling": {
+          "title": "Tooling digital textures",
+          "description": "Appling displacement textures to toolings and molded parts has never been so easy. Botcha tooling texture manager can handle textures from preview quality to production ready files. Export and clean your toolings directly for laser engravings or 3D printing."
+        },
+        "lacing": {
+          "title": "Last, lacing and stitching presets",
+          "description": "Botcha offers presets to quickly add laces and stitching to 3D shoe models, saving time and effort. You can also create a custom library of patterns, ensuring flexibility and precision for tailored designs."
+        },
+        "grasshopper": {
+          "title": "Grasshopper Nodes",
+          "description": "Use Grasshopper with Botcha to enhance automation and customization in your footwear design process. Create parametric models and automate repetitive tasks, enabling seamless adjustments and increasing efficiency."
+        }
+      },
+      "gallery": {
+        "title": "Gallery showcase"
+      },
+      "features": {
+        "title": "Main Features",
+        "uvUnwrap": {
+          "title": "UV Unwrap",
+          "description": "Generate a 2D version of the 3D object minimizing the stretch of the original mesh. The 2D version will be stored within the object as a texture mapping channel."
+        },
+        "drawOnMesh": {
+          "title": "Draw on mesh",
+          "description": "Easily draw a curve laying on a mesh, simply selecting the mesh and choosing the points you want the curve to go through."
+        },
+        "uvTransfer": {
+          "title": "UV Transfer",
+          "description": "Texturing is a crucial step in creating realistic 3D models. With the UV Tranfer tool, you can ensure your textures are always perfectly aligned."
+        },
+        "changeLast": {
+          "title": "Change Last",
+          "description": "Moves planar curves from a flatten last to another one and generates two meshes with the same topology for the source and target last curves respectively."
+        },
+        "remapObject": {
+          "title": "Remap object",
+          "description": "This functionality allows an object to be modeled in an advantageous condition (e.g. on a 2D plane) and remapped onto another 3D surface."
+        },
+        "flattenLast": {
+          "title": "Flatten Last",
+          "description": "Flatten the last and add its boundary to the document as a curve and simplifies the pattern engineers' workflow."
+        },
+        "projectMesh": {
+          "title": "Project Mesh",
+          "description": "Projects a mesh onto one or more other meshes. It is useful, for example, to \"stick\" objects like logos to the shoe."
+        },
+        "softEdit": {
+          "title": "Soft Edit",
+          "description": "Change a mesh by applying a transformation proportionally to neighbors of the selected vertices."
+        }
+      },
+      "cta": {
+        "title": "Contact us to bring your footwear process into the future with",
+        "subtitle": "The FOOTWEARkit for Rhino",
+        "requestDemo": "Request a demo"
+      }
+    },
+    "rhinoceros": {
+      "hero": {
+        "badge": "Leading CAD Software Worldwide",
+        "title": "New in Rhino 8",
+        "subtitle": "Rhino 8 brings new modeling tools like ShrinkWrap, a huge speed boost for Mac users, SubD Creases, PushPull workflows, better drafting tools, a more customizable User Interface, a faster Render engine, new Grasshopper data types, and much more.",
+        "contactButton": "Contact",
+        "downloadButton": "Download Trial"
+      },
+      "tabs": {
+        "overview": "Overview",
+        "features": "Features",
+        "videos": "Videos & Demo",
+        "cases": "Case Studies",
+        "specs": "Specifications",
+        "pricing": "Pricing",
+        "reviews": "Reviews"
+      },
+      "overview": {
+        "title": "New in Rhino 8",
+        "description": "Rhino 8 brings new modeling tools like ShrinkWrap, a huge speed boost for Mac users, SubD Creases, PushPull workflows, better drafting tools, a more customizable User Interface, a faster Render engine, new Grasshopper data types, and much more.",
+        "shrinkwrap": {
+          "title": "ShrinkWrap",
+          "subtitle": "Turn Garbage To Gold",
+          "description": "ShrinkWrap creates a watertight mesh around open or closed meshes, NURBS geometry, SubD, and point clouds: ideal for creating meshes for 3D printing."
+        },
+        "mac": {
+          "title": "Built for Mac",
+          "subtitle": "Metal",
+          "description": "Rhino for Mac is faster than ever, running natively on both Apple Silicon and Intel Macs, and using the Apple Metal display technology."
+        },
+        "subd": {
+          "title": "SubD Creases",
+          "description": "SubD Creases create a feature between a smooth and a sharp edge, without adding complexity to the SubD control net, great for making fillet-like features."
+        },
+        "modeling": {
+          "title": "Modeling: Simplified",
+          "description": "Rhino 8 unlocks new modeling workflows — like PushPull — and adds intuitive new features to the Gumball, Automatic CPlanes, and more."
+        }
+      },
+      "features": {
+        "title": "Key Features",
+        "description": "Discover the powerful features of Rhinoceros 8"
+      },
+      "videos": {
+        "title": "Videos & Demo",
+        "description": "Watch tutorials and demonstrations of Rhinoceros 8"
+      },
+      "cases": {
+        "title": "Case Studies",
+        "description": "Real-world applications of Rhinoceros 8"
+      },
+      "specs": {
+        "title": "Technical Specifications",
+        "description": "System requirements and detailed information"
+      },
+      "pricing": {
+        "title": "Pricing",
+        "description": "Choose the plan that fits your needs"
+      },
+      "reviews": {
+        "title": "Customer Reviews",
+        "description": "What our customers say about Rhinoceros 8"
+      },
+      "gallery": {
+        "viewing": "Viewing",
+        "allDetails": "All the details",
+        "items": {
+          "shrinkwrap": {
+            "alt": "ShrinkWrap",
+            "title": "ShrinkWrap: Turn Garbage To Gold",
+            "description": "ShrinkWrap creates a watertight mesh around open or closed meshes, NURBS geometry, SubD, and point clouds. It is ideal for creating meshes for 3D printing, solid union meshes from multiple objects, and valid closed meshes from broken or often hard-to-repair geometry.",
+            "features": [
+              "Meshes for 3D printing",
+              "A solid union mesh from multiple objects",
+              "A solid mesh from 3D scan data fragments",
+              "Meshes without internal self-intersections",
+              "Offset meshes for shelling",
+              "Meshes from point clouds when reverse engineering",
+              "Valid closed meshes from broken geometry"
+            ]
+          },
+          "subdCreases": {
+            "alt": "SubD Creases",
+            "title": "SubD Creases",
+            "description": "SubD Creases create a feature between a smooth and a sharp edge, without adding complexity to the SubD control net. This allows for accurate, organic modeling that is editable and highly accurate, combining free-form accuracy with quick editing.",
+            "features": [
+              "Weighted edges for smooth to sharp transitions",
+              "No extra control net complexity",
+              "Ideal for fillet-like features",
+              "Accurate organic modeling",
+              "Push and pull to explore complex shapes",
+              "Convertible to manufacturable solids"
+            ]
+          },
+          "macMetal": {
+            "alt": "Mac Metal",
+            "title": "Built for Mac: Metal",
+            "description": "Rhino for Mac is now faster than ever on Intel and Apple Silicon Macs. Powered by Metal, our new display pipeline delivers hardware-accelerated graphics for high frame rates and large resolutions, even in complex, detailed models.",
+            "features": [
+              "Hardware-accelerated graphics via Metal",
+              "High frame rates and large resolutions",
+              "Fluid pan, zoom, and orbit in complex models",
+              "Speed increases up to 24x",
+              "Cycles Render Engine built on Metal",
+              "Universal App for Intel and Apple Silicon"
+            ]
+          },
+          "modelingSimplified": {
+            "alt": "Modeling Simplified",
+            "title": "Modeling: Simplified",
+            "description": "Rhino 8 adds new features to make modeling more playful and accessible. Combining tools like PushPull, Gumball, and Auto CPlanes reduces friction for common solid creation and editing tasks, allowing you to stay in a single Perspective view.",
+            "features": [
+              "PushPull: Add/remove volumes using curves",
+              "Enhanced Gumball for intuitive manipulation",
+              "Auto CPlanes: Smarter alignment",
+              "Inset tool for face manipulation",
+              "Improved object snapping",
+              "Streamlined solid creation workflows"
+            ]
+          }
+        }
+      }
+    },
+    "orangRhino": {
+      "hero": {
+        "badge": "Professional Footwear Design Plugin",
+        "title": "Orang-Rhino & Ant3D",
+        "subtitle": "Advanced Sole Design",
+        "description": "Professional-grade plugin for Rhinoceros 3D, specifically designed for footwear sole design. Create complex sole patterns, multi-layer structures, and precision-engineered footwear components with industry-leading tools.",
+        "contactButton": "Contact Sales",
+        "downloadButton": "Download Trial"
+      },
+      "tabs": {
+        "overview": "Overview",
+        "features": "Features",
+        "videos": "Videos & Demo",
+        "cases": "Case Studies",
+        "specs": "Specifications",
+        "pricing": "Pricing",
+        "reviews": "Reviews"
+      },
+      "overview": {
+        "title": "Professional Footwear Design",
+        "description": "Orang-Rhino & Ant3D is the industry-leading plugin for Rhinoceros 3D, specifically designed for footwear sole design. Create complex sole patterns, multi-layer structures, and precision-engineered components with professional-grade tools."
+      },
+      "orang": {
+        "title": "Orang Shoe Design Software",
+        "description1": "Orang is a professional and efficient shoe design software. 3D modeling has become an indispensable part of the shoe design process in recent years. It enables designers and developers to create various new models, visualize designs with greater accuracy, efficiency, and innovation.",
+        "description2": "Orang is a plugin that works integrated with Rhinoceros and is entirely dedicated to the footwear industry. With a focus on productivity, Orang's tools can reduce the production cycle time by up to",
+        "description3": "from project development to mold assembly.",
+        "benefits": {
+          "timeReduction": {
+            "title": "60% Time Reduction",
+            "description": "Reduce production cycle time significantly"
+          },
+          "personalized": {
+            "title": "More Personalized Designs",
+            "description": "Create unique and customized footwear"
+          },
+          "moldTime": {
+            "title": "Shortened Mold Lead Time",
+            "description": "Faster mold production and assembly"
+          },
+          "modernTech": {
+            "title": "Modern Technology",
+            "description": "Environmental protection and efficiency"
+          }
+        },
+        "modules": {
+          "title": "Functional Modules",
+          "subtitle": "Comprehensive tools for professional footwear design",
+          "overview": "Overview",
+          "curve": {
+            "name": "Curve Tools",
+            "nameVi": "Curves",
+            "description": "Advanced curve manipulation tools for precise footwear design"
+          },
+          "surface": {
+            "name": "Surface Tools",
+            "nameVi": "Surfaces",
+            "description": "Create complex shapes and surfaces with advanced tools"
+          },
+          "morph": {
+            "name": "Morph Tools",
+            "nameVi": "Morph",
+            "description": "Powerful tools for modifying contours, profiles, and creating complex geometries"
+          },
+          "mould": {
+            "name": "Mould Tools",
+            "nameVi": "Mould",
+            "description": "Resources for manipulating and extracting data from STL objects and surfaces"
+          },
+          "reverse": {
+            "name": "Reverse Engineering",
+            "nameVi": "Reverse Engineering",
+            "description": "Tools dedicated to reconstruction of objects in .stl format"
+          },
+          "texture": {
+            "name": "Textures",
+            "nameVi": "Textures",
+            "description": "Texture soles and other products using black and white and grayscale images"
+          },
+          "grade": {
+            "name": "Orang Grade",
+            "nameVi": "Grade",
+            "description": "Scale soles, uppers, and both unified with various restrictions to reduce molds and standardize thickness"
+          }
+        }
+      },
+      "ant3d": {
+        "title": "Ant3D",
+        "description": "Advanced 3D modeling and prototyping solution for footwear design. Streamline your design process with powerful tools and intuitive workflows.",
+        "description2": "Deep design solution for the footwear industry with advanced 3D technology, helping to optimize the footwear design and manufacturing process from concept to final product.",
+        "features": {
+          "modeling": {
+            "title": "3D Modeling Tools",
+            "description": "Comprehensive 3D modeling capabilities for footwear design and prototyping."
+          },
+          "prototyping": {
+            "title": "Rapid Prototyping",
+            "description": "Fast and efficient prototyping tools to bring your designs to life quickly."
+          },
+          "documentation": {
+            "title": "Design Documentation",
+            "description": "Complete documentation and export capabilities for production workflows."
+          },
+          "quality": {
+            "title": "Quality Assurance",
+            "description": "Built-in quality checks and validation tools to ensure design accuracy."
+          }
+        },
+        "modules": {
+          "title": "Functional Modules",
+          "subtitle": "Comprehensive tools for professional footwear design and manufacturing",
+          "overview": "Overview",
+          "modeling": {
+            "name": "3D Modeling",
+            "nameVi": "Mô hình 3D",
+            "description": "Advanced 3D modeling tools for creating complex footwear components with precision and efficiency."
+          },
+          "pattern": {
+            "name": "Pattern Design",
+            "nameVi": "Thiết kế Pattern",
+            "description": "Comprehensive 2D pattern design and development tools for footwear upper components."
+          },
+          "last": {
+            "name": "Last Design",
+            "nameVi": "Thiết kế Last",
+            "description": "Digital last creation, modification, and grading tools for accurate shoe fit and comfort."
+          },
+          "upper": {
+            "name": "Upper Design",
+            "nameVi": "Thiết kế Upper",
+            "description": "Complete upper design and development workflow from 3D to 2D pattern."
+          },
+          "sole": {
+            "name": "Sole Design",
+            "nameVi": "Thiết kế Đế",
+            "description": "Integrated sole design tools working seamlessly with Orang-Rhino for comprehensive sole solutions."
+          },
+          "prototyping": {
+            "name": "Rapid Prototyping",
+            "nameVi": "Tạo mẫu nhanh",
+            "description": "Fast prototyping workflows for quick iteration and validation of footwear designs."
+          },
+          "manufacturing": {
+            "name": "Manufacturing",
+            "nameVi": "Sản xuất",
+            "description": "Production-ready tools and documentation for seamless transition from design to manufacturing."
+          },
+          "manual": {
+            "name": "User Manual",
+            "nameVi": "Hướng dẫn sử dụng",
+            "description": "Detailed instruction manual for using Ant3D Digital Biting Software with comprehensive features and functions."
+          }
+        }
+      },
+      "gallery": {
+        "title": "Video Gallery",
+        "subtitle": "Explore our product demonstrations and tutorials",
+        "requestDemo": {
+          "titleOrang": "Request Orang-Rhino Demo",
+          "titleAnt3d": "Request Ant3D Demo",
+          "description": "Want to see more? Contact us for a personalized demo or get in touch with our team.",
+          "button": "Request Demo",
+          "contactButton": "Contact Us"
+        }
+      },
+      "cta": {
+        "title": "Transform your footwear design workflow",
+        "subtitle": "With Orang-Rhino & Ant3D",
+        "description": "Professional tools designed for modern footwear manufacturing. Get started today with our comprehensive solutions."
+      },
+      "features": {
+        "title": "Key Features",
+        "description": "Discover the powerful features of Orang-Rhino & Ant3D"
+      },
+      "videos": {
+        "title": "Videos & Demo",
+        "description": "Watch tutorials and demonstrations of Orang-Rhino & Ant3D"
+      },
+      "cases": {
+        "title": "Case Studies",
+        "description": "Real-world applications of Orang-Rhino & Ant3D"
+      },
+      "specs": {
+        "title": "Specifications",
+        "description": "Technical specifications and requirements"
+      },
+      "pricing": {
+        "title": "Pricing",
+        "description": "Choose the plan that fits your needs"
+      },
+      "reviews": {
+        "title": "Customer Reviews",
+        "description": "What our customers say about Orang-Rhino & Ant3D"
+      }
+    },
+    "rhinocam": {
+      "hero": {
+        "title": "RhinoCAM",
+        "subtitle": "CAM Software Plugin integrated directly inside Rhinoceros 3D CAD software",
+        "description": "RhinoCAM is a powerful CAM (Computer-Aided Manufacturing) plugin built specifically for Rhino 3D, designed to help CNC programmers, machinists, and engineers generate accurate toolpaths directly within their Rhino workflow. Supports machining from 2-axis to 5-axis with full professional features.",
+        "tryFree": "Try for Free",
+        "buyNow": "Buy Now",
+        "imageError": "Unable to load image"
+      },
+      "overview": {
+        "title": "Overview",
+        "whatIs": {
+          "title": "What is RhinoCAM?",
+          "description": "RhinoCAM is a powerful CAM (Computer-Aided Manufacturing) plugin built specifically for Rhino 3D, designed to help CNC programmers, machinists, and engineers generate accurate toolpaths directly within their Rhino workflow. It supports toolpath creation from 2-axis to 5-axis (2½, 3, 4, and 5-axis), simulation, and post-processing, all inside Rhino's modeling environment.",
+          "features": [
+            "Fully integrated with Rhino (Windows only)",
+            "CAM engine powered by VisualCAM",
+            "Ideal for professionals working on complex 3D parts and freeform geometry"
+          ],
+          "modules": "RhinoCAM includes modules for MILL, TURN, NEST & ART"
+        },
+        "whatDoes": {
+          "title": "What Does RhinoCAM Do?",
+          "description": "RhinoCAM brings advanced manufacturing capabilities directly into Rhino. Without switching between programs, users can:",
+          "capabilities": [
+            "Generate toolpaths for 2½, 3, 4, and 5-axis CNC machining",
+            "Simulate tool movements to detect collisions or errors before cutting",
+            "Post-process created toolpaths to generate machine-ready G-code for a wide range of CNC machines/controllers",
+            "Adjust operations dynamically: RhinoCAM is fully associative to geometry changes in Rhino"
+          ],
+          "idealFor": "This makes RhinoCAM ideal for rapid prototyping, production machining, and advanced manufacturing in industries like mold-making, woodworking, aerospace, and custom fabrication."
+        }
+      },
+      "modules": {
+        "title": "Modules",
+        "mill": {
+          "name": "RhinoCAM – MILL",
+          "description": "Full-featured milling module for 2½, 3, 4, and 5-axis machining"
+        },
+        "turn": {
+          "name": "RhinoCAM – TURN",
+          "description": "Turning module for rotary axis machining and cylindrical parts"
+        },
+        "nest": {
+          "name": "RhinoCAM – NEST",
+          "description": "Parts nesting module to optimize material utilization"
+        },
+        "art": {
+          "name": "RhinoCAM – ART",
+          "description": "Artistic module for creating 3D models from bitmap images"
+        }
+      },
+      "configurations": {
+        "title": "Configurations",
+        "description": "RhinoCAM CAM software comes in 5 different configurations to suit the varied machining needs of our customers.",
+        "mainFeatures": "Key Features:",
+        "for": "Who It's For:",
+        "contactForPrice": "Contact for Pricing",
+        "xpr": {
+          "name": "RhinoCAM Xpress (XPR)",
+          "description": "General purpose program tailored for hobbyists, makers and students. Ideal for getting started with CAM programming. Includes 2 & 3 axis machining methods.",
+          "features": [
+            "2 & 3 axis machining methods",
+            "NEST and ART included free",
+            "Easy to use",
+            "Affordably priced"
+          ],
+          "for": "Perfect for educators, CNC beginners, and makers working on small-scale prototypes and desktop machines."
+        },
+        "std": {
+          "name": "RhinoCAM Standard (STD)",
+          "description": "General purpose machining program targeted at the general machinist. Ideal for rapid-prototyping, hobby and educational markets.",
+          "features": [
+            "2-1/2 Axis, 3 Axis and Drilling",
+            "TURN, NEST and ART included free",
+            "Easy to use",
+            "Rapid prototyping"
+          ],
+          "for": "Ideal for general machinists and prototyping workshops focused on ease of use and rapid results. Suited for production machining."
+        },
+        "exp": {
+          "name": "RhinoCAM Expert (EXP)",
+          "description": "This configuration allows 4th Axis Indexed and continuous roughing and finishing operations. Includes all functionality from STD configuration.",
+          "features": [
+            "4th Axis Indexed and continuous",
+            "4 Axis Facing, Pocketing, Profiling",
+            "Roughing and Finishing",
+            "TURN, NEST and ART included free"
+          ],
+          "for": "Suited for experienced machinists and shops needing to perform complex 4-axis indexing and continuous machining, such as those in wood working or custom furniture industries."
+        },
+        "pro": {
+          "name": "RhinoCAM Professional (PRO)",
+          "description": "Powerful package ideal for mold, die and tooling, wood working rapid-prototyping and general machining markets.",
+          "features": [
+            "All EXP functionality",
+            "Powerful toolpath generation strategies",
+            "Efficient cutting tool control",
+            "TURN, NEST and ART included free"
+          ],
+          "for": "Designed for advanced manufacturing users in mold making, tooling, and woodworking who require sophisticated toolpath control and precision."
+        },
+        "pre": {
+          "name": "RhinoCAM Premium (PRE)",
+          "description": "This package includes 5 Axis continuous machining functionality. Suitable for highly sophisticated machining requirements.",
+          "features": [
+            "5 Axis continuous machining",
+            "Surface normal machining",
+            "Swarf machining",
+            "Surface flow machining",
+            "All PRO functionality"
+          ],
+          "for": "Built for aerospace, advanced mold-making, and specialized woodworking professionals who need the highest level of continuous 5-axis control and advanced machining methods."
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "What is RhinoCAM?",
+            "answer": "RhinoCAM is an advanced CAM software plugin that operates directly inside of Rhinoceros (Windows only). It is used by CNC programmers and machinists to generate multi-axis toolpaths, perform machining simulations, and create G-code for CNC machines."
+          },
+          {
+            "question": "What type of machining does RhinoCAM support?",
+            "answer": "RhinoCAM supports a wide range of machining operations, including 2½, 3, 4, and 5-axis milling, as well as turning and nesting. It is a comprehensive solution for various CNC manufacturing needs."
+          },
+          {
+            "question": "Is RhinoCAM an independent software?",
+            "answer": "No, RhinoCAM is a plugin that requires a licensed installation of Rhinoceros to run. Its seamless integration means it uses the native Rhino environment, making the workflow intuitive for existing Rhino users."
+          },
+          {
+            "question": "How does RhinoCAM compare to other CAM software?",
+            "answer": "RhinoCAM is known for its deep integration with the Rhino 3D modeling environment, which provides a seamless workflow and associativity to model changes. Its comprehensive set of features, from 2½ to 5-axis machining, and a wide selection of post-processors make it a powerful and cost-effective choice for professionals who already use Rhino."
+          },
+          {
+            "question": "What types of CNC machines does RhinoCAM support?",
+            "answer": "RhinoCAM includes a wide library of post-processors and supports machines that require G-code, including 3-axis mills, 4-axis rotary tables, and full 5-axis machines."
+          }
+        ]
+      },
+      "contact": {
+        "title": "3C CNC Software",
+        "subtitle": "Authorized distributor of RhinoCAM software in Vietnam",
+        "phone": "Phone",
+        "email": "Email",
+        "website": "Website",
+        "contactButton": "Contact for Consultation"
+      },
+      "officialLink": {
+        "text": "Learn more about RhinoCAM at the official website:",
+        "url": "mecsoft.com/products/rhinocam/"
+      },
+      "mill": {
+        "hero": {
+          "title": "RhinoCAM – MILL",
+          "subtitle": "CNC milling plugin for Rhino 3D",
+          "description": "RhinoCAM-MILL is a CNC milling plugin for Rhino 3D and one of the five modules in the RhinoCAM CAM software suite. It's designed for CNC programmers, machinists, and engineers who need precise 2½, 3, 4, and full 5-axis machining directly inside Rhino."
+        },
+        "overview": {
+          "title": "Overview",
+          "description": "Powered by the VisualMILL CAM engine, this multi-axis CAM software combines Rhino's freeform modeling capabilities with advanced toolpath creation, simulation, and post-processing.",
+          "features": [
+            "Works inside Rhino 8 (Windows only)",
+            "Hundreds of free post-processors plus a custom post-processor generator"
+          ],
+          "whatDoes": {
+            "title": "What Does RhinoCAM-MILL Do?",
+            "description": "RhinoCAM-MILL equips manufacturers with the tools to:",
+            "capabilities": [
+              "Create precision toolpaths for 2½-axis to 5-axis CNC milling",
+              "Simulate operations to detect collisions and optimize cutting strategies",
+              "Generate machine-ready G-code for a wide range of CNC controllers",
+              "Allows machining automation through scripts, Knowledge Bases and API"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Applications",
+          "items": [
+            "Woodworking, cabinetry, musical instrument making",
+            "Mold, die, and tooling manufacturing",
+            "Rapid prototyping for product development",
+            "General machining for metal, plastic, or composite parts"
+          ]
+        },
+        "features": {
+          "title": "Feature List",
+          "tabs": [
+            { "id": "2half", "name": "2½-Axis Milling" },
+            { "id": "3axis", "name": "3 Axis Milling" },
+            { "id": "4axis", "name": "4 Axis Milling" },
+            { "id": "5axis", "name": "5 Axis Milling" },
+            { "id": "other", "name": "Other Features" }
+          ],
+          "categories": [
+            {
+              "id": "2half",
+              "name": "2½-AXIS MILLING",
+              "features": [
+                { "name": "Pocketing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Profiling", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Facing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Engraving", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "V-Carving", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "V-Carve Roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "2-1/2 Axis Feature Detection", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "2-1/2 Axis Feature Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "2-1/2 Axis Roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "High Speed Pocketing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Chamfering", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Hole Profiling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Hole Pocketing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "T-Slot Milling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Slot Milling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Thread Milling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Drag & Rotary Knife Cutting", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Saw Machining", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Re-Machining", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true }
+              ]
+            },
+            {
+              "id": "3axis",
+              "name": "3 AXIS MILLING",
+              "features": [
+                { "name": "Horizontal Roughing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Parallel Finishing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "3 Axis Feature Detection", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "3 Axis Feature Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Horizontal Finishing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Radial Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Spiral Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Clear Flats Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Plunge Roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Horizontal Re-roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Plunge Re-roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Projection Pocketing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "3D Offset Profiling", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "3D Offset Pocketing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Pencil Tracing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Valley Re-Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Plateau Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Steep Area Parallel Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Horizontal Hill Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Curve Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Between 2 Curves Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Reverse Post Machining", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true }
+              ]
+            },
+            {
+              "id": "4axis",
+              "name": "4 AXIS MILLING",
+              "features": [
+                { "name": "4 Axis Indexed Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Auto Multiple Indexing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Facing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Pocketing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Profiling", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Engraving", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Parallel Roughing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Parallel Finishing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Radial Finishing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Projection Pocketing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Drive Surface Machining (True 4 Axis)", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true }
+              ]
+            },
+            {
+              "id": "5axis",
+              "name": "5 AXIS MILLING",
+              "features": [
+                { "name": "5 Axis Indexed Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Curve Projection Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Continuous Flow Curve Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Between 2 Curves Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Drive Curve Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Surface Normal Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Swarf Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true }
+              ]
+            },
+            {
+              "id": "other",
+              "name": "OTHER FEATURES",
+              "features": [
+                { "name": "Automatic Hole Selection, Sorting", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Drilling", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Tapping", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Boring", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Reverse Boring", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "User Defined Cycles", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Drilling", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Tapping", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Boring", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Reverse Boring", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Animation", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Cut Material Simulation", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Advanced Cut Material Simulation", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Visual Holder Collision Detection", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Machine Tool Simulation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Standard Tools (Ball, Flat, C Rad., Vee, Drill)", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Advanced Tools (Taper,Tap,Bore,R.Bore)", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Form Tools", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Stepped Tools", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Analytical Holder Collision Detection", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Toolpath Graphical Viewing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Graphical Editing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Instancing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Arc Fitting", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Customizable Post Generator", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Simulate Cycles", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Arc Output", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Helix Output", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Spiral Output", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "5 Axis Output", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "64 Bit", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "HTML Shop Documentation", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Avoid Regions", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Predefined Regions", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Default Knowledge Base", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Machine Control Operations", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Cabinet Design Decomposition", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Rotate Table Setups", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Multiple Setups", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Fixture Offset Programming", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Check Surface Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Tool Silhouette Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Tool Double Contact Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Tool Holder Collision Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true }
+              ]
+            }
+          ]
+        },
+        "faq": {
+          "title": "Frequently Asked Questions",
+          "items": [
+            {
+              "question": "Does RhinoCAM-MILL come with RhinoCAM?",
+              "answer": "Yes, RhinoCAM-MILL is one of the core modules in the RhinoCAM suite. You can purchase it individually or as part of a bundled configuration."
+            },
+            {
+              "question": "What kinds of CNC milling machines can I use with RhinoCAM-MILL?",
+              "answer": "It works with a wide range of machines, from standard 3-axis mills to advanced 5-axis machining centers. You'll also get hundreds of ready-to-use post-processors for popular machine brands."
+            },
+            {
+              "question": "Is training or technical support included with RhinoCAM-MILL?",
+              "answer": "Yes. MecSoft provides documentation, tutorials, and support resources to help you get started quickly. Training options are also available for teams who want to accelerate adoption."
+            },
+            {
+              "question": "Can I customize post-processors for my CNC machine?",
+              "answer": "Absolutely. In addition to the included library, RhinoCAM-MILL comes with a post-processor generator so you can create outputs tailored to your specific machine and controller. We also offer a post-processor writing service to handle complex post-processing requirements."
+            },
+            {
+              "question": "Does RhinoCAM-MILL run on Mac computers?",
+              "answer": "No, it's designed for Rhino 8 on Windows only."
+            }
+          ]
+        }
+      },
+      "turn": {
+        "hero": {
+          "title": "RhinoCAM-Turn",
+          "subtitle": "CNC turning plugin for Rhino 3D",
+          "description": "RhinoCAM-TURN is a CNC turning plugin for Rhino 3D and one of the five modules in the RhinoCAM CAM software suite. It's designed for CNC programmers, machinists, and engineers who need precise 2-axis turning operations directly inside Rhino."
+        },
+        "overview": {
+          "title": "Overview",
+          "description": "By keeping the entire process within the Rhino environment, it simplifies programming, reduces back-and-forth between software, and supports greater efficiency in production. Powered by the VisualMILL CAM engine, this module provides everything required to program, simulate, and output turning toolpaths for lathes and turning centers.",
+          "features": [
+            "Runs inside Rhino 8 (Windows only)",
+            "Supports complete 2-axis turning workflows",
+            "Included in RhinoCAM Standard, Expert, Professional, and Premium configurations"
+          ],
+          "whatDoes": {
+            "title": "What Does RhinoCAM-TURN Do?",
+            "description": "RhinoCAM-TURN enables you to create efficient, accurate turning operations without leaving the Rhino environment. You can:",
+            "capabilities": [
+              "Program roughing and finishing passes for external and internal profiles",
+              "Create grooves, threads, and parting operations",
+              "Perform hole machining on turned parts",
+              "Output machine-ready G-code using included or custom post-processors",
+              "Hundreds of free post-processors for common CNC lathes",
+              "Fully associative with Rhino geometry changes"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Applications",
+          "items": [
+            "Shafts, bushings, and cylindrical components",
+            "Automotive and aerospace turned parts",
+            "Custom tooling and fixtures",
+            "Prototyping and production runs on CNC lathes"
+          ]
+        },
+        "features": {
+          "title": "Feature List",
+          "tabs": [
+            { "id": "2axis", "name": "2 Axis Turning" },
+            { "id": "hole", "name": "Hole Making" },
+            { "id": "simulation", "name": "Toolpath Simulation" },
+            { "id": "post", "name": "Post-Processor Generator" }
+          ],
+          "categories": [
+            {
+              "id": "2axis",
+              "name": "2 AXIS TURNING",
+              "features": [
+                { "name": "Roughing" },
+                { "name": "Finishing" },
+                { "name": "Groove Roughing" },
+                { "name": "Groove Finishing" },
+                { "name": "Threading" },
+                { "name": "Follow Curve" },
+                { "name": "Parting Off" },
+                { "name": "Upgraded 3D Model Slicing" },
+                { "name": "Global Part Object" },
+                { "name": "Materials for Stock Models" },
+                { "name": "Knowledge Base Loading and Saving" },
+                { "name": "Tool Path Viewer" },
+                { "name": "MopSets" },
+                { "name": "Machine Control Operations" },
+                { "name": "Fixture Offset Operations" },
+                { "name": "Drag and drop operations from Knowledge Base" },
+                { "name": "Diameter programming" }
+              ]
+            },
+            {
+              "id": "hole",
+              "name": "HOLE MAKING",
+              "features": [
+                { "name": "Drilling" },
+                { "name": "Tapping" },
+                { "name": "Boring" },
+                { "name": "Reverse Boring" }
+              ]
+            },
+            {
+              "id": "simulation",
+              "name": "TOOLPATH SIMULATION",
+              "features": [
+                { "name": "Toolpath Animation" },
+                { "name": "Cut Material Simulation" },
+                { "name": "Part to Stock Comparison" }
+              ]
+            },
+            {
+              "id": "post",
+              "name": "POST-PROCESSOR GENERATOR",
+              "features": [
+                { "name": "User customizable post-processor generator" }
+              ]
+            }
+          ]
+        },
+        "faq": {
+          "title": "Frequently Asked Questions",
+          "items": [
+            {
+              "question": "Is RhinoCAM-TURN a standalone product?",
+              "answer": "No. RhinoCAM-TURN is a module within the RhinoCAM suite and is included in the Standard, Expert, Professional, and Premium configurations."
+            },
+            {
+              "question": "What types of CNC lathes can I use with RhinoCAM-TURN?",
+              "answer": "It supports a wide range of 2-axis CNC lathes and turning centers from most leading machine tool manufacturers."
+            },
+            {
+              "question": "Can I customize post-processors for my turning machine?",
+              "answer": "Absolutely. In addition to the built-in library, RhinoCAM-TURN includes a post-processor generator for creating outputs specific to your machine and controller."
+            },
+            {
+              "question": "Can I try RhinoCAM-TURN before buying it?",
+              "answer": "Yes. You can request a demo version to explore its turning capabilities before making a purchase."
+            },
+            {
+              "question": "How is RhinoCAM-TURN different from other turning CAM software?",
+              "answer": "RhinoCAM-TURN is fully integrated into Rhino 3D, allowing users to program, simulate, and generate G-code without switching between CAD and CAM platforms. This seamless workflow saves time and reduces errors compared to using standalone CAM applications."
+            }
+          ]
+        }
+      },
+      "nest": {
+        "hero": {
+          "title": "RhinoCAM – NEST",
+          "subtitle": "Efficient parts nesting and layout solution",
+          "description": "RhinoCAM-NEST provides a cost-effective solution for nesting and arranging geometric shapes onto material sheets, including both rectangular and true shape nesting."
+        },
+        "overview": {
+          "title": "Overview",
+          "description": "Parts nesting module optimized to maximize material utilization and reduce waste.",
+          "features": [
+            "Rectangular and true shape nesting",
+            "Material utilization optimization",
+            "Support for multiple sheets and parts"
+          ],
+          "whatDoes": {
+            "title": "What Does RhinoCAM-NEST Do?",
+            "description": "RhinoCAM-NEST helps you:",
+            "capabilities": [
+              "Nest 2D and 3D parts onto material sheets",
+              "Optimize material usage",
+              "Reduce material waste",
+              "Create optimal layouts for machining"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Applications",
+          "items": [
+            "Sheet metal machining",
+            "Laser and plasma cutting",
+            "Wood and composite machining",
+            "Batch production"
+          ]
+        },
+        "features": {
+          "title": "Feature List",
+          "categories": [
+            {
+              "name": "PRODUCT ARCHITECTURE",
+              "features": [
+                { "name": "64 Bit Version" }
+              ]
+            },
+            {
+              "name": "USER INTERFACE",
+              "features": [
+                { "name": "Wizard Interface" },
+                { "name": "Preview before output" }
+              ]
+            },
+            {
+              "name": "NESTING METHODS",
+              "features": [
+                { "name": "Rectangular (sometimes referred to as 'block' nesting)" },
+                { "name": "True Shape" },
+                { "name": "2D & 3D Parts" }
+              ]
+            },
+            {
+              "name": "GLOBAL PARAMETERS",
+              "features": [
+                { "name": "Distance limits between part and sheet" },
+                { "name": "Distance limits between two adjacent parts" },
+                { "name": "Accuracy of nesting" }
+              ]
+            },
+            {
+              "name": "SHEET PARAMETERS",
+              "features": [
+                { "name": "Sheet start corner" },
+                { "name": "Nesting direction" },
+                { "name": "Grain direction" },
+                { "name": "Unlimited number of sheets" },
+                { "name": "Sheet layering by color" }
+              ]
+            },
+            {
+              "name": "PART PARAMETERS",
+              "features": [
+                { "name": "Distance limits between part and part" },
+                { "name": "Rotation limits" },
+                { "name": "Mirroring" },
+                { "name": "Island recognition" },
+                { "name": "Part-in-Part" }
+              ]
+            },
+            {
+              "name": "OUTPUT PARAMETERS",
+              "features": [
+                { "name": "Estimation of # of sheets needed for nest" },
+                { "name": "Overflow Utilization" },
+                { "name": "Tagging of Nests" }
+              ]
+            }
+          ]
+        },
+        "faq": {
+          "title": "Frequently Asked Questions",
+          "items": [
+            {
+              "question": "Does RhinoCAM-NEST come with RhinoCAM?",
+              "answer": "Yes, RhinoCAM-NEST is included free in all RhinoCAM configurations."
+            },
+            {
+              "question": "How many parts can I nest?",
+              "answer": "RhinoCAM-NEST supports unlimited number of parts and can handle multiple material sheets at once."
+            }
+          ]
+        }
+      },
+      "art": {
+        "hero": {
+          "title": "RhinoCAM – ART",
+          "subtitle": "Convert artwork into machinable geometry",
+          "description": "RhinoCAM-ART converts artwork into geometry suitable for machining, used to model artistic shapes from raster images, extending the capabilities of the machining module."
+        },
+        "overview": {
+          "title": "Overview",
+          "description": "Powerful artistic module that allows creating 3D models from bitmap images and converting them into machinable geometry.",
+          "features": [
+            "Create 3D relief from bitmap images",
+            "Convert raster to vector",
+            "Create 3D volumes from curves",
+            "Boolean operations on 3D volumes"
+          ],
+          "whatDoes": {
+            "title": "What Does RhinoCAM-ART Do?",
+            "description": "RhinoCAM-ART provides tools to:",
+            "capabilities": [
+              "Create 3D relief from bitmap image files",
+              "Ability to limit creation of reliefs using colors and/or curves",
+              "Create puffed up 3D volumes using closed curves",
+              "Create 3D sweep volumes using various profiles",
+              "Combine 3D volumes using various Boolean operations",
+              "Export created 3D volumes as Mesh geometry",
+              "Convert 3D CAD geometry to ART 3D volumes",
+              "Convert Raster to Vector to create 2D curves"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Applications",
+          "items": [
+            "Engraving and sculpting",
+            "Artistic prototyping",
+            "Jewelry and decorative items",
+            "Signage and lettering"
+          ]
+        },
+        "features": {
+          "title": "Feature List",
+          "items": [
+            { "name": "Create 3D Relief from bitmap image files" },
+            { "name": "Ability to limit creation of reliefs using colors and/or curves" },
+            { "name": "Create puffed up 3D volumes using closed curves" },
+            { "name": "Create 3D sweep volumes using various profiles" },
+            { "name": "Combine 3D volumes using various Boolean operations during creation" },
+            { "name": "Export created 3D volumes as Mesh geometry to CAD system" },
+            { "name": "Convert 3D CAD geometry to ART 3D volumes" },
+            { "name": "Create 2D Curve geometry from image files using Raster to Vector operations" },
+            { "name": "All operations are associative to CAD geometry used in creation" },
+            { "name": "Save and reuse previously created 3D volumes using Shape Library functionality" }
+          ]
+        },
+        "faq": {
+          "title": "Frequently Asked Questions",
+          "items": [
+            {
+              "question": "Does RhinoCAM-ART come with RhinoCAM?",
+              "answer": "Yes, RhinoCAM-ART is included free in all RhinoCAM configurations."
+            },
+            {
+              "question": "What image file types can I use?",
+              "answer": "RhinoCAM-ART supports common bitmap image formats such as BMP, JPG, PNG and others."
+            }
+          ]
+        }
+      }
+    },
+    "scan3dTexu630w": {
+      "hero": {
+        "title": "Scan3D Texu 630W",
+        "subtitle": "High-Power Industrial 3D Scanner",
+        "description": "Scan3D Texu 630W is an industrial 3D laser scanner with 630W power, designed for large-scale scanning applications and high precision. Advanced laser technology enables accurate measurement of large objects with fast speed and high resolution.",
+        "requestQuote": "Request Quote",
+        "contactUs": "Contact Us",
+        "imageError": "Unable to load image"
+      },
+      "overview": {
+        "title": "Overview",
+        "description": "Scan3D Texu 630W is a professional 3D scanning solution with 630W laser power, suitable for industrial applications requiring high precision and fast scanning speed. This device is designed to handle large and complex objects with superior performance.",
+        "features": [
+          "High 630W laser power",
+          "High accuracy",
+          "Fast scanning speed",
+          "Suitable for large objects",
+          "Advanced laser technology",
+          "User-friendly interface"
+        ],
+        "whatDoes": {
+          "title": "What does Scan3D Texu 630W do?",
+          "description": "Scan3D Texu 630W provides professional 3D scanning capabilities for:",
+          "capabilities": [
+            "3D scanning of large objects with high accuracy",
+            "Detailed surface data collection",
+            "3D model creation from real objects",
+            "Quality inspection and measurement",
+            "Reverse engineering",
+            "Manufacturing and inspection applications"
+          ]
+        }
+      },
+      "features": {
+        "title": "Key Features",
+        "items": [
+          {
+            "icon": "scan",
+            "title": "High Laser Power",
+            "description": "630W laser power enables scanning of large objects with high accuracy and speed"
+          },
+          {
+            "icon": "zap",
+            "title": "Fast Scanning Speed",
+            "description": "Optimized scanning speed for quick and efficient data collection"
+          },
+          {
+            "icon": "shield",
+            "title": "High Accuracy",
+            "description": "Advanced laser technology ensures high measurement accuracy for industrial applications"
+          },
+          {
+            "icon": "award",
+            "title": "Professional Quality",
+            "description": "Device designed and manufactured to high industrial standards"
+          },
+          {
+            "icon": "camera",
+            "title": "High Resolution",
+            "description": "High resolution enables accurate surface detail capture"
+          },
+          {
+            "icon": "cpu",
+            "title": "Powerful Data Processing",
+            "description": "Integrated data processing system allows immediate processing and display of scan results"
+          }
+        ]
+      },
+      "specifications": {
+        "title": "Specifications",
+        "items": [
+          {
+            "name": "Laser power",
+            "value": "630W"
+          },
+          {
+            "name": "Accuracy",
+            "value": "±0.05mm"
+          },
+          {
+            "name": "Scanning speed",
+            "value": "Up to 1,000,000 points/second"
+          },
+          {
+            "name": "Scanning range",
+            "value": "0.3m - 3.0m"
+          },
+          {
+            "name": "Resolution",
+            "value": "0.1mm"
+          },
+          {
+            "name": "Object size",
+            "value": "Up to 10m x 10m x 10m"
+          },
+          {
+            "name": "Power supply",
+            "value": "AC 220V/50Hz"
+          },
+          {
+            "name": "Interface",
+            "value": "USB 3.0, Ethernet"
+          },
+          {
+            "name": "Supported OS",
+            "value": "Windows 10/11"
+          },
+          {
+            "name": "Included software",
+            "value": "Scan3D Studio Professional"
+          }
+        ]
+      },
+      "applications": {
+        "title": "Applications",
+        "items": [
+          "Manufacturing quality inspection",
+          "Reverse engineering",
+          "Measurement and dimensional inspection",
+          "3D model creation for CAD",
+          "Large object scanning",
+          "Automotive industry applications",
+          "Aerospace industry applications",
+          "Architecture and construction"
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "What applications is Scan3D Texu 630W suitable for?",
+            "answer": "Scan3D Texu 630W is suitable for industrial applications requiring scanning of large objects with high accuracy, including quality inspection, reverse engineering, measurement, and 3D model creation."
+          },
+          {
+            "question": "What is the accuracy of the scanner?",
+            "answer": "Scan3D Texu 630W has an accuracy of ±0.05mm, sufficient to meet precise industrial measurement requirements."
+          },
+          {
+            "question": "What size objects can the scanner handle?",
+            "answer": "The scanner can handle objects up to 10m x 10m x 10m, suitable for large-scale scanning applications."
+          },
+          {
+            "question": "What features does the included software have?",
+            "answer": "The included Scan3D Studio Professional software provides scan data processing tools, 3D model creation, CAD file export, and measurement analysis."
+          },
+          {
+            "question": "Can I receive technical support?",
+            "answer": "Yes, we provide full technical support including training, installation, and maintenance for customers."
+          }
+        ]
+      }
+    },
+    "scan3dTexu3w": {
+      "hero": {
+        "title": "Scan3D Texu 3W",
+        "subtitle": "Compact Low-Power 3D Scanner",
+        "description": "Scan3D Texu 3W is a compact 3D laser scanner with 3W power, designed for scanning small to medium-sized objects. Mobile and compact design with professional accuracy, suitable for laboratory, educational, and small-scale manufacturing applications.",
+        "requestQuote": "Request Quote",
+        "contactUs": "Contact Us",
+        "imageError": "Unable to load image"
+      },
+      "overview": {
+        "title": "Overview",
+        "description": "Scan3D Texu 3W is a compact 3D scanning solution with 3W laser power, ideal for applications requiring high accuracy but not demanding high power. This device is suitable for scanning small and medium objects with good performance and affordable pricing.",
+        "features": [
+          "Energy-efficient 3W laser power",
+          "Compact and mobile design",
+          "High accuracy",
+          "Easy to use",
+          "Affordable pricing",
+          "Suitable for small to medium objects"
+        ],
+        "whatDoes": {
+          "title": "What does Scan3D Texu 3W do?",
+          "description": "Scan3D Texu 3W provides professional 3D scanning capabilities for:",
+          "capabilities": [
+            "3D scanning of small and medium objects",
+            "Detailed surface data collection",
+            "3D model creation from real objects",
+            "Product quality inspection",
+            "Reverse engineering",
+            "Educational and research applications"
+          ]
+        }
+      },
+      "features": {
+        "title": "Key Features",
+        "items": [
+          {
+            "icon": "scan",
+            "title": "Compact Design",
+            "description": "Small and mobile design, easy to move and use in various environments"
+          },
+          {
+            "icon": "zap",
+            "title": "Energy Efficient",
+            "description": "3W laser power saves energy while maintaining good scanning quality"
+          },
+          {
+            "icon": "shield",
+            "title": "High Accuracy",
+            "description": "Advanced laser technology ensures high measurement accuracy for professional applications"
+          },
+          {
+            "icon": "award",
+            "title": "Affordable Pricing",
+            "description": "Quality 3D scanning solution at an affordable price for educational and small manufacturing applications"
+          },
+          {
+            "icon": "camera",
+            "title": "Good Resolution",
+            "description": "Good resolution enables accurate surface detail capture"
+          },
+          {
+            "icon": "cpu",
+            "title": "Efficient Data Processing",
+            "description": "Integrated data processing system allows quick processing and display of scan results"
+          }
+        ]
+      },
+      "specifications": {
+        "title": "Specifications",
+        "items": [
+          {
+            "name": "Laser power",
+            "value": "3W"
+          },
+          {
+            "name": "Accuracy",
+            "value": "±0.08mm"
+          },
+          {
+            "name": "Scanning speed",
+            "value": "Up to 500,000 points/second"
+          },
+          {
+            "name": "Scanning range",
+            "value": "0.2m - 1.5m"
+          },
+          {
+            "name": "Resolution",
+            "value": "0.15mm"
+          },
+          {
+            "name": "Object size",
+            "value": "Up to 2m x 2m x 2m"
+          },
+          {
+            "name": "Power supply",
+            "value": "AC 220V/50Hz"
+          },
+          {
+            "name": "Interface",
+            "value": "USB 3.0"
+          },
+          {
+            "name": "Supported OS",
+            "value": "Windows 10/11"
+          },
+          {
+            "name": "Included software",
+            "value": "Scan3D Studio Basic"
+          }
+        ]
+      },
+      "applications": {
+        "title": "Applications",
+        "items": [
+          "Education and research",
+          "Small object scanning",
+          "3D model creation",
+          "Quality inspection",
+          "Reverse engineering",
+          "Small-scale manufacturing",
+          "Laboratory applications",
+          "Prototyping"
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "What applications is Scan3D Texu 3W suitable for?",
+            "answer": "Scan3D Texu 3W is suitable for scanning small to medium objects, including education, research, quality inspection, and reverse engineering in environments that do not require high power."
+          },
+          {
+            "question": "What is the accuracy of the scanner?",
+            "answer": "Scan3D Texu 3W has an accuracy of ±0.08mm, sufficient to meet precise measurement requirements for educational and small-scale manufacturing applications."
+          },
+          {
+            "question": "What size objects can the scanner handle?",
+            "answer": "The scanner can handle objects up to 2m x 2m x 2m, suitable for small and medium objects."
+          },
+          {
+            "question": "Is the device easy to use?",
+            "answer": "Yes, Scan3D Texu 3W is designed with a user-friendly interface and is easy to use, suitable for both beginners and professional users."
+          },
+          {
+            "question": "Can I receive technical support?",
+            "answer": "Yes, we provide full technical support including training, installation, and maintenance for customers."
+          }
+        ]
+      }
+    },
+    "scan3dTexuT22": {
+      "hero": {
+        "title": "Scan3D Texu T22",
+        "subtitle": "Professional T22 Technology 3D Scanner",
+        "description": "Scan3D Texu T22 is a professional 3D scanner with advanced T22 technology, featuring enhanced scanning speed and accuracy. The device is specifically designed for detailed surface data collection with superior performance, suitable for industrial applications requiring high precision and speed.",
+        "requestQuote": "Request Quote",
+        "contactUs": "Contact Us",
+        "imageError": "Unable to load image"
+      },
+      "overview": {
+        "title": "Overview",
+        "description": "Scan3D Texu T22 is a professional 3D scanning solution with proprietary T22 technology, optimized for fast scanning speed and high accuracy. This device is suitable for industrial applications requiring detailed surface data collection with high performance.",
+        "features": [
+          "Advanced T22 technology",
+          "Fast scanning speed",
+          "High accuracy",
+          "Detailed surface collection",
+          "Superior performance",
+          "Suitable for industrial applications"
+        ],
+        "whatDoes": {
+          "title": "What does Scan3D Texu T22 do?",
+          "description": "Scan3D Texu T22 provides professional 3D scanning capabilities for:",
+          "capabilities": [
+            "3D scanning with high speed and accuracy",
+            "Detailed surface data collection",
+            "High-quality 3D model creation",
+            "Quality inspection and measurement",
+            "Professional reverse engineering",
+            "Industrial manufacturing applications"
+          ]
+        }
+      },
+      "features": {
+        "title": "Key Features",
+        "items": [
+          {
+            "icon": "scan",
+            "title": "T22 Technology",
+            "description": "Proprietary T22 technology optimized for fast scanning speed and high accuracy"
+          },
+          {
+            "icon": "zap",
+            "title": "High Scanning Speed",
+            "description": "Optimized scanning speed for quick data collection with high accuracy"
+          },
+          {
+            "icon": "shield",
+            "title": "Superior Accuracy",
+            "description": "Advanced technology ensures the highest measurement accuracy for industrial applications"
+          },
+          {
+            "icon": "award",
+            "title": "Professional Quality",
+            "description": "Device designed and manufactured to the highest industrial standards"
+          },
+          {
+            "icon": "camera",
+            "title": "Detailed Surface Collection",
+            "description": "Ability to accurately and comprehensively collect surface details"
+          },
+          {
+            "icon": "cpu",
+            "title": "Powerful Data Processing",
+            "description": "Integrated powerful data processing system allows immediate processing and display of scan results"
+          }
+        ]
+      },
+      "specifications": {
+        "title": "Specifications",
+        "items": [
+          {
+            "name": "Technology",
+            "value": "T22 Advanced"
+          },
+          {
+            "name": "Accuracy",
+            "value": "±0.03mm"
+          },
+          {
+            "name": "Scanning speed",
+            "value": "Up to 1,500,000 points/second"
+          },
+          {
+            "name": "Scanning range",
+            "value": "0.25m - 2.5m"
+          },
+          {
+            "name": "Resolution",
+            "value": "0.05mm"
+          },
+          {
+            "name": "Object size",
+            "value": "Up to 5m x 5m x 5m"
+          },
+          {
+            "name": "Power supply",
+            "value": "AC 220V/50Hz"
+          },
+          {
+            "name": "Interface",
+            "value": "USB 3.0, Ethernet"
+          },
+          {
+            "name": "Supported OS",
+            "value": "Windows 10/11"
+          },
+          {
+            "name": "Included software",
+            "value": "Scan3D Studio Professional"
+          }
+        ]
+      },
+      "applications": {
+        "title": "Applications",
+        "items": [
+          "Industrial quality inspection",
+          "Reverse engineering",
+          "Precise measurement",
+          "High-quality 3D model creation",
+          "Detailed surface scanning",
+          "Automotive industry applications",
+          "Aerospace industry applications",
+          "Industrial manufacturing"
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "How does Scan3D Texu T22 differ from other models?",
+            "answer": "Scan3D Texu T22 uses proprietary T22 technology with enhanced scanning speed and accuracy, particularly suitable for detailed surface data collection with high performance."
+          },
+          {
+            "question": "What is the accuracy of the scanner?",
+            "answer": "Scan3D Texu T22 has an accuracy of ±0.03mm, one of the highest accuracy levels in the Scan3D Texu product line."
+          },
+          {
+            "question": "What size objects can the scanner handle?",
+            "answer": "The scanner can handle objects up to 5m x 5m x 5m, suitable for medium to large-scale industrial applications."
+          },
+          {
+            "question": "What are the advantages of T22 technology?",
+            "answer": "T22 technology is optimized for fast scanning speed and high accuracy, particularly effective in collecting detailed surface data."
+          },
+          {
+            "question": "Can I receive technical support?",
+            "answer": "Yes, we provide full technical support including training, installation, and maintenance for customers."
+          }
+        ]
+      }
+    }
+  },
+  "devices": {
+    "scan3dTexu630w": "Scan3D Texu 630W",
+    "scan3dTexu3w": "Scan3D Texu 3W",
+    "scan3dTexuT22": "Scan3D Texu T22"
+  },
+  "devicesPage": {
+    "hero": {
+      "title": "Devices",
+      "description": "Discover our range of professional 3D scanning devices. High precision, advanced technology for industrial applications."
+    },
+    "filters": {
+      "searchPlaceholder": "Search devices...",
+      "allDevices": "All Devices"
+    },
+    "device": {
+      "contact": "Contact",
+      "loading": "Loading devices...",
+      "noDevices": "No devices found",
+      "noDevicesDescription": "Try changing your search terms or device category",
+      "showing": "Showing",
+      "devices": "devices",
+      "descriptions": {
+        "scan3dTexu630w": "High-precision 3D scanner with 630W power, ideal for large-scale industrial scanning applications. Advanced laser technology for accurate measurements.",
+        "scan3dTexu3w": "Compact 3D scanner with 3W power, perfect for small to medium-sized objects. Portable design with professional-grade accuracy.",
+        "scan3dTexuT22": "Professional 3D scanner with T22 technology, featuring enhanced scanning speed and precision. Suitable for detailed surface capture."
+      }
+    }
+  },
+  "productsPage": {
+    "hero": {
+      "title": "Products",
+      "description": "Discover the world's leading products collection. From 3D design to CNC machining, from 3D printing to topology optimization."
+    },
+    "filters": {
+      "searchPlaceholder": "Search products...",
+      "allProducts": "All Products",
+      "categories": {
+        "cad": "CAD Software",
+        "cam": "CAM Software", 
+        "cadcam": "CAD/CAM Software",
+        "additive": "Additive Software",
+        "plugin": "CAD Plugin"
+      }
+    },
+    "product": {
+      "contact": "Contact",
+      "viewDetails": "Product Details",
+      "loading": "Loading products...",
+      "noProducts": "No products found",
+      "noProductsDescription": "Try changing your search terms or product category",
+      "showing": "Showing",
+      "products": "products",
+      "descriptions": {
+        "rhinocam": "Powerful CAM software integrated with Rhino, supporting 2.5D, 3D and 5-axis machining. Intuitive and easy-to-use interface.",
+        "voxeldanceAdditive": "3D printing design and optimization software for metal additive manufacturing. Supports lattice structure design and topology optimization.",
+        "mastercam": "World-leading CAM software with complex machining capabilities, full support for all types of CNC machines.",
+        "rhinoceros": "Professional 3D design software with advanced NURBS technology. Supports modeling, rendering and animation.",
+        "orangRhino": "Professional plugin for Rhinoceros 3D, designed for footwear sole design with advanced tools. Supports multi-layer design and precision engineering. Orang-Rhino & Ant3D.",
+        "fusion360": "Integrated CAD/CAM/CAE software, suitable for product design and CNC machining.",
+        "solidworks": "Professional 3D CAD software, widely used in mechanical design and manufacturing.",
+        "voxeldanceTango": "3D printing design and optimization software for polymer technology, supports lattice and topology design.",
+        "powermill": "Specialized CAM software for 3D and 5-axis machining, used in aerospace and automotive industries.",
+        "creo": "Integrated CAD/CAM/CAE software from PTC, supports parametric design and CNC machining."
+      }
+    },
+    "features": {
+      "title": "Why choose our products?",
+      "description": "We provide leading CADCAM solutions with professional technical support",
+      "quality": {
+        "title": "Top Quality",
+        "description": "Products certified and quality tested internationally"
+      },
+      "support": {
+        "title": "24/7 Support", 
+        "description": "Professional technical team ready to support you anytime"
+      },
+      "updates": {
+        "title": "Regular Updates",
+        "description": "Always updated with the latest version and advanced features"
+      }
+    }
+  },
+  "contact": {
+    "header": {
+      "backToHome": "Back to Home",
+      "title": "Contact"
+    },
+    "info": {
+      "title": "Contact Information",
+      "headquarters": "Headquarters",
+      "headquartersDesc": "Main address",
+      "hotline": "Hotline",
+      "hotlineDesc": "24/7 Support",
+      "email": "Email",
+      "legal": "Legal Information",
+      "legalDesc": "Legal representative: Nguyễn Trường Sơn"
+    },
+    "map": {
+      "title": "Our Location",
+      "officeAddress": "Office Address",
+      "openInMaps": "Open in Google Maps"
+    },
+    "zalo": {
+      "title": "Contact via Zalo",
+      "scanQR": "Scan QR code to contact us",
+      "instructions": "Open Zalo app and scan the QR code to start chatting",
+      "orCall": "Or call: 0918416100"
+    }
+  }
+}

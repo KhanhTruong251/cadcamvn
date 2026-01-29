@@ -1,0 +1,2395 @@
+{
+  "common": {
+    "header": {
+      "home": "Trang chủ",
+      "products": "Sản phẩm",
+      "devices": "Thiết bị",
+      "about": "Giới thiệu",
+      "contact": "Liên hệ",
+      "admin": "Quản trị",
+      "viewAllProducts": "Xem tất cả sản phẩm",
+      "viewAllDevices": "Xem tất cả thiết bị",
+      "productCategories": "Danh mục sản phẩm",
+      "deviceCategories": "Danh mục thiết bị",
+      "backToProducts": "Quay lại sản phẩm"
+    },
+    "tabs": {
+      "overview": "Tổng quan",
+      "features": "Tính năng",
+      "videos": "Video & Demo"
+    },
+    "buttons": {
+      "learnMore": "Tìm hiểu thêm",
+      "watchDemo": "Xem demo",
+      "play": "Phát video",
+      "watchVideo": "Xem video"
+    },
+      "footer": {
+        "copyright": "© 2025 3C CNC SOFT. Bảo lưu mọi quyền.",
+        "description": "Giải pháp phần mềm và phần cứng CAD/CAM chuyên nghiệp",
+        "companyInfo": "Trang trưng bày sản phẩm CADCAM chuyên nghiệp, cung cấp dịch vụ tư vấn và giải pháp toàn diện cho doanh nghiệp trong công nghệ CAD/CAM.",
+        "quickLinks": "Liên kết nhanh",
+        "customerSupport": "Hỗ trợ khách hàng",
+        "helpCenter": "Trung tâm trợ giúp",
+        "faq": "Câu hỏi thường gặp",
+        "contactUs": "Liên hệ",
+        "consultation": "Tư vấn",
+        "privacyPolicy": "Chính sách bảo mật",
+        "followUs": "Theo dõi chúng tôi:",
+        "newsletter": "Đăng ký nhận tin:",
+        "emailPlaceholder": "Email của bạn",
+        "subscribe": "Đăng ký",
+        "address": "83, đường 19, P. Hiệp Bình Chánh, TP. Thủ Đức, HCMC",
+        "phone": "0918416100",
+        "email": "3ccncsoft@gmail.com"
+      },
+    "home": {
+      "hero": {
+        "title": "Giải pháp",
+        "subtitle": "CADCAM",
+        "subtitle2": "Tiên tiến",
+        "description": "Nâng tầm sản xuất giày dép với công nghệ CADCAM hiện đại. Tối ưu hóa quy trình, tăng năng suất và đảm bảo chất lượng sản phẩm vượt trội cho ngành giày dép.",
+        "exploreProducts": "Khám phá sản phẩm",
+        "contactConsultation": "Liên hệ tư vấn"
+      },
+      "stats": {
+        "trustedCustomers": "Khách hàng tin tưởng",
+        "yearsExperience": "Năm kinh nghiệm",
+        "satisfactionRate": "Tỷ lệ hài lòng",
+        "technicalSupport": "Hỗ trợ kỹ thuật"
+      },
+      "features": {
+        "title": "Tại sao chọn chúng tôi?",
+        "description": "Chúng tôi cung cấp giải pháp CADCAM toàn diện với công nghệ tiên tiến và dịch vụ hỗ trợ chuyên nghiệp",
+        "highPerformance": {
+          "title": "Hiệu suất cao",
+          "description": "Công nghệ CADCAM tiên tiến giúp tăng năng suất sản xuất lên đến 300%"
+        },
+        "accuracy": {
+          "title": "Độ chính xác",
+          "description": "Độ chính xác đến 0.001mm, đảm bảo chất lượng sản phẩm hoàn hảo"
+        },
+        "multiPlatform": {
+          "title": "Đa nền tảng",
+          "description": "Hỗ trợ đầy đủ các hệ điều hành Windows, macOS và Linux"
+        },
+        "support247": {
+          "title": "Hỗ trợ 24/7",
+          "description": "Đội ngũ kỹ thuật chuyên nghiệp hỗ trợ bạn mọi lúc, mọi nơi"
+        }
+      },
+      "featuredProducts": {
+        "title": "Sản phẩm nổi bật",
+        "description": "Khám phá các sản phẩm thiết kế 3D chất lượng cao được tin tưởng bởi hàng nghìn khách hàng",
+        "viewDetails": "Xem chi tiết",
+        "viewAllProducts": "Xem tất cả sản phẩm",
+        "items": {
+          "rhinoceros": {
+            "title": "Rhinoceros 8",
+            "description": "Phần mềm thiết kế 3D chuyên nghiệp với công nghệ NURBS tiên tiến",
+            "tag": "Thiết kế 3D",
+            "link": "/products/rhinoceros"
+          },
+          "rhinocam": {
+            "title": "RhinoCAM",
+            "description": "Giải pháp CAM tích hợp cho lập trình gia công chính xác",
+            "tag": "Gia công CNC",
+            "link": "/products"
+          },
+          "voxeldanceAdditive": {
+            "title": "VoxelDance Additive",
+            "description": "Phần mềm chuẩn bị in 3D kim loại và nhựa tối ưu",
+            "tag": "In 3D",
+            "link": "/products"
+          },
+          "voxeldanceManufacturing": {
+            "title": "VoxelDance Manufacturing",
+            "description": "Quản lý quy trình sản xuất với các công cụ chuẩn bị in tiên tiến",
+            "tag": "Sản xuất",
+            "link": "/products/voxeldance-manufacturing"
+          },
+          "voxeldanceEngineering": {
+            "title": "VoxelDance Engineering",
+            "description": "Thiết kế và phân tích cấu trúc lattice cho sản xuất tiên tiến",
+            "tag": "Kỹ thuật",
+            "link": "/products/voxeldance-engineering"
+          },
+          "rizomuv": {
+            "title": "RizomUV",
+            "description": "Công cụ unwrap UV chuyên nghiệp cho thiết kế công nghiệp",
+            "tag": "UV Mapping",
+            "link": "/products"
+          },
+          "jevero": {
+            "title": "Jevero",
+            "description": "Tạo và chỉnh sửa mẫu dễ dàng và hiệu quả trên Rhino. Công cụ parametric mạnh mẽ cho quy trình phát triển mẫu mượt mà.",
+            "tag": "Thiết kế mẫu",
+            "link": "/products/jevero"
+          },
+          "botcha": {
+            "title": "Botcha",
+            "description": "Tạo mẫu ảo nhanh nhất có thể. Công cụ 3D giày dép tối ưu với giao diện trực quan được xây dựng trên Rhinoceros.",
+            "tag": "Mô hình 3D",
+            "link": "/products/botcha"
+          },
+          "orangRhino": {
+            "title": "Orang-Rhino & Ant3D",
+            "description": "Plugin chuyên nghiệp cho Rhinoceros 3D, thiết kế cho thiết kế đế giày với các công cụ tiên tiến",
+            "tag": "CAD Plugin",
+            "link": "/products/orang-rhino"
+          }
+        }
+      },
+      "featuredDevices": {
+        "title": "Thiết bị nổi bật",
+        "description": "Khám phá các thiết bị quét 3D chuyên nghiệp với độ chính xác cao và công nghệ tiên tiến",
+        "viewDetails": "Xem chi tiết",
+        "viewAllDevices": "Xem tất cả thiết bị",
+        "items": {
+          "scan3dTexu630w": {
+            "title": "Scan3D Texu 630W",
+            "description": "Máy quét 3D độ chính xác cao với công suất 630W, lý tưởng cho ứng dụng quét công nghiệp quy mô lớn",
+            "link": "/products/scan3d-texu-630w"
+          },
+          "scan3dTexu3w": {
+            "title": "Scan3D Texu 3W",
+            "description": "Máy quét 3D compact với công suất 3W, hoàn hảo cho các vật thể nhỏ đến trung bình",
+            "link": "/products/scan3d-texu-3w"
+          },
+          "scan3dTexuT22": {
+            "title": "Scan3D Texu T22",
+            "description": "Máy quét 3D chuyên nghiệp với công nghệ T22, có tốc độ quét và độ chính xác nâng cao",
+            "link": "/products/scan3d-texu-t22"
+          }
+        }
+      },
+      "cta": {
+        "title": "Sẵn sàng nâng tầm sản xuất?",
+        "description": "Liên hệ ngay với chúng tôi để được tư vấn và hỗ trợ tốt nhất",
+        "contactNow": "Liên hệ ngay",
+        "viewProducts": "Xem sản phẩm"
+      },
+      "banner": {
+        "placeholderText": "Banner",
+        "placeholderImage": "Hình ảnh mẫu"
+      },
+      "orangRhinoSection": {
+        "badge": "Sản phẩm nổi bật",
+        "title": "Orang-Rhino & Ant3D",
+        "subtitle": "Thiết kế Giày chuyên nghiệp",
+        "description": "Plugin hàng đầu ngành cho Rhinoceros 3D, được thiết kế đặc biệt cho thiết kế đế giày. Tạo các mẫu đế phức tạp, cấu trúc đa lớp và các thành phần được thiết kế chính xác.",
+        "contactSales": "Liên hệ bán hàng",
+        "discoverMore": "Khám phá thêm",
+        "badge1": "#1 Lựa chọn",
+        "badge2": "Chất lượng chuyên nghiệp"
+      },
+      "voxeldanceManufacturing": {
+        "hero": {
+          "title": "VoxelDance Manufacturing",
+          "subtitle": "Phần mềm chuẩn bị build mạnh mẽ cho sản xuất bồi đắp",
+          "learnMore": "Tìm hiểu thêm",
+          "watchDemo": "Xem demo"
+        },
+        "about": {
+          "title": "Về VoxelDance Manufacturing",
+          "description": "VoxelDance Manufacturing là phần mềm chuẩn bị build in 3D mạnh mẽ cho các ứng dụng in 3D phổ biến như nguyên mẫu, khuôn giày, nha khoa nhựa/kim loại, trang sức, chăm sóc sức khỏe, giáo dục, khuôn công nghiệp, sản phẩm tiêu dùng, v.v. Nó tương thích với các công nghệ in 3D LPBF, SLA, DLP và SLS. Nhờ động cơ hình học VDK được tối ưu hóa và quy trình làm việc được tinh gọn cao, người dùng có thể nhanh chóng đạt được chuẩn bị build in 3D và hiệu quả sản xuất cũng như tỷ lệ thành công in đã được cải thiện đáng kể.",
+          "buildPreparation": "Phần mềm Chuẩn bị Build"
+        },
+        "features": {
+          "importFormats": {
+            "title": "Chỉ cần import tất cả các định dạng.",
+            "description": "Hỗ trợ gần như tất cả các định dạng file, kết nối khoảng cách giữa file CAD và máy in 3D. Import liền mạch từ bất kỳ phần mềm CAD nào và xuất ra máy in 3D của bạn.",
+            "meshFormats": "Định dạng Mesh & In 3D",
+            "cadFormats": "Định dạng CAD"
+          },
+          "repair": {
+            "title": "Sửa chữa file chưa bao giờ dễ dàng đến thế.",
+            "description": "Cung cấp cho bạn các công cụ sửa chữa mạnh mẽ để tạo dữ liệu kín nước và đạt được chất lượng in hoàn hảo.",
+            "identifyErrors": "Giúp bạn xác định lỗi file",
+            "autoRepair": "Tự động sửa file chỉ với một cú nhấp chuột"
+          },
+          "orientation": {
+            "title": "Công cụ Định hướng Mạnh mẽ",
+            "description": "Định hướng độc đáo cho in nha khoa. Chỉ với một cú nhấp chuột, tất cả các cốc răng đều tự động hướng lên vị trí thẳng đứng. Điều này giảm thao tác thủ công và cải thiện đáng kể hiệu quả quy trình và đảm bảo chất lượng."
+          },
+          "nesting": {
+            "title": "Sắp xếp Phần tử của bạn trong 2D/3D Tự động và Nhanh chóng.",
+            "description": "VoxelDance Manufacturing không chỉ có thể hoàn thành việc sắp xếp 2D/3D nhanh chóng, mà còn cung cấp nhiều tùy chọn sắp xếp. Các tùy chọn này bao gồm định hướng trục X/Y, hướng lưỡi cắt và căn chỉnh bố cục nền tảng."
+          },
+          "supports": {
+            "title": "Nhiều Loại Support cho SLA, LPBF và DLP.",
+            "description": "VoxelDance Manufacturing cung cấp cho bạn các loại support mạnh mẽ tương thích với công nghệ DLP, SLA và LPBF.",
+            "supportTypes": "Các loại support bao gồm:",
+            "barSupport": "Bar support",
+            "pointSupport": "Point support",
+            "lineSupport": "Line support",
+            "blockSupport": "Block support",
+            "smartSupport": "Smart support"
+          },
+          "hatches": {
+            "title": "Nâng cao File Slice của bạn với Hatches",
+            "description": "VoxelDance Manufacturing có thể tạo slice và thêm hatches chỉ với một cú nhấp chuột. Xuất file slice ở nhiều định dạng, bao gồm CLI, SLC, PNG, SVG, v.v. Giao diện trực quan hóa tích hợp cho phép bạn kiểm tra slice và hatches một cách thuận tiện."
+          }
+        },
+        "cta": {
+          "title": "Sẵn sàng Bắt đầu?",
+          "description": "Trải nghiệm sức mạnh của VoxelDance Manufacturing cho quy trình sản xuất bồi đắp của bạn",
+          "requestDemo": "Yêu cầu Demo",
+          "contactSales": "Liên hệ Bán hàng"
+        }
+      },
+      "jevero": {
+        "hero": {
+          "title": "Tạo mẫu dễ dàng, trên nền tảng Rhino.",
+          "subtitle": "Tạo và chỉnh sửa mẫu một cách dễ dàng và hiệu quả. Jevero tích hợp liền mạch với Rhino và thêm các công cụ parametric mạnh mẽ giúp quy trình phát triển mẫu trở nên mượt mà.",
+          "requestDemo": "Yêu cầu demo",
+          "contactUs": "Liên hệ chúng tôi"
+        },
+        "description": {
+          "text": "Plugin Jevero làm cho pattern engineering trở nên mượt mà và đáng tin cậy, với các tính năng grading và post processing nhanh chóng, trực quan. Xuất pattern cho hầu hết các máy cắt và máy vẽ. Các tính năng tiên tiến của Jevero cũng bao gồm tự động nesting, tối ưu hóa sử dụng vải, và các công cụ tạo marker dễ sử dụng, làm cho quy trình sản xuất trở nên hiệu quả và tiết kiệm chi phí hơn."
+        },
+        "highlights": {
+          "robustGrading": {
+            "title": "Grading mạnh mẽ",
+            "description": "Với Jevero bạn có thể hình dung thiết kế và thực hiện điều chỉnh mẫu chính xác, đảm bảo độ vừa vặn hoàn hảo cho giày của bạn. Với giao diện thân thiện người dùng tích hợp các công cụ quen thuộc, cho phép những người có kinh nghiệm với phần mềm CAD giày khác dễ dàng thích ứng và cảm thấy thoải mái khi làm việc với Jevero."
+          },
+          "fitsPipeline": {
+            "title": "Phù hợp với pipeline của bạn",
+            "description": "Chúng tôi hỗ trợ tất cả các định dạng file chính trên thị trường. Chúng tôi cũng đã đầu tư để có thể hỗ trợ file Crispin Engineer .shoe và .pat. Để hỗ trợ hệ thống cũ của bạn, để có quá trình chuyển đổi nhanh hơn sang công cụ của chúng tôi."
+          },
+          "supportedByManufacturers": {
+            "title": "Được hỗ trợ bởi các nhà sản xuất máy cắt lớn và công cụ post-processing",
+            "description": "Với khả năng tương thích cho các định dạng như DXF, PLT, HPGL, L2N và nhiều hơn nữa, Jevero cung cấp tích hợp chuyên nghiệp và liền mạch với các hệ thống khác nhau trong ngành giày dép."
+          },
+          "worldOfTools": {
+            "title": "Thế giới công cụ: thiết kế, prototype, sản phẩm",
+            "description": "Chúng tôi hỗ trợ tất cả các quy trình làm việc thông thường và quy trình tiên tiến nhất. Từ việc tạo mẫu đến grading, xem xét và chuẩn bị sản xuất, từ một prototyping đến sản xuất hàng loạt cuối cùng."
+          }
+        },
+        "features": {
+          "title": "Tính năng chính",
+          "parametricPatterns": {
+            "title": "Mẫu parametric",
+            "description": "Tạo mẫu với các phụ thuộc tự động theo dõi các thay đổi của bạn trên toàn bộ mô hình."
+          },
+          "grading": {
+            "title": "Grading",
+            "description": "Tạo kích thước mẫu và tự động grading cho tất cả các kích thước, sử dụng grading centers và groups để kiểm soát chính xác các thay đổi giữa các kích thước."
+          },
+          "partManagement": {
+            "title": "Quản lý phần tử",
+            "description": "Mỗi mẫu sẽ được cấu trúc thành các phần tử đại diện cho một đơn vị lắp ráp đơn lẻ cho việc xây dựng giày. Tổ chức các phần tử của bạn và dễ dàng gán thuộc tính cho chúng."
+          },
+          "dataExport": {
+            "title": "Xuất dữ liệu",
+            "description": "Xuất tất cả các phần tử đã tạo ra bàn cắt của bạn. Jevero hỗ trợ nhiều định dạng xuất đa dạng cho mọi nhu cầu."
+          },
+          "preciseMeasurements": {
+            "title": "Đo lường chính xác",
+            "description": "Jevero cung cấp nhiều công cụ để đo từng phần của giày, cho dù đó là kích thước mẫu hay trong grading."
+          },
+          "processing": {
+            "title": "Xử lý",
+            "description": "Tạo bảng xử lý cho mỗi phần tử để hướng dẫn lực lượng lao động. Skiving, stitching hoặc bất kỳ bước quan trọng nào khác đều có thể được ghi lại."
+          },
+          "layering": {
+            "title": "Layering",
+            "description": "Tính toán lượng vật liệu mà mỗi đôi giày sử dụng, dễ dàng ước tính thuế quan và thuế bạn sẽ phải trả cho xuất khẩu."
+          },
+          "dxfRebuilding": {
+            "title": "DXF rebuilding",
+            "description": "Import các mô hình cũ và dễ dàng đưa chúng lên tốc độ vào Jevero với tính năng rebuilding."
+          }
+        },
+        "cta": {
+          "title": "Liên hệ chúng tôi để đưa quy trình giày dép của bạn vào tương lai với",
+          "subtitle": "FOOTWEARkit cho Rhino",
+          "requestDemo": "Yêu cầu demo"
+        }
+      },
+      "botcha": {
+        "hero": {
+          "title": "Tạo nguyên mẫu ảo nhanh nhất có thể",
+          "subtitle": "Botcha là công cụ 3D giày dép tối ưu, cung cấp giao diện người dùng trực quan được xây dựng trên Rhinoceros. Khám phá tất cả các tính năng và preset sẽ tăng tốc quy trình mô hình hóa của bạn.",
+          "requestDemo": "Yêu cầu demo",
+          "contactUs": "Liên hệ chúng tôi"
+        },
+        "highlights": {
+          "remapping": {
+            "title": "Remapping và chỉnh sửa UV",
+            "description": "Các công cụ UV của Botcha cho phép làm phẳng nhanh chóng, thao tác texture và mô phỏng vật liệu. Unwrapping chính xác giúp giảm thiểu biến dạng và bố cục biểu đồ tự động giữ nguyên kích thước chính xác với mô hình 3D của bạn."
+          },
+          "tooling": {
+            "title": "Texture kỹ thuật số cho tooling",
+            "description": "Áp dụng displacement textures cho tooling và các bộ phận đúc chưa bao giờ dễ dàng đến thế. Botcha tooling texture manager có thể xử lý texture từ chất lượng preview đến các file sẵn sàng sản xuất. Xuất và làm sạch tooling của bạn trực tiếp cho khắc laser hoặc in 3D."
+          },
+          "lacing": {
+            "title": "Preset cho Last, dây giày và đường may",
+            "description": "Botcha cung cấp các preset để nhanh chóng thêm dây giày và đường may vào mô hình giày 3D, tiết kiệm thời gian và công sức. Bạn cũng có thể tạo thư viện pattern tùy chỉnh, đảm bảo tính linh hoạt và độ chính xác cho các thiết kế được tùy chỉnh."
+          },
+          "grasshopper": {
+            "title": "Grasshopper Nodes",
+            "description": "Sử dụng Grasshopper với Botcha để tăng cường tự động hóa và tùy chỉnh trong quy trình thiết kế giày dép của bạn. Tạo mô hình parametric và tự động hóa các tác vụ lặp lại, cho phép điều chỉnh liền mạch và tăng hiệu quả."
+          }
+        },
+        "gallery": {
+          "title": "Thư viện trưng bày"
+        },
+        "features": {
+          "title": "Tính năng chính",
+          "uvUnwrap": {
+            "title": "UV Unwrap",
+            "description": "Tạo phiên bản 2D của đối tượng 3D giảm thiểu độ căng của mesh gốc. Phiên bản 2D sẽ được lưu trữ trong đối tượng như một kênh ánh xạ texture."
+          },
+          "drawOnMesh": {
+            "title": "Vẽ trên mesh",
+            "description": "Dễ dàng vẽ một đường cong nằm trên mesh, chỉ cần chọn mesh và chọn các điểm bạn muốn đường cong đi qua."
+          },
+          "uvTransfer": {
+            "title": "UV Transfer",
+            "description": "Texturing là bước quan trọng trong việc tạo mô hình 3D thực tế. Với công cụ UV Transfer, bạn có thể đảm bảo texture của mình luôn được căn chỉnh hoàn hảo."
+          },
+          "changeLast": {
+            "title": "Change Last",
+            "description": "Di chuyển các đường cong phẳng từ một last đã làm phẳng sang một last khác và tạo hai mesh với cùng topology cho các đường cong last nguồn và đích tương ứng."
+          },
+          "remapObject": {
+            "title": "Remap object",
+            "description": "Tính năng này cho phép một đối tượng được mô hình hóa trong điều kiện thuận lợi (ví dụ: trên mặt phẳng 2D) và remap lên một bề mặt 3D khác."
+          },
+          "flattenLast": {
+            "title": "Flatten Last",
+            "description": "Làm phẳng last và thêm ranh giới của nó vào tài liệu như một đường cong và đơn giản hóa quy trình làm việc của kỹ sư pattern."
+          },
+          "projectMesh": {
+            "title": "Project Mesh",
+            "description": "Chiếu một mesh lên một hoặc nhiều mesh khác. Nó hữu ích, ví dụ, để \"dán\" các đối tượng như logo lên giày."
+          },
+          "softEdit": {
+            "title": "Soft Edit",
+            "description": "Thay đổi một mesh bằng cách áp dụng một phép biến đổi tỷ lệ với các lân cận của các đỉnh đã chọn."
+          }
+        },
+        "cta": {
+          "title": "Liên hệ chúng tôi để đưa quy trình giày dép của bạn vào tương lai với",
+          "subtitle": "FOOTWEARkit cho Rhino",
+          "requestDemo": "Yêu cầu demo"
+        }
+      }
+    },
+    "voxeldanceManufacturing": {
+      "hero": {
+        "title": "VoxelDance Manufacturing",
+        "subtitle": "Phần mềm chuẩn bị build mạnh mẽ cho sản xuất bồi đắp",
+        "learnMore": "Tìm hiểu thêm",
+        "watchDemo": "Xem demo"
+      },
+      "about": {
+        "title": "Về VoxelDance Manufacturing",
+        "description": "VoxelDance Manufacturing là phần mềm chuẩn bị build in 3D mạnh mẽ cho các ứng dụng in 3D phổ biến như nguyên mẫu, khuôn giày, nha khoa nhựa/kim loại, trang sức, chăm sóc sức khỏe, giáo dục, khuôn công nghiệp, sản phẩm tiêu dùng, v.v. Nó tương thích với các công nghệ in 3D LPBF, SLA, DLP và SLS. Nhờ động cơ hình học VDK được tối ưu hóa và quy trình làm việc được tinh gọn cao, người dùng có thể nhanh chóng đạt được chuẩn bị build in 3D và hiệu quả sản xuất cũng như tỷ lệ thành công in đã được cải thiện đáng kể.",
+        "buildPreparation": "Phần mềm Chuẩn bị Build"
+      },
+      "features": {
+        "importFormats": {
+          "title": "Chỉ cần import tất cả các định dạng.",
+          "description": "Hỗ trợ gần như tất cả các định dạng file, kết nối khoảng cách giữa file CAD và máy in 3D. Import liền mạch từ bất kỳ phần mềm CAD nào và xuất ra máy in 3D của bạn.",
+          "meshFormats": "Định dạng Mesh & In 3D",
+          "cadFormats": "Định dạng CAD"
+        },
+        "repair": {
+          "title": "Sửa chữa file chưa bao giờ dễ dàng đến thế.",
+          "description": "Cung cấp cho bạn các công cụ sửa chữa mạnh mẽ để tạo dữ liệu kín nước và đạt được chất lượng in hoàn hảo.",
+          "identifyErrors": "Giúp bạn xác định lỗi file",
+          "autoRepair": "Tự động sửa file chỉ với một cú nhấp chuột"
+        },
+        "orientation": {
+          "title": "Công cụ Định hướng Mạnh mẽ",
+          "description": "Định hướng độc đáo cho in nha khoa. Chỉ với một cú nhấp chuột, tất cả các cốc răng đều tự động hướng lên vị trí thẳng đứng. Điều này giảm thao tác thủ công và cải thiện đáng kể hiệu quả quy trình và đảm bảo chất lượng."
+        },
+        "nesting": {
+          "title": "Sắp xếp Phần tử của bạn trong 2D/3D Tự động và Nhanh chóng.",
+          "description": "VoxelDance Manufacturing không chỉ có thể hoàn thành việc sắp xếp 2D/3D nhanh chóng, mà còn cung cấp nhiều tùy chọn sắp xếp. Các tùy chọn này bao gồm định hướng trục X/Y, hướng lưỡi cắt và căn chỉnh bố cục nền tảng."
+        },
+        "supports": {
+          "title": "Nhiều Loại Support cho SLA, LPBF và DLP.",
+          "description": "VoxelDance Manufacturing cung cấp cho bạn các loại support mạnh mẽ tương thích với công nghệ DLP, SLA và LPBF.",
+          "supportTypes": "Các loại support bao gồm:",
+          "barSupport": "Bar support",
+          "pointSupport": "Point support",
+          "lineSupport": "Line support",
+          "blockSupport": "Block support",
+          "smartSupport": "Smart support"
+        },
+        "hatches": {
+          "title": "Nâng cao File Slice của bạn với Hatches",
+          "description": "VoxelDance Manufacturing có thể tạo slice và thêm hatches chỉ với một cú nhấp chuột. Xuất file slice ở nhiều định dạng, bao gồm CLI, SLC, PNG, SVG, v.v. Giao diện trực quan hóa tích hợp cho phép bạn kiểm tra slice và hatches một cách thuận tiện."
+        }
+      },
+      "cta": {
+        "title": "Sẵn sàng Bắt đầu?",
+        "description": "Trải nghiệm sức mạnh của VoxelDance Manufacturing cho quy trình sản xuất bồi đắp của bạn",
+        "requestDemo": "Yêu cầu Demo",
+        "contactSales": "Liên hệ Bán hàng"
+      }
+    },
+    "jevero": {
+      "hero": {
+        "title": "Tạo mẫu dễ dàng, trên nền tảng Rhino.",
+        "subtitle": "Tạo và chỉnh sửa mẫu một cách dễ dàng và hiệu quả. Jevero tích hợp liền mạch với Rhino và thêm các công cụ parametric mạnh mẽ giúp quy trình phát triển mẫu trở nên mượt mà.",
+        "requestDemo": "Yêu cầu demo",
+        "contactUs": "Liên hệ chúng tôi"
+      },
+      "description": {
+        "text": "Plugin Jevero làm cho pattern engineering trở nên mượt mà và đáng tin cậy, với các tính năng grading và post processing nhanh chóng, trực quan. Xuất pattern cho hầu hết các máy cắt và máy vẽ. Các tính năng tiên tiến của Jevero cũng bao gồm tự động nesting, tối ưu hóa sử dụng vải, và các công cụ tạo marker dễ sử dụng, làm cho quy trình sản xuất trở nên hiệu quả và tiết kiệm chi phí hơn."
+      },
+      "highlights": {
+        "robustGrading": {
+          "title": "Grading mạnh mẽ",
+          "description": "Với Jevero bạn có thể hình dung thiết kế và thực hiện điều chỉnh mẫu chính xác, đảm bảo độ vừa vặn hoàn hảo cho giày của bạn. Với giao diện thân thiện người dùng tích hợp các công cụ quen thuộc, cho phép những người có kinh nghiệm với phần mềm CAD giày khác dễ dàng thích ứng và cảm thấy thoải mái khi làm việc với Jevero."
+        },
+        "fitsPipeline": {
+          "title": "Phù hợp với pipeline của bạn",
+          "description": "Chúng tôi hỗ trợ tất cả các định dạng file chính trên thị trường. Chúng tôi cũng đã đầu tư để có thể hỗ trợ file Crispin Engineer .shoe và .pat. Để hỗ trợ hệ thống cũ của bạn, để có quá trình chuyển đổi nhanh hơn sang công cụ của chúng tôi."
+        },
+        "supportedByManufacturers": {
+          "title": "Được hỗ trợ bởi các nhà sản xuất máy cắt lớn và công cụ post-processing",
+          "description": "Với khả năng tương thích cho các định dạng như DXF, PLT, HPGL, L2N và nhiều hơn nữa, Jevero cung cấp tích hợp chuyên nghiệp và liền mạch với các hệ thống khác nhau trong ngành giày dép."
+        },
+        "worldOfTools": {
+          "title": "Thế giới công cụ: thiết kế, prototype, sản phẩm",
+          "description": "Chúng tôi hỗ trợ tất cả các quy trình làm việc thông thường và quy trình tiên tiến nhất. Từ việc tạo mẫu đến grading, xem xét và chuẩn bị sản xuất, từ một prototyping đến sản xuất hàng loạt cuối cùng."
+        }
+      },
+      "features": {
+        "title": "Tính năng chính",
+        "parametricPatterns": {
+          "title": "Mẫu parametric",
+          "description": "Tạo mẫu với các phụ thuộc tự động theo dõi các thay đổi của bạn trên toàn bộ mô hình."
+        },
+        "grading": {
+          "title": "Grading",
+          "description": "Tạo kích thước mẫu và tự động grading cho tất cả các kích thước, sử dụng grading centers và groups để kiểm soát chính xác các thay đổi giữa các kích thước."
+        },
+        "partManagement": {
+          "title": "Quản lý phần tử",
+          "description": "Mỗi mẫu sẽ được cấu trúc thành các phần tử đại diện cho một đơn vị lắp ráp đơn lẻ cho việc xây dựng giày. Tổ chức các phần tử của bạn và dễ dàng gán thuộc tính cho chúng."
+        },
+        "dataExport": {
+          "title": "Xuất dữ liệu",
+          "description": "Xuất tất cả các phần tử đã tạo ra bàn cắt của bạn. Jevero hỗ trợ nhiều định dạng xuất đa dạng cho mọi nhu cầu."
+        },
+        "preciseMeasurements": {
+          "title": "Đo lường chính xác",
+          "description": "Jevero cung cấp nhiều công cụ để đo từng phần của giày, cho dù đó là kích thước mẫu hay trong grading."
+        },
+        "processing": {
+          "title": "Xử lý",
+          "description": "Tạo bảng xử lý cho mỗi phần tử để hướng dẫn lực lượng lao động. Skiving, stitching hoặc bất kỳ bước quan trọng nào khác đều có thể được ghi lại."
+        },
+        "layering": {
+          "title": "Layering",
+          "description": "Tính toán lượng vật liệu mà mỗi đôi giày sử dụng, dễ dàng ước tính thuế quan và thuế bạn sẽ phải trả cho xuất khẩu."
+        },
+        "dxfRebuilding": {
+          "title": "DXF rebuilding",
+          "description": "Import các mô hình cũ và dễ dàng đưa chúng lên tốc độ vào Jevero với tính năng rebuilding."
+        }
+      },
+      "cta": {
+        "title": "Liên hệ chúng tôi để đưa quy trình giày dép của bạn vào tương lai với",
+        "subtitle": "FOOTWEARkit cho Rhino",
+        "requestDemo": "Yêu cầu demo"
+      }
+    },
+    "botcha": {
+      "hero": {
+        "title": "Tạo nguyên mẫu ảo nhanh nhất có thể",
+        "subtitle": "Botcha là công cụ 3D giày dép tối ưu, cung cấp giao diện người dùng trực quan được xây dựng trên Rhinoceros. Khám phá tất cả các tính năng và preset sẽ tăng tốc quy trình mô hình hóa của bạn.",
+        "requestDemo": "Yêu cầu demo",
+        "contactUs": "Liên hệ chúng tôi"
+      },
+      "highlights": {
+        "remapping": {
+          "title": "Remapping và chỉnh sửa UV",
+          "description": "Các công cụ UV của Botcha cho phép làm phẳng nhanh chóng, thao tác texture và mô phỏng vật liệu. Unwrapping chính xác giúp giảm thiểu biến dạng và bố cục biểu đồ tự động giữ nguyên kích thước chính xác với mô hình 3D của bạn."
+        },
+        "tooling": {
+          "title": "Texture kỹ thuật số cho tooling",
+          "description": "Áp dụng displacement textures cho tooling và các bộ phận đúc chưa bao giờ dễ dàng đến thế. Botcha tooling texture manager có thể xử lý texture từ chất lượng preview đến các file sẵn sàng sản xuất. Xuất và làm sạch tooling của bạn trực tiếp cho khắc laser hoặc in 3D."
+        },
+        "lacing": {
+          "title": "Preset cho Last, dây giày và đường may",
+          "description": "Botcha cung cấp các preset để nhanh chóng thêm dây giày và đường may vào mô hình giày 3D, tiết kiệm thời gian và công sức. Bạn cũng có thể tạo thư viện pattern tùy chỉnh, đảm bảo tính linh hoạt và độ chính xác cho các thiết kế được tùy chỉnh."
+        },
+        "grasshopper": {
+          "title": "Grasshopper Nodes",
+          "description": "Sử dụng Grasshopper với Botcha để tăng cường tự động hóa và tùy chỉnh trong quy trình thiết kế giày dép của bạn. Tạo mô hình parametric và tự động hóa các tác vụ lặp lại, cho phép điều chỉnh liền mạch và tăng hiệu quả."
+        }
+      },
+      "gallery": {
+        "title": "Thư viện trưng bày"
+      },
+      "features": {
+        "title": "Tính năng chính",
+        "uvUnwrap": {
+          "title": "UV Unwrap",
+          "description": "Tạo phiên bản 2D của đối tượng 3D giảm thiểu độ căng của mesh gốc. Phiên bản 2D sẽ được lưu trữ trong đối tượng như một kênh ánh xạ texture."
+        },
+        "drawOnMesh": {
+          "title": "Vẽ trên mesh",
+          "description": "Dễ dàng vẽ một đường cong nằm trên mesh, chỉ cần chọn mesh và chọn các điểm bạn muốn đường cong đi qua."
+        },
+        "uvTransfer": {
+          "title": "UV Transfer",
+          "description": "Texturing là bước quan trọng trong việc tạo mô hình 3D thực tế. Với công cụ UV Transfer, bạn có thể đảm bảo texture của mình luôn được căn chỉnh hoàn hảo."
+        },
+        "changeLast": {
+          "title": "Change Last",
+          "description": "Di chuyển các đường cong phẳng từ một last đã làm phẳng sang một last khác và tạo hai mesh với cùng topology cho các đường cong last nguồn và đích tương ứng."
+        },
+        "remapObject": {
+          "title": "Remap object",
+          "description": "Tính năng này cho phép một đối tượng được mô hình hóa trong điều kiện thuận lợi (ví dụ: trên mặt phẳng 2D) và remap lên một bề mặt 3D khác."
+        },
+        "flattenLast": {
+          "title": "Flatten Last",
+          "description": "Làm phẳng last và thêm ranh giới của nó vào tài liệu như một đường cong và đơn giản hóa quy trình làm việc của kỹ sư pattern."
+        },
+        "projectMesh": {
+          "title": "Project Mesh",
+          "description": "Chiếu một mesh lên một hoặc nhiều mesh khác. Nó hữu ích, ví dụ, để \"dán\" các đối tượng như logo lên giày."
+        },
+        "softEdit": {
+          "title": "Soft Edit",
+          "description": "Thay đổi một mesh bằng cách áp dụng một phép biến đổi tỷ lệ với các lân cận của các đỉnh đã chọn."
+        }
+      },
+      "cta": {
+        "title": "Liên hệ chúng tôi để đưa quy trình giày dép của bạn vào tương lai với",
+        "subtitle": "FOOTWEARkit cho Rhino",
+        "requestDemo": "Yêu cầu demo"
+      }
+    }
+  },
+  "shrinkwrap": {
+    "hero": {
+      "badge": "Mới trong Rhino 8",
+      "title": "ShrinkWrap",
+      "subtitle": "Tạo lưới kín nước từ bất kỳ hình học nào với sự dễ dàng chưa từng có",
+      "features": {
+        "printing": "Lưới hoàn hảo cho in 3D",
+        "union": "Kết hợp rắn từ nhiều đối tượng",
+        "scanData": "Lưới sạch từ dữ liệu quét"
+      }
+    },
+    "overview": {
+      "title": "ShrinkWrap là gì?",
+      "description": "ShrinkWrap tạo ra các lưới sạch, kín nước từ bất kỳ hình học đầu vào nào. Nó lý tưởng cho in 3D, quy trình sản xuất và chuẩn bị các mô hình phức tạp bằng cách bọc chúng thành một lưới rắn, đa tạp."
+    },
+    "capabilities": {
+      "title": "Khả năng chính",
+      "items": {
+        "watertight": {
+          "title": "Lưới kín nước",
+          "desc": "Tạo ra các lưới kín, đa tạp vượt qua kiểm tra in 3D."
+        },
+        "combine": {
+          "title": "Kết hợp các tập phức tạp",
+          "desc": "Thống nhất nhiều phần thành một vỏ đơn mà không cần boolean thủ công."
+        },
+        "scanData": {
+          "title": "Làm sạch dữ liệu quét",
+          "desc": "Bọc các dữ liệu quét/điểm mây ồn ào thành các bề mặt sạch."
+        },
+        "robust": {
+          "title": "Mạnh mẽ với đầu vào hỗn hợp",
+          "desc": "Hoạt động với NURBS, SubD, lưới và các loại mô hình hỗn hợp."
+        },
+        "parameters": {
+          "title": "Điều khiển tham số",
+          "desc": "Điều chỉnh độ lệch, chi tiết mục tiêu và hành vi lấp khoảng trống."
+        },
+        "manufacturing": {
+          "title": "Sẵn sàng sản xuất",
+          "desc": "Tạo ra các vỏ phù hợp cho CAM và in ấn tiếp theo."
+        }
+      }
+    },
+    "workflow": {
+      "title": "Quy trình gợi ý",
+      "steps": [
+        "Chuẩn bị đầu vào: chọn hình học (NURBS/SubD/lưới) bạn muốn bọc",
+        "Chạy ShrinkWrap và chọn độ lệch nếu cần khoảng cách",
+        "Đặt chi tiết mục tiêu cho sự đánh đổi chất lượng lưới và thời gian xử lý",
+        "Lấp các lỗ và khoảng trống nhỏ để đảm bảo một vỏ kín, kín nước",
+        "Xác minh: chạy kiểm tra lưới hoặc cắt thử để xác nhận sẵn sàng in"
+      ]
+    },
+    "tips": {
+      "title": "Mẹo & thực hành tốt nhất",
+      "items": {
+        "detail": {
+          "title": "Cân bằng chi tiết vs tốc độ",
+          "desc": "Sử dụng chi tiết mục tiêu vừa phải trước; chỉ tăng khi cần thiết."
+        },
+        "offset": {
+          "title": "Độ lệch cho dung sai",
+          "desc": "Độ lệch dương thêm khoảng cách; 0 giữ vỏ chặt."
+        },
+        "clean": {
+          "title": "Làm sạch đầu vào trước",
+          "desc": "Xóa các phần lạc hoặc ngoại lai cực đoan trước khi bọc."
+        },
+        "thickness": {
+          "title": "Kiểm tra vùng mỏng",
+          "desc": "Đảm bảo độ dày tường tối thiểu cho máy in và vật liệu của bạn."
+        }
+      }
+    }
+  },
+  "products": {
+    "rhinoceros": "Rhinoceros 8",
+    "orangRhino": "Orang-Rhino & Ant3D",
+    "rhinocam": "RhinoCAM",
+    "voxeldanceAdditive": "VoxelDance Additive",
+    "voxeldanceManufacturing": "VoxelDance Manufacturing",
+    "voxeldanceEngineering": "VoxelDance Engineering",
+    "rizomuv": "RizomUV"
+  },
+  "productPages": {
+    "voxeldanceManufacturing": {
+      "hero": {
+        "title": "VoxelDance Manufacturing",
+        "subtitle": "Phần mềm chuẩn bị build mạnh mẽ cho sản xuất bồi đắp",
+        "learnMore": "Tìm hiểu thêm",
+        "watchDemo": "Xem demo"
+      },
+      "about": {
+        "title": "Về VoxelDance Manufacturing",
+        "description": "VoxelDance Manufacturing là phần mềm chuẩn bị build in 3D mạnh mẽ cho các ứng dụng in 3D phổ biến như nguyên mẫu, khuôn giày, nha khoa nhựa/kim loại, trang sức, chăm sóc sức khỏe, giáo dục, khuôn công nghiệp, sản phẩm tiêu dùng, v.v. Nó tương thích với các công nghệ in 3D LPBF, SLA, DLP và SLS. Nhờ động cơ hình học VDK được tối ưu hóa và quy trình làm việc được tinh gọn cao, người dùng có thể nhanh chóng đạt được chuẩn bị build in 3D và hiệu quả sản xuất cũng như tỷ lệ thành công in đã được cải thiện đáng kể.",
+        "buildPreparation": "Phần mềm Chuẩn bị Build"
+      },
+      "features": {
+        "importFormats": {
+          "title": "Chỉ cần import tất cả các định dạng.",
+          "description": "Hỗ trợ gần như tất cả các định dạng file, kết nối khoảng cách giữa file CAD và máy in 3D. Import liền mạch từ bất kỳ phần mềm CAD nào và xuất ra máy in 3D của bạn.",
+          "meshFormats": "Định dạng Mesh & In 3D",
+          "cadFormats": "Định dạng CAD"
+        },
+        "repair": {
+          "title": "Sửa chữa file chưa bao giờ dễ dàng đến thế.",
+          "description": "Cung cấp cho bạn các công cụ sửa chữa mạnh mẽ để tạo dữ liệu kín nước và đạt được chất lượng in hoàn hảo.",
+          "identifyErrors": "Giúp bạn xác định lỗi file",
+          "autoRepair": "Tự động sửa file chỉ với một cú nhấp chuột"
+        },
+        "orientation": {
+          "title": "Công cụ Định hướng Mạnh mẽ",
+          "description": "Định hướng độc đáo cho in nha khoa. Chỉ với một cú nhấp chuột, tất cả các cốc răng đều tự động hướng lên vị trí thẳng đứng. Điều này giảm thao tác thủ công và cải thiện đáng kể hiệu quả quy trình và đảm bảo chất lượng."
+        },
+        "nesting": {
+          "title": "Sắp xếp Phần tử của bạn trong 2D/3D Tự động và Nhanh chóng.",
+          "description": "VoxelDance Manufacturing không chỉ có thể hoàn thành việc sắp xếp 2D/3D nhanh chóng, mà còn cung cấp nhiều tùy chọn sắp xếp. Các tùy chọn này bao gồm định hướng trục X/Y, hướng lưỡi cắt và căn chỉnh bố cục nền tảng."
+        },
+        "supports": {
+          "title": "Nhiều Loại Support cho SLA, LPBF và DLP.",
+          "description": "VoxelDance Manufacturing cung cấp cho bạn các loại support mạnh mẽ tương thích với công nghệ DLP, SLA và LPBF.",
+          "supportTypes": "Các loại support bao gồm:",
+          "barSupport": "Bar support",
+          "pointSupport": "Point support",
+          "lineSupport": "Line support",
+          "blockSupport": "Block support",
+          "smartSupport": "Smart support"
+        },
+        "hatches": {
+          "title": "Nâng cao File Slice của bạn với Hatches",
+          "description": "VoxelDance Manufacturing có thể tạo slice và thêm hatches chỉ với một cú nhấp chuột. Xuất file slice ở nhiều định dạng, bao gồm CLI, SLC, PNG, SVG, v.v. Giao diện trực quan hóa tích hợp cho phép bạn kiểm tra slice và hatches một cách thuận tiện."
+        }
+      },
+      "cta": {
+        "title": "Sẵn sàng Bắt đầu?",
+        "description": "Trải nghiệm sức mạnh của VoxelDance Manufacturing cho quy trình sản xuất bồi đắp của bạn",
+        "requestDemo": "Yêu cầu Demo",
+        "contactSales": "Liên hệ Bán hàng"
+      }
+    },
+    "jevero": {
+      "hero": {
+        "title": "Tạo mẫu dễ dàng, trên nền tảng Rhino.",
+        "subtitle": "Tạo và chỉnh sửa mẫu một cách dễ dàng và hiệu quả. Jevero tích hợp liền mạch với Rhino và thêm các công cụ parametric mạnh mẽ giúp quy trình phát triển mẫu trở nên mượt mà.",
+        "requestDemo": "Yêu cầu demo",
+        "contactUs": "Liên hệ chúng tôi"
+      },
+      "description": {
+        "text": "Plugin Jevero làm cho pattern engineering trở nên mượt mà và đáng tin cậy, với các tính năng grading và post processing nhanh chóng, trực quan. Xuất pattern cho hầu hết các máy cắt và máy vẽ. Các tính năng tiên tiến của Jevero cũng bao gồm tự động nesting, tối ưu hóa sử dụng vải, và các công cụ tạo marker dễ sử dụng, làm cho quy trình sản xuất trở nên hiệu quả và tiết kiệm chi phí hơn."
+      },
+      "highlights": {
+        "robustGrading": {
+          "title": "Grading mạnh mẽ",
+          "description": "Với Jevero bạn có thể hình dung thiết kế và thực hiện điều chỉnh mẫu chính xác, đảm bảo độ vừa vặn hoàn hảo cho giày của bạn. Với giao diện thân thiện người dùng tích hợp các công cụ quen thuộc, cho phép những người có kinh nghiệm với phần mềm CAD giày khác dễ dàng thích ứng và cảm thấy thoải mái khi làm việc với Jevero."
+        },
+        "fitsPipeline": {
+          "title": "Phù hợp với pipeline của bạn",
+          "description": "Chúng tôi hỗ trợ tất cả các định dạng file chính trên thị trường. Chúng tôi cũng đã đầu tư để có thể hỗ trợ file Crispin Engineer .shoe và .pat. Để hỗ trợ hệ thống cũ của bạn, để có quá trình chuyển đổi nhanh hơn sang công cụ của chúng tôi."
+        },
+        "supportedByManufacturers": {
+          "title": "Được hỗ trợ bởi các nhà sản xuất máy cắt lớn và công cụ post-processing",
+          "description": "Với khả năng tương thích cho các định dạng như DXF, PLT, HPGL, L2N và nhiều hơn nữa, Jevero cung cấp tích hợp chuyên nghiệp và liền mạch với các hệ thống khác nhau trong ngành giày dép."
+        },
+        "worldOfTools": {
+          "title": "Thế giới công cụ: thiết kế, prototype, sản phẩm",
+          "description": "Chúng tôi hỗ trợ tất cả các quy trình làm việc thông thường và quy trình tiên tiến nhất. Từ việc tạo mẫu đến grading, xem xét và chuẩn bị sản xuất, từ một prototyping đến sản xuất hàng loạt cuối cùng."
+        }
+      },
+      "features": {
+        "title": "Tính năng chính",
+        "parametricPatterns": {
+          "title": "Mẫu parametric",
+          "description": "Tạo mẫu với các phụ thuộc tự động theo dõi các thay đổi của bạn trên toàn bộ mô hình."
+        },
+        "grading": {
+          "title": "Grading",
+          "description": "Tạo kích thước mẫu và tự động grading cho tất cả các kích thước, sử dụng grading centers và groups để kiểm soát chính xác các thay đổi giữa các kích thước."
+        },
+        "partManagement": {
+          "title": "Quản lý phần tử",
+          "description": "Mỗi mẫu sẽ được cấu trúc thành các phần tử đại diện cho một đơn vị lắp ráp đơn lẻ cho việc xây dựng giày. Tổ chức các phần tử của bạn và dễ dàng gán thuộc tính cho chúng."
+        },
+        "dataExport": {
+          "title": "Xuất dữ liệu",
+          "description": "Xuất tất cả các phần tử đã tạo ra bàn cắt của bạn. Jevero hỗ trợ nhiều định dạng xuất đa dạng cho mọi nhu cầu."
+        },
+        "preciseMeasurements": {
+          "title": "Đo lường chính xác",
+          "description": "Jevero cung cấp nhiều công cụ để đo từng phần của giày, cho dù đó là kích thước mẫu hay trong grading."
+        },
+        "processing": {
+          "title": "Xử lý",
+          "description": "Tạo bảng xử lý cho mỗi phần tử để hướng dẫn lực lượng lao động. Skiving, stitching hoặc bất kỳ bước quan trọng nào khác đều có thể được ghi lại."
+        },
+        "layering": {
+          "title": "Layering",
+          "description": "Tính toán lượng vật liệu mà mỗi đôi giày sử dụng, dễ dàng ước tính thuế quan và thuế bạn sẽ phải trả cho xuất khẩu."
+        },
+        "dxfRebuilding": {
+          "title": "DXF rebuilding",
+          "description": "Import các mô hình cũ và dễ dàng đưa chúng lên tốc độ vào Jevero với tính năng rebuilding."
+        }
+      },
+      "cta": {
+        "title": "Liên hệ chúng tôi để đưa quy trình giày dép của bạn vào tương lai với",
+        "subtitle": "FOOTWEARkit cho Rhino",
+        "requestDemo": "Yêu cầu demo"
+      }
+    },
+    "botcha": {
+      "hero": {
+        "title": "Tạo nguyên mẫu ảo nhanh nhất có thể",
+        "subtitle": "Botcha là công cụ 3D giày dép tối ưu, cung cấp giao diện người dùng trực quan được xây dựng trên Rhinoceros. Khám phá tất cả các tính năng và preset sẽ tăng tốc quy trình mô hình hóa của bạn.",
+        "requestDemo": "Yêu cầu demo",
+        "contactUs": "Liên hệ chúng tôi"
+      },
+      "highlights": {
+        "remapping": {
+          "title": "Remapping và chỉnh sửa UV",
+          "description": "Các công cụ UV của Botcha cho phép làm phẳng nhanh chóng, thao tác texture và mô phỏng vật liệu. Unwrapping chính xác giúp giảm thiểu biến dạng và bố cục biểu đồ tự động giữ nguyên kích thước chính xác với mô hình 3D của bạn."
+        },
+        "tooling": {
+          "title": "Texture kỹ thuật số cho tooling",
+          "description": "Áp dụng displacement textures cho tooling và các bộ phận đúc chưa bao giờ dễ dàng đến thế. Botcha tooling texture manager có thể xử lý texture từ chất lượng preview đến các file sẵn sàng sản xuất. Xuất và làm sạch tooling của bạn trực tiếp cho khắc laser hoặc in 3D."
+        },
+        "lacing": {
+          "title": "Preset cho Last, dây giày và đường may",
+          "description": "Botcha cung cấp các preset để nhanh chóng thêm dây giày và đường may vào mô hình giày 3D, tiết kiệm thời gian và công sức. Bạn cũng có thể tạo thư viện pattern tùy chỉnh, đảm bảo tính linh hoạt và độ chính xác cho các thiết kế được tùy chỉnh."
+        },
+        "grasshopper": {
+          "title": "Grasshopper Nodes",
+          "description": "Sử dụng Grasshopper với Botcha để tăng cường tự động hóa và tùy chỉnh trong quy trình thiết kế giày dép của bạn. Tạo mô hình parametric và tự động hóa các tác vụ lặp lại, cho phép điều chỉnh liền mạch và tăng hiệu quả."
+        }
+      },
+      "gallery": {
+        "title": "Thư viện trưng bày"
+      },
+      "features": {
+        "title": "Tính năng chính",
+        "uvUnwrap": {
+          "title": "UV Unwrap",
+          "description": "Tạo phiên bản 2D của đối tượng 3D giảm thiểu độ căng của mesh gốc. Phiên bản 2D sẽ được lưu trữ trong đối tượng như một kênh ánh xạ texture."
+        },
+        "drawOnMesh": {
+          "title": "Vẽ trên mesh",
+          "description": "Dễ dàng vẽ một đường cong nằm trên mesh, chỉ cần chọn mesh và chọn các điểm bạn muốn đường cong đi qua."
+        },
+        "uvTransfer": {
+          "title": "UV Transfer",
+          "description": "Texturing là bước quan trọng trong việc tạo mô hình 3D thực tế. Với công cụ UV Transfer, bạn có thể đảm bảo texture của mình luôn được căn chỉnh hoàn hảo."
+        },
+        "changeLast": {
+          "title": "Change Last",
+          "description": "Di chuyển các đường cong phẳng từ một last đã làm phẳng sang một last khác và tạo hai mesh với cùng topology cho các đường cong last nguồn và đích tương ứng."
+        },
+        "remapObject": {
+          "title": "Remap object",
+          "description": "Tính năng này cho phép một đối tượng được mô hình hóa trong điều kiện thuận lợi (ví dụ: trên mặt phẳng 2D) và remap lên một bề mặt 3D khác."
+        },
+        "flattenLast": {
+          "title": "Flatten Last",
+          "description": "Làm phẳng last và thêm ranh giới của nó vào tài liệu như một đường cong và đơn giản hóa quy trình làm việc của kỹ sư pattern."
+        },
+        "projectMesh": {
+          "title": "Project Mesh",
+          "description": "Chiếu một mesh lên một hoặc nhiều mesh khác. Nó hữu ích, ví dụ, để \"dán\" các đối tượng như logo lên giày."
+        },
+        "softEdit": {
+          "title": "Soft Edit",
+          "description": "Thay đổi một mesh bằng cách áp dụng một phép biến đổi tỷ lệ với các lân cận của các đỉnh đã chọn."
+        }
+      },
+      "cta": {
+        "title": "Liên hệ chúng tôi để đưa quy trình giày dép của bạn vào tương lai với",
+        "subtitle": "FOOTWEARkit cho Rhino",
+        "requestDemo": "Yêu cầu demo"
+      }
+    },
+    "rhinoceros": {
+      "hero": {
+        "badge": "Phần mềm CAD hàng đầu thế giới",
+        "title": "Mới trong Rhino 8",
+        "subtitle": "Rhino 8 mang đến các công cụ modeling mới như ShrinkWrap, tăng tốc độ đáng kể cho người dùng Mac, SubD Creases, quy trình PushPull, công cụ drafting tốt hơn, giao diện người dùng có thể tùy chỉnh nhiều hơn, engine render nhanh hơn, các kiểu dữ liệu Grasshopper mới và nhiều hơn nữa.",
+        "contactButton": "Liên hệ",
+        "downloadButton": "Tải xuống bản dùng thử"
+      },
+      "tabs": {
+        "overview": "Tổng quan",
+        "features": "Tính năng",
+        "videos": "Video & Demo",
+        "cases": "Nghiên cứu tình huống",
+        "specs": "Thông số",
+        "pricing": "Bảng giá",
+        "reviews": "Đánh giá"
+      },
+      "overview": {
+        "title": "Mới trong Rhino 8",
+        "description": "Rhino 8 mang đến các công cụ modeling mới như ShrinkWrap, tăng tốc độ đáng kể cho người dùng Mac, SubD Creases, quy trình PushPull, công cụ drafting tốt hơn, giao diện người dùng có thể tùy chỉnh nhiều hơn, engine render nhanh hơn, các kiểu dữ liệu Grasshopper mới và nhiều hơn nữa.",
+        "shrinkwrap": {
+          "title": "ShrinkWrap",
+          "subtitle": "Turn Garbage To Gold",
+          "description": "ShrinkWrap tạo ra một lưới kín nước xung quanh các lưới mở hoặc đóng, hình học NURBS, SubD và point clouds: lý tưởng để tạo lưới cho in 3D."
+        },
+        "mac": {
+          "title": "Xây dựng cho Mac",
+          "subtitle": "Metal",
+          "description": "Rhino for Mac nhanh hơn bao giờ hết, chạy natively trên cả Apple Silicon và Intel Macs, và sử dụng công nghệ hiển thị Apple Metal."
+        },
+        "subd": {
+          "title": "SubD Creases",
+          "description": "SubD Creases tạo ra một tính năng giữa cạnh mượt và cạnh sắc, mà không thêm độ phức tạp vào SubD control net, tuyệt vời để tạo các tính năng giống fillet."
+        },
+        "modeling": {
+          "title": "Modeling: Đơn giản hóa",
+          "description": "Rhino 8 mở khóa các quy trình modeling mới — như PushPull — và thêm các tính năng trực quan mới vào Gumball, Automatic CPlanes và nhiều hơn nữa."
+        }
+      },
+      "features": {
+        "title": "Tính năng nổi bật",
+        "description": "Khám phá những tính năng mạnh mẽ của Rhinoceros 8"
+      },
+      "videos": {
+        "title": "Video & Demo",
+        "description": "Xem các video hướng dẫn và demo trực quan về Rhinoceros 8"
+      },
+      "cases": {
+        "title": "Nghiên cứu tình huống",
+        "description": "Khám phá các dự án thực tế sử dụng Rhinoceros 8"
+      },
+      "specs": {
+        "title": "Thông số kỹ thuật",
+        "description": "Yêu cầu hệ thống và thông tin chi tiết"
+      },
+      "pricing": {
+        "title": "Bảng giá",
+        "description": "Chọn gói phù hợp với nhu cầu của bạn"
+      },
+      "reviews": {
+        "title": "Đánh giá khách hàng",
+        "description": "Khách hàng nói gì về Rhinoceros 8"
+      },
+      "gallery": {
+        "viewing": "Đang xem",
+        "allDetails": "Tất cả chi tiết",
+        "items": {
+          "shrinkwrap": {
+            "alt": "ShrinkWrap",
+            "title": "ShrinkWrap: Biến Phế Phẩm Thành Vàng",
+            "description": "ShrinkWrap tạo ra một lưới kín nước xung quanh các lưới mở hoặc đóng, hình học NURBS, SubD và point clouds. Nó lý tưởng để tạo lưới cho in 3D, lưới hợp nhất rắn từ nhiều đối tượng, và lưới đóng hợp lệ từ hình học bị hỏng hoặc thường khó sửa chữa.",
+            "features": [
+              "Lưới cho in 3D",
+              "Lưới hợp nhất rắn từ nhiều đối tượng",
+              "Lưới rắn từ các mảnh dữ liệu quét 3D",
+              "Lưới không có giao điểm nội bộ",
+              "Lưới offset cho shelling",
+              "Lưới từ point clouds khi reverse engineering",
+              "Lưới đóng hợp lệ từ hình học bị hỏng"
+            ]
+          },
+          "subdCreases": {
+            "alt": "SubD Creases",
+            "title": "SubD Creases",
+            "description": "SubD Creases tạo ra một tính năng giữa cạnh mượt và cạnh sắc, mà không thêm độ phức tạp vào SubD control net. Điều này cho phép modeling hữu cơ chính xác, có thể chỉnh sửa và rất chính xác, kết hợp độ chính xác tự do với chỉnh sửa nhanh.",
+            "features": [
+              "Cạnh có trọng số cho chuyển tiếp mượt đến sắc",
+              "Không có độ phức tạp control net thêm",
+              "Lý tưởng cho các tính năng giống fillet",
+              "Modeling hữu cơ chính xác",
+              "Đẩy và kéo để khám phá hình dạng phức tạp",
+              "Có thể chuyển đổi thành solids có thể sản xuất"
+            ]
+          },
+          "macMetal": {
+            "alt": "Mac Metal",
+            "title": "Xây dựng cho Mac: Metal",
+            "description": "Rhino for Mac giờ nhanh hơn bao giờ hết trên cả Intel và Apple Silicon Macs. Được hỗ trợ bởi Metal, pipeline hiển thị mới của chúng tôi cung cấp đồ họa tăng tốc phần cứng cho tốc độ khung hình cao và độ phân giải lớn, ngay cả trong các mô hình phức tạp, chi tiết.",
+            "features": [
+              "Đồ họa tăng tốc phần cứng qua Metal",
+              "Tốc độ khung hình cao và độ phân giải lớn",
+              "Pan, zoom và orbit mượt mà trong mô hình phức tạp",
+              "Tăng tốc độ lên đến 24x",
+              "Cycles Render Engine được xây dựng trên Metal",
+              "Ứng dụng Universal cho Intel và Apple Silicon"
+            ]
+          },
+          "modelingSimplified": {
+            "alt": "Modeling Simplified",
+            "title": "Modeling: Đơn giản hóa",
+            "description": "Rhino 8 thêm các tính năng mới để làm cho modeling vui nhộn và dễ tiếp cận hơn. Kết hợp các công cụ như PushPull, Gumball và Auto CPlanes giảm ma sát cho các tác vụ tạo và chỉnh sửa solid thông thường, cho phép bạn ở trong một Perspective view duy nhất.",
+            "features": [
+              "PushPull: Thêm/xóa thể tích bằng curves",
+              "Gumball nâng cao cho thao tác trực quan",
+              "Auto CPlanes: Căn chỉnh thông minh hơn",
+              "Công cụ Inset cho thao tác mặt",
+              "Object snapping được cải thiện",
+              "Quy trình tạo solid được tinh gọn"
+            ]
+          }
+        }
+      }
+    },
+    "orangRhino": {
+      "hero": {
+        "badge": "Plugin Thiết kế Giày chuyên nghiệp",
+        "title": "Orang-Rhino & Ant3D",
+        "subtitle": "Thiết kế Đế giày Tiên tiến",
+        "description": "Plugin chuyên nghiệp cho Rhinoceros 3D, được thiết kế đặc biệt cho thiết kế đế giày. Tạo các mẫu đế phức tạp, cấu trúc đa lớp và các thành phần giày được thiết kế chính xác với các công cụ hàng đầu ngành.",
+        "contactButton": "Liên hệ bán hàng",
+        "downloadButton": "Tải xuống bản dùng thử"
+      },
+      "tabs": {
+        "overview": "Tổng quan",
+        "features": "Tính năng",
+        "videos": "Video & Demo",
+        "cases": "Nghiên cứu tình huống",
+        "specs": "Thông số",
+        "pricing": "Bảng giá",
+        "reviews": "Đánh giá"
+      },
+      "overview": {
+        "title": "Thiết kế Giày chuyên nghiệp",
+        "description": "Orang-Rhino & Ant3D là plugin hàng đầu ngành cho Rhinoceros 3D, được thiết kế đặc biệt cho thiết kế đế giày. Tạo các mẫu đế phức tạp, cấu trúc đa lớp và các thành phần được thiết kế chính xác với các công cụ chuyên nghiệp."
+      },
+      "orang": {
+        "title": "Phần mềm Thiết kế Giày Orang",
+        "description1": "Orang là phần mềm thiết kế giày chuyên nghiệp và hiệu quả. Mô hình 3D đã trở thành một phần không thể thiếu trong quá trình thiết kế giày trong những năm gần đây. Nó giúp các nhà thiết kế và phát triển tạo ra các mẫu mới, hình dung thiết kế với độ chính xác, hiệu quả và đổi mới cao hơn.",
+        "description2": "Orang là một plugin hoạt động tích hợp với Rhinoceros và hoàn toàn dành riêng cho ngành giày dép. Với trọng tâm là năng suất, các công cụ của Orang có thể giảm thời gian chu kỳ sản xuất lên đến",
+        "description3": "từ phát triển dự án đến lắp ráp khuôn.",
+        "benefits": {
+          "timeReduction": {
+            "title": "Giảm 60% Thời gian",
+            "description": "Giảm đáng kể thời gian chu kỳ sản xuất từ phát triển dự án đến lắp ráp khuôn"
+          },
+          "personalized": {
+            "title": "Nhiều thiết kế cá nhân hóa hơn",
+            "description": "Tạo các mẫu thiết kế độc đáo và tùy chỉnh theo nhu cầu"
+          },
+          "moldTime": {
+            "title": "Rút ngắn thời gian khuôn",
+            "description": "Giảm thời gian sản xuất và lắp ráp khuôn một cách đáng kể"
+          },
+          "modernTech": {
+            "title": "Công nghệ xử lý hiện đại và bảo vệ môi trường",
+            "description": "Sử dụng công nghệ tiên tiến, thân thiện với môi trường và hiệu quả cao"
+          }
+        },
+        "modules": {
+          "title": "Các Module Chức năng",
+          "subtitle": "Công cụ toàn diện cho thiết kế giày chuyên nghiệp",
+          "overview": "Tổng quan",
+          "curve": {
+            "name": "Curve Tools",
+            "nameVi": "Đường cong",
+            "description": "Công cụ thao tác đường cong tiên tiến cho thiết kế giày chính xác. Bao gồm Interpolate curves, Repair curves, Offset curve và 2D to 3D."
+          },
+          "surface": {
+            "name": "Surface Tools",
+            "nameVi": "Bề mặt",
+            "description": "Tạo hình dạng và bề mặt phức tạp với các công cụ tiên tiến như Groove, Surface ConvexHull, Blend surfaces, Seam Library và IP tool."
+          },
+          "morph": {
+            "name": "Morph Tools",
+            "nameVi": "Biến đổi hình dạng",
+            "description": "Công cụ mạnh mẽ để chỉnh sửa đường viền, profile và tạo hình học phức tạp. Bao gồm Interfere morph và các công cụ tối ưu hóa quy trình."
+          },
+          "mould": {
+            "name": "Mould Tools",
+            "nameVi": "Khuôn",
+            "description": "Tài nguyên để thao tác và trích xuất dữ liệu từ đối tượng và bề mặt STL. Tự động tạo matrices, điều chỉnh độ dày khuôn và phân phối lỗ."
+          },
+          "reverse": {
+            "name": "Reverse Engineering",
+            "nameVi": "Kỹ thuật đảo ngược",
+            "description": "Công cụ dành riêng cho tái tạo đối tượng ở định dạng .stl. Tạo curves và NURBS surfaces từ dữ liệu quét."
+          },
+          "texture": {
+            "name": "Textures",
+            "nameVi": "Dáng hoa văn",
+            "description": "Tạo texture cho đế giày và sản phẩm khác bằng hình ảnh đen trắng và grayscale. Áp dụng hoa văn phức tạp một cách dễ dàng."
+          },
+          "grade": {
+            "name": "Orang Grade",
+            "nameVi": "Thay đổi kích thước",
+            "description": "Scale đế giày, upper và cả hai thống nhất với các hạn chế khác nhau để giảm số lượng khuôn cần thiết và chuẩn hóa độ dày. Hỗ trợ nhiều quy tắc scaling như NormalScale, EqualRatioScale, ShareScale, GlobalThickness và nhiều tính năng khác."
+          }
+        }
+      },
+      "ant3d": {
+        "title": "Ant3D",
+        "description": "Giải pháp mô hình 3D và tạo mẫu nhanh tiên tiến cho thiết kế giày. Tối ưu hóa quy trình thiết kế của bạn với các công cụ mạnh mẽ và quy trình làm việc trực quan.",
+        "description2": "Giải pháp thiết kế chuyên sâu cho ngành giày với công nghệ 3D tiên tiến, giúp tối ưu hóa quy trình thiết kế và sản xuất giày từ concept đến sản phẩm cuối cùng.",
+        "features": {
+          "modeling": {
+            "title": "Công cụ Mô hình 3D",
+            "description": "Khả năng mô hình 3D toàn diện cho thiết kế và tạo mẫu giày."
+          },
+          "prototyping": {
+            "title": "Tạo mẫu nhanh",
+            "description": "Công cụ tạo mẫu nhanh và hiệu quả để biến thiết kế của bạn thành hiện thực một cách nhanh chóng."
+          },
+          "documentation": {
+            "title": "Tài liệu Thiết kế",
+            "description": "Khả năng tài liệu hóa và xuất dữ liệu hoàn chỉnh cho quy trình sản xuất."
+          },
+          "quality": {
+            "title": "Đảm bảo Chất lượng",
+            "description": "Công cụ kiểm tra và xác thực chất lượng tích hợp để đảm bảo độ chính xác thiết kế."
+          }
+        },
+        "modules": {
+          "title": "Các Module Chức Năng",
+          "subtitle": "Công cụ toàn diện cho thiết kế và sản xuất giày chuyên nghiệp",
+          "overview": "Tổng quan",
+          "modeling": {
+            "name": "3D Modeling",
+            "nameVi": "Mô hình 3D",
+            "description": "Công cụ mô hình 3D tiên tiến để tạo các thành phần giày phức tạp với độ chính xác và hiệu quả cao."
+          },
+          "pattern": {
+            "name": "Pattern Design",
+            "nameVi": "Thiết kế Pattern",
+            "description": "Công cụ thiết kế và phát triển pattern 2D toàn diện cho các thành phần upper giày."
+          },
+          "last": {
+            "name": "Last Design",
+            "nameVi": "Thiết kế Last",
+            "description": "Công cụ tạo, chỉnh sửa và grading last số để đảm bảo độ vừa vặn và thoải mái chính xác."
+          },
+          "upper": {
+            "name": "Upper Design",
+            "nameVi": "Thiết kế Upper",
+            "description": "Quy trình thiết kế và phát triển upper hoàn chỉnh từ 3D đến pattern 2D."
+          },
+          "sole": {
+            "name": "Sole Design",
+            "nameVi": "Thiết kế Đế",
+            "description": "Công cụ thiết kế đế tích hợp hoạt động mượt mà với Orang-Rhino cho giải pháp đế toàn diện."
+          },
+          "prototyping": {
+            "name": "Rapid Prototyping",
+            "nameVi": "Tạo mẫu nhanh",
+            "description": "Quy trình tạo mẫu nhanh để lặp lại và xác thực thiết kế giày một cách nhanh chóng."
+          },
+          "manufacturing": {
+            "name": "Manufacturing",
+            "nameVi": "Sản xuất",
+            "description": "Công cụ và tài liệu sẵn sàng sản xuất để chuyển tiếp mượt mà từ thiết kế đến sản xuất."
+          },
+          "manual": {
+            "name": "User Manual",
+            "nameVi": "Hướng dẫn sử dụng",
+            "description": "Tài liệu hướng dẫn chi tiết về cách sử dụng Ant3D Digital Biting Software với các tính năng và chức năng đầy đủ."
+          }
+        }
+      },
+      "gallery": {
+        "title": "Thư viện Video",
+        "subtitle": "Khám phá các demo và hướng dẫn sản phẩm của chúng tôi",
+        "requestDemo": {
+          "titleOrang": "Yêu cầu Demo Orang-Rhino",
+          "titleAnt3d": "Yêu cầu Demo Ant3D",
+          "description": "Muốn xem thêm? Liên hệ với chúng tôi để được demo cá nhân hóa hoặc liên lạc với đội ngũ của chúng tôi.",
+          "button": "Yêu cầu Demo",
+          "contactButton": "Liên hệ"
+        }
+      },
+      "cta": {
+        "title": "Chuyển đổi quy trình thiết kế giày của bạn",
+        "subtitle": "Với Orang-Rhino & Ant3D",
+        "description": "Công cụ chuyên nghiệp được thiết kế cho sản xuất giày hiện đại. Bắt đầu ngay hôm nay với các giải pháp toàn diện của chúng tôi."
+      },
+      "features": {
+        "title": "Tính năng chính",
+        "description": "Khám phá những tính năng mạnh mẽ của Orang-Rhino & Ant3D"
+      },
+      "videos": {
+        "title": "Video & Demo",
+        "description": "Xem các video hướng dẫn và demo trực quan về Orang-Rhino & Ant3D"
+      },
+      "cases": {
+        "title": "Nghiên cứu tình huống",
+        "description": "Ứng dụng thực tế của Orang-Rhino & Ant3D"
+      },
+      "specs": {
+        "title": "Thông số kỹ thuật",
+        "description": "Thông số kỹ thuật và yêu cầu"
+      },
+      "pricing": {
+        "title": "Bảng giá",
+        "description": "Chọn gói phù hợp với nhu cầu của bạn"
+      },
+      "reviews": {
+        "title": "Đánh giá khách hàng",
+        "description": "Khách hàng nói gì về Orang-Rhino & Ant3D"
+      }
+    },
+    "rhinocam": {
+      "hero": {
+        "title": "RhinoCAM",
+        "subtitle": "Phần mềm CAM Plugin tích hợp trực tiếp bên trong phần mềm CAD Rhinoceros 3D",
+        "description": "RhinoCAM là một plugin CAM (Computer-Aided Manufacturing) mạnh mẽ được xây dựng đặc biệt cho Rhino 3D, được thiết kế để giúp các lập trình viên CNC, thợ máy và kỹ sư tạo toolpath chính xác trực tiếp trong quy trình làm việc Rhino của họ. Hỗ trợ gia công từ 2 trục đến 5 trục với đầy đủ tính năng chuyên nghiệp.",
+        "tryFree": "Dùng thử miễn phí",
+        "buyNow": "Mua ngay",
+        "imageError": "Không thể tải hình ảnh"
+      },
+      "overview": {
+        "title": "Tổng Quan",
+        "whatIs": {
+          "title": "RhinoCAM là gì?",
+          "description": "RhinoCAM là một plugin CAM (Computer-Aided Manufacturing) mạnh mẽ được xây dựng đặc biệt cho Rhino 3D, được thiết kế để giúp các lập trình viên CNC, thợ máy và kỹ sư tạo toolpath chính xác trực tiếp trong quy trình làm việc Rhino của họ. Nó hỗ trợ tạo toolpath từ 2 trục đến 5 trục (2½, 3, 4 và 5 trục), mô phỏng và post-processing, tất cả bên trong môi trường mô hình của Rhino.",
+          "features": [
+            "Tích hợp hoàn toàn với Rhino (chỉ Windows)",
+            "Động cơ CAM được hỗ trợ bởi VisualCAM",
+            "Lý tưởng cho các chuyên gia làm việc trên các chi tiết 3D phức tạp và hình học tự do"
+          ],
+          "modules": "RhinoCAM bao gồm các module cho MILL, TURN, NEST & ART"
+        },
+        "whatDoes": {
+          "title": "RhinoCAM làm gì?",
+          "description": "RhinoCAM mang khả năng sản xuất tiên tiến trực tiếp vào Rhino. Không cần chuyển đổi giữa các chương trình, người dùng có thể:",
+          "capabilities": [
+            "Tạo toolpath cho gia công CNC 2½, 3, 4 và 5 trục",
+            "Mô phỏng chuyển động dụng cụ để phát hiện va chạm hoặc lỗi trước khi cắt",
+            "Post-process toolpath đã tạo để tạo G-code sẵn sàng cho máy cho nhiều loại máy/điều khiển CNC",
+            "Điều chỉnh thao tác động: RhinoCAM hoàn toàn liên kết với các thay đổi hình học trong Rhino"
+          ],
+          "idealFor": "Điều này làm cho RhinoCAM lý tưởng cho tạo mẫu nhanh, gia công sản xuất và sản xuất tiên tiến trong các ngành như chế tạo khuôn, gỗ, hàng không vũ trụ và chế tạo tùy chỉnh."
+        }
+      },
+      "modules": {
+        "title": "Các Module",
+        "mill": {
+          "name": "RhinoCAM – MILL",
+          "description": "Module phay đầy đủ tính năng cho gia công 2½, 3, 4 và 5 trục"
+        },
+        "turn": {
+          "name": "RhinoCAM – TURN",
+          "description": "Module tiện cho gia công trục quay và các chi tiết hình trụ"
+        },
+        "nest": {
+          "name": "RhinoCAM – NEST",
+          "description": "Module sắp xếp chi tiết tối ưu để tận dụng tối đa vật liệu"
+        },
+        "art": {
+          "name": "RhinoCAM – ART",
+          "description": "Module nghệ thuật cho tạo mô hình 3D từ hình ảnh bitmap"
+        }
+      },
+      "configurations": {
+        "title": "Các Cấu Hình",
+        "description": "Phần mềm CAM RhinoCAM có 5 cấu hình khác nhau để phù hợp với các nhu cầu gia công đa dạng của khách hàng.",
+        "mainFeatures": "Tính năng chính:",
+        "for": "Dành cho:",
+        "contactForPrice": "Liên hệ ",
+        "xpr": {
+          "name": "RhinoCAM Xpress (XPR)",
+          "description": "Chương trình đa mục đích dành cho người đam mê, nhà sản xuất và sinh viên. Lý tưởng để bắt đầu với lập trình CAM. Bao gồm phương pháp gia công 2 & 3 trục.",
+          "features": [
+            "2 & 3 axis machining methods",
+            "NEST và ART miễn phí",
+            "Dễ sử dụng",
+            "Giá cả phải chăng"
+          ],
+          "for": "Hoàn hảo cho giáo viên, người mới bắt đầu CNC và nhà sản xuất làm việc trên các nguyên mẫu quy mô nhỏ và máy để bàn."
+        },
+        "std": {
+          "name": "RhinoCAM Standard (STD)",
+          "description": "Chương trình gia công đa mục đích nhắm đến thợ máy tổng quát. Sản phẩm này lý tưởng cho thị trường tạo mẫu nhanh, sở thích và giáo dục.",
+          "features": [
+            "2-1/2 Axis, 3 Axis và Drilling",
+            "TURN, NEST và ART miễn phí",
+            "Dễ sử dụng",
+            "Tạo mẫu nhanh"
+          ],
+          "for": "Lý tưởng cho thợ máy tổng quát và xưởng tạo mẫu tập trung vào dễ sử dụng và kết quả nhanh. Phù hợp cho gia công sản xuất."
+        },
+        "exp": {
+          "name": "RhinoCAM Expert (EXP)",
+          "description": "Cấu hình này cho phép tạo các thao tác gia công thô và tinh 4 trục Indexed và liên tục. Bao gồm tất cả chức năng của cấu hình STD.",
+          "features": [
+            "4th Axis Indexed và continuous",
+            "4 Axis Facing, Pocketing, Profiling",
+            "Roughing và Finishing",
+            "TURN, NEST và ART miễn phí"
+          ],
+          "for": "Phù hợp cho thợ máy có kinh nghiệm và xưởng cần thực hiện gia công 4 trục phức tạp, như trong ngành gỗ hoặc nội thất tùy chỉnh."
+        },
+        "pro": {
+          "name": "RhinoCAM Professional (PRO)",
+          "description": "Gói mạnh mẽ này lý tưởng cho khuôn mẫu, khuôn và dụng cụ, gỗ, tạo mẫu nhanh và thị trường gia công tổng quát.",
+          "features": [
+            "Tất cả chức năng EXP",
+            "Chiến lược toolpath mạnh mẽ",
+            "Kiểm soát dụng cụ cắt hiệu quả",
+            "TURN, NEST và ART miễn phí"
+          ],
+          "for": "Được thiết kế cho người dùng sản xuất tiên tiến trong chế tạo khuôn, dụng cụ và gỗ cần kiểm soát toolpath tinh vi và độ chính xác."
+        },
+        "pre": {
+          "name": "RhinoCAM Premium (PRE)",
+          "description": "Gói này bao gồm chức năng gia công 5 trục liên tục mới của chúng tôi. Phù hợp cho các yêu cầu gia công rất tinh vi.",
+          "features": [
+            "5 Axis continuous machining",
+            "Surface normal machining",
+            "Swarf machining",
+            "Surface flow machining",
+            "Tất cả chức năng PRO"
+          ],
+          "for": "Được xây dựng cho hàng không vũ trụ, chế tạo khuôn tiên tiến và chuyên gia gỗ cần mức độ kiểm soát 5 trục liên tục cao nhất."
+        }
+      },
+      "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "items": [
+          {
+            "question": "RhinoCAM là gì?",
+            "answer": "RhinoCAM là một plugin phần mềm CAM tiên tiến hoạt động trực tiếp bên trong Rhinoceros (chỉ Windows). Nó được sử dụng bởi các lập trình viên CNC và thợ máy để tạo toolpath đa trục, thực hiện mô phỏng gia công và tạo G-code cho máy CNC."
+          },
+          {
+            "question": "RhinoCAM hỗ trợ loại gia công nào?",
+            "answer": "RhinoCAM hỗ trợ nhiều loại thao tác gia công, bao gồm phay 2½, 3, 4 và 5 trục, cũng như tiện và sắp xếp chi tiết. Đây là giải pháp toàn diện cho các nhu cầu sản xuất CNC khác nhau."
+          },
+          {
+            "question": "RhinoCAM có phải là phần mềm độc lập không?",
+            "answer": "Không, RhinoCAM là một plugin yêu cầu cài đặt Rhinoceros có giấy phép để chạy. Sự tích hợp liền mạch của nó có nghĩa là nó sử dụng môi trường Rhino gốc, làm cho quy trình làm việc trực quan cho người dùng Rhino hiện có."
+          },
+          {
+            "question": "RhinoCAM so sánh với các phần mềm CAM khác như thế nào?",
+            "answer": "RhinoCAM được biết đến với sự tích hợp sâu với môi trường mô hình 3D Rhino, cung cấp quy trình làm việc liền mạch và tính liên kết với các thay đổi mô hình. Bộ tính năng toàn diện của nó, từ gia công 2½ đến 5 trục, và lựa chọn rộng rãi các post-processor làm cho nó trở thành lựa chọn mạnh mẽ và hiệu quả về chi phí cho các chuyên gia đã sử dụng Rhino."
+          },
+          {
+            "question": "RhinoCAM hỗ trợ những loại máy CNC nào?",
+            "answer": "RhinoCAM bao gồm thư viện rộng lớn các post-processor và hỗ trợ các máy yêu cầu G-code, bao gồm máy phay 3 trục, bàn quay 4 trục và máy 5 trục đầy đủ."
+          }
+        ]
+      },
+      "contact": {
+        "title": "3C CNC Software",
+        "subtitle": "Nhà phân phối ủy quyền của phần mềm RhinoCAM tại Việt Nam",
+        "phone": "Điện Thoại",
+        "email": "Email",
+        "website": "Website",
+        "contactButton": "Liên hệ tư vấn ngay"
+      },
+      "officialLink": {
+        "text": "Tìm hiểu thêm về RhinoCAM tại website chính thức:",
+        "url": "mecsoft.com/products/rhinocam/"
+      },
+      "mill": {
+        "hero": {
+          "title": "RhinoCAM – MILL",
+          "subtitle": "Plugin CNC phay cho Rhino 3D",
+          "description": "RhinoCAM-MILL là plugin CNC phay cho Rhino 3D và là một trong năm module trong bộ phần mềm CAM RhinoCAM. Được thiết kế cho các lập trình viên CNC, thợ máy và kỹ sư cần gia công chính xác 2½, 3, 4 và 5 trục đầy đủ trực tiếp bên trong Rhino."
+        },
+        "overview": {
+          "title": "Tổng Quan",
+          "description": "Được hỗ trợ bởi động cơ CAM VisualMILL, phần mềm CAM đa trục này kết hợp khả năng mô hình tự do của Rhino với tạo toolpath tiên tiến, mô phỏng và post-processing.",
+          "features": [
+            "Hoạt động bên trong Rhino 8 (chỉ Windows)",
+            "Hàng trăm post-processor miễn phí cộng với trình tạo post-processor tùy chỉnh"
+          ],
+          "whatDoes": {
+            "title": "RhinoCAM-MILL làm gì?",
+            "description": "RhinoCAM-MILL trang bị cho các nhà sản xuất các công cụ để:",
+            "capabilities": [
+              "Tạo toolpath chính xác cho phay CNC 2½ trục đến 5 trục",
+              "Mô phỏng thao tác để phát hiện va chạm và tối ưu hóa chiến lược cắt",
+              "Tạo G-code sẵn sàng cho máy cho nhiều loại điều khiển CNC",
+              "Cho phép tự động hóa gia công thông qua scripts, Knowledge Bases và API"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Ứng Dụng",
+          "items": [
+            "Gỗ, tủ, chế tạo nhạc cụ",
+            "Sản xuất khuôn, khuôn và dụng cụ",
+            "Tạo mẫu nhanh cho phát triển sản phẩm",
+            "Gia công tổng quát cho kim loại, nhựa hoặc bộ phận composite"
+          ]
+        },
+        "features": {
+          "title": "Danh Sách Tính Năng",
+          "tabs": [
+            { "id": "2half", "name": "2½-Axis Milling" },
+            { "id": "3axis", "name": "3 Axis Milling" },
+            { "id": "4axis", "name": "4 Axis Milling" },
+            { "id": "5axis", "name": "5 Axis Milling" },
+            { "id": "other", "name": "Other Features" }
+          ],
+          "categories": [
+            {
+              "id": "2half",
+              "name": "2½-AXIS MILLING",
+              "features": [
+                { "name": "Pocketing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Profiling", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Facing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Engraving", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "V-Carving", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "V-Carve Roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "2-1/2 Axis Feature Detection", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "2-1/2 Axis Feature Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "2-1/2 Axis Roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "High Speed Pocketing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Chamfering", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Hole Profiling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Hole Pocketing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "T-Slot Milling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Slot Milling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Thread Milling", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Drag & Rotary Knife Cutting", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Saw Machining", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Re-Machining", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true }
+              ]
+            },
+            {
+              "id": "3axis",
+              "name": "3 AXIS MILLING",
+              "features": [
+                { "name": "Horizontal Roughing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Parallel Finishing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "3 Axis Feature Detection", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "3 Axis Feature Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Horizontal Finishing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Radial Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Spiral Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Clear Flats Machining", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Plunge Roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Horizontal Re-roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Plunge Re-roughing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Projection Pocketing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "3D Offset Profiling", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "3D Offset Pocketing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Pencil Tracing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Valley Re-Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Plateau Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Steep Area Parallel Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Horizontal Hill Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Curve Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Between 2 Curves Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Reverse Post Machining", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true }
+              ]
+            },
+            {
+              "id": "4axis",
+              "name": "4 AXIS MILLING",
+              "features": [
+                { "name": "4 Axis Indexed Machining", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Auto Multiple Indexing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Facing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Pocketing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Profiling", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Continuous Engraving", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Parallel Roughing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Parallel Finishing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Radial Finishing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Projection Pocketing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Drive Surface Machining (True 4 Axis)", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true }
+              ]
+            },
+            {
+              "id": "5axis",
+              "name": "5 AXIS MILLING",
+              "features": [
+                { "name": "5 Axis Indexed Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Curve Projection Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Continuous Flow Curve Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Between 2 Curves Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Drive Curve Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Surface Normal Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "5 Axis Swarf Machining", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true }
+              ]
+            },
+            {
+              "id": "other",
+              "name": "OTHER FEATURES",
+              "features": [
+                { "name": "Automatic Hole Selection, Sorting", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Drilling", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Tapping", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Boring", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Reverse Boring", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "User Defined Cycles", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Drilling", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Tapping", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Boring", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "4 Axis Reverse Boring", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Animation", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Cut Material Simulation", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Advanced Cut Material Simulation", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Visual Holder Collision Detection", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Machine Tool Simulation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Standard Tools (Ball, Flat, C Rad., Vee, Drill)", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Advanced Tools (Taper,Tap,Bore,R.Bore)", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Form Tools", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Stepped Tools", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Analytical Holder Collision Detection", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Toolpath Graphical Viewing", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Graphical Editing", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Instancing", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Toolpath Arc Fitting", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Customizable Post Generator", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Simulate Cycles", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Arc Output", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Helix Output", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Spiral Output", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "5 Axis Output", "xpr": false, "std": false, "exp": false, "pro": false, "pre": true },
+                { "name": "64 Bit", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "HTML Shop Documentation", "xpr": true, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Avoid Regions", "xpr": false, "std": true, "exp": true, "pro": true, "pre": true },
+                { "name": "Predefined Regions", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Default Knowledge Base", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Machine Control Operations", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Cabinet Design Decomposition", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Rotate Table Setups", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Multiple Setups", "xpr": false, "std": false, "exp": true, "pro": true, "pre": true },
+                { "name": "Fixture Offset Programming", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Check Surface Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Tool Silhouette Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Tool Double Contact Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true },
+                { "name": "Tool Holder Collision Boundary Creation", "xpr": false, "std": false, "exp": false, "pro": true, "pre": true }
+              ]
+            }
+          ]
+        },
+        "faq": {
+          "title": "Câu Hỏi Thường Gặp",
+          "items": [
+            {
+              "question": "RhinoCAM-MILL có đi kèm với RhinoCAM không?",
+              "answer": "Có, RhinoCAM-MILL là một trong các module cốt lõi trong bộ RhinoCAM. Bạn có thể mua riêng lẻ hoặc như một phần của cấu hình gói."
+            },
+            {
+              "question": "Tôi có thể sử dụng những loại máy phay CNC nào với RhinoCAM-MILL?",
+              "answer": "Nó hoạt động với nhiều loại máy, từ máy phay 3 trục tiêu chuẩn đến trung tâm gia công 5 trục tiên tiến. Bạn cũng sẽ nhận được hàng trăm post-processor sẵn sàng sử dụng cho các thương hiệu máy phổ biến."
+            },
+            {
+              "question": "Đào tạo hoặc hỗ trợ kỹ thuật có được bao gồm với RhinoCAM-MILL không?",
+              "answer": "Có. MecSoft cung cấp tài liệu, hướng dẫn và tài nguyên hỗ trợ để giúp bạn bắt đầu nhanh chóng. Các tùy chọn đào tạo cũng có sẵn cho các nhóm muốn tăng tốc độ áp dụng."
+            },
+            {
+              "question": "Tôi có thể tùy chỉnh post-processor cho máy CNC của mình không?",
+              "answer": "Hoàn toàn có thể. Ngoài thư viện đi kèm, RhinoCAM-MILL đi kèm với trình tạo post-processor để bạn có thể tạo đầu ra phù hợp với máy và bộ điều khiển cụ thể của bạn. Chúng tôi cũng cung cấp dịch vụ viết post-processor để xử lý các yêu cầu post-processing phức tạp."
+            },
+            {
+              "question": "RhinoCAM-MILL có chạy trên máy Mac không?",
+              "answer": "Không, nó được thiết kế cho Rhino 8 trên Windows chỉ."
+            }
+          ]
+        }
+      },
+      "turn": {
+        "hero": {
+          "title": "RhinoCAM-Turn",
+          "subtitle": "CNC turning plugin for Rhino 3D",
+          "description": "RhinoCAM-TURN is a CNC turning plugin for Rhino 3D and one of the five modules in the RhinoCAM CAM software suite. It's designed for CNC programmers, machinists, and engineers who need precise 2-axis turning operations directly inside Rhino."
+        },
+        "overview": {
+          "title": "Tổng Quan",
+          "description": "Bằng cách giữ toàn bộ quy trình trong môi trường Rhino, nó đơn giản hóa lập trình, giảm việc chuyển đổi giữa các phần mềm và hỗ trợ hiệu quả hơn trong sản xuất. Được hỗ trợ bởi động cơ CAM VisualMILL, module này cung cấp mọi thứ cần thiết để lập trình, mô phỏng và xuất toolpath tiện cho máy tiện và trung tâm tiện.",
+          "features": [
+            "Chạy bên trong Rhino 8 (chỉ Windows)",
+            "Hỗ trợ đầy đủ workflow tiện 2 trục",
+            "Được bao gồm trong các cấu hình RhinoCAM Standard, Expert, Professional và Premium"
+          ],
+          "whatDoes": {
+            "title": "RhinoCAM-TURN làm gì?",
+            "description": "RhinoCAM-TURN cho phép bạn tạo các thao tác tiện hiệu quả, chính xác mà không cần rời khỏi môi trường Rhino. Bạn có thể:",
+            "capabilities": [
+              "Lập trình các lượt gia công thô và tinh cho profile bên ngoài và bên trong",
+              "Tạo rãnh, ren và thao tác cắt phần",
+              "Thực hiện gia công lỗ trên các chi tiết tiện",
+              "Xuất G-code sẵn sàng cho máy sử dụng post-processor đi kèm hoặc tùy chỉnh",
+              "Hàng trăm post-processor miễn phí cho máy tiện CNC phổ biến",
+              "Hoàn toàn liên kết với các thay đổi hình học Rhino"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Ứng Dụng",
+          "items": [
+            "Trục, bạc đạn và các thành phần hình trụ",
+            "Chi tiết tiện ô tô và hàng không vũ trụ",
+            "Dụng cụ và đồ gá tùy chỉnh",
+            "Tạo mẫu và sản xuất trên máy tiện CNC"
+          ]
+        },
+        "features": {
+          "title": "Danh Sách Tính Năng",
+          "tabs": [
+            { "id": "2axis", "name": "2 Axis Turning" },
+            { "id": "hole", "name": "Hole Making" },
+            { "id": "simulation", "name": "Toolpath Simulation" },
+            { "id": "post", "name": "Post-Processor Generator" }
+          ],
+          "categories": [
+            {
+              "id": "2axis",
+              "name": "2 AXIS TURNING",
+              "features": [
+                { "name": "Roughing" },
+                { "name": "Finishing" },
+                { "name": "Groove Roughing" },
+                { "name": "Groove Finishing" },
+                { "name": "Threading" },
+                { "name": "Follow Curve" },
+                { "name": "Parting Off" },
+                { "name": "Upgraded 3D Model Slicing" },
+                { "name": "Global Part Object" },
+                { "name": "Materials for Stock Models" },
+                { "name": "Knowledge Base Loading and Saving" },
+                { "name": "Tool Path Viewer" },
+                { "name": "MopSets" },
+                { "name": "Machine Control Operations" },
+                { "name": "Fixture Offset Operations" },
+                { "name": "Drag and drop operations from Knowledge Base" },
+                { "name": "Diameter programming" }
+              ]
+            },
+            {
+              "id": "hole",
+              "name": "HOLE MAKING",
+              "features": [
+                { "name": "Drilling" },
+                { "name": "Tapping" },
+                { "name": "Boring" },
+                { "name": "Reverse Boring" }
+              ]
+            },
+            {
+              "id": "simulation",
+              "name": "TOOLPATH SIMULATION",
+              "features": [
+                { "name": "Toolpath Animation" },
+                { "name": "Cut Material Simulation" },
+                { "name": "Part to Stock Comparison" }
+              ]
+            },
+            {
+              "id": "post",
+              "name": "POST-PROCESSOR GENERATOR",
+              "features": [
+                { "name": "User customizable post-processor generator" }
+              ]
+            }
+          ]
+        },
+        "faq": {
+          "title": "Câu Hỏi Thường Gặp",
+          "items": [
+            {
+              "question": "RhinoCAM-TURN có phải là sản phẩm độc lập không?",
+              "answer": "Không. RhinoCAM-TURN là một module trong bộ RhinoCAM và được bao gồm trong các cấu hình Standard, Expert, Professional và Premium."
+            },
+            {
+              "question": "Tôi có thể sử dụng những loại máy tiện CNC nào với RhinoCAM-TURN?",
+              "answer": "Nó hỗ trợ nhiều loại máy tiện CNC 2 trục và trung tâm tiện từ hầu hết các nhà sản xuất máy công cụ hàng đầu."
+            },
+            {
+              "question": "Tôi có thể tùy chỉnh post-processor cho máy tiện của mình không?",
+              "answer": "Hoàn toàn có thể. Ngoài thư viện tích hợp sẵn, RhinoCAM-TURN bao gồm trình tạo post-processor để tạo đầu ra cụ thể cho máy và bộ điều khiển của bạn."
+            },
+            {
+              "question": "Tôi có thể thử RhinoCAM-TURN trước khi mua không?",
+              "answer": "Có. Bạn có thể yêu cầu phiên bản demo để khám phá khả năng tiện của nó trước khi mua."
+            },
+            {
+              "question": "RhinoCAM-TURN khác với các phần mềm CAM tiện khác như thế nào?",
+              "answer": "RhinoCAM-TURN được tích hợp hoàn toàn vào Rhino 3D, cho phép người dùng lập trình, mô phỏng và tạo G-code mà không cần chuyển đổi giữa các nền tảng CAD và CAM. Quy trình làm việc liền mạch này tiết kiệm thời gian và giảm lỗi so với việc sử dụng các ứng dụng CAM độc lập."
+            }
+          ]
+        }
+      },
+      "nest": {
+        "hero": {
+          "title": "RhinoCAM – NEST",
+          "subtitle": "Giải pháp sắp xếp và lắp ghép chi tiết hiệu quả",
+          "description": "RhinoCAM-NEST cung cấp giải pháp hiệu quả về chi phí để sắp xếp và lắp ghép các hình dạng hình học lên các tấm vật liệu, bao gồm cả lồng ghép hình chữ nhật và hình dạng thực."
+        },
+        "overview": {
+          "title": "Tổng Quan",
+          "description": "Module sắp xếp chi tiết tối ưu để tận dụng tối đa vật liệu và giảm lãng phí.",
+          "features": [
+            "Sắp xếp hình chữ nhật và hình dạng thực",
+            "Tối ưu hóa sử dụng vật liệu",
+            "Hỗ trợ nhiều tấm và chi tiết"
+          ],
+          "whatDoes": {
+            "title": "RhinoCAM-NEST làm gì?",
+            "description": "RhinoCAM-NEST giúp bạn:",
+            "capabilities": [
+              "Sắp xếp các chi tiết 2D và 3D trên tấm vật liệu",
+              "Tối ưu hóa việc sử dụng vật liệu",
+              "Giảm lãng phí vật liệu",
+              "Tạo layout tối ưu cho gia công"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Ứng Dụng",
+          "items": [
+            "Gia công tấm kim loại",
+            "Cắt laser và plasma",
+            "Gia công gỗ và composite",
+            "Sản xuất hàng loạt"
+          ]
+        },
+        "features": {
+          "title": "Danh Sách Tính Năng",
+          "categories": [
+            {
+              "name": "PRODUCT ARCHITECTURE",
+              "features": [
+                { "name": "64 Bit Version" }
+              ]
+            },
+            {
+              "name": "USER INTERFACE",
+              "features": [
+                { "name": "Wizard Interface" },
+                { "name": "Preview before output" }
+              ]
+            },
+            {
+              "name": "NESTING METHODS",
+              "features": [
+                { "name": "Rectangular (sometimes referred to as 'block' nesting)" },
+                { "name": "True Shape" },
+                { "name": "2D & 3D Parts" }
+              ]
+            },
+            {
+              "name": "GLOBAL PARAMETERS",
+              "features": [
+                { "name": "Distance limits between part and sheet" },
+                { "name": "Distance limits between two adjacent parts" },
+                { "name": "Accuracy of nesting" }
+              ]
+            },
+            {
+              "name": "SHEET PARAMETERS",
+              "features": [
+                { "name": "Sheet start corner" },
+                { "name": "Nesting direction" },
+                { "name": "Grain direction" },
+                { "name": "Unlimited number of sheets" },
+                { "name": "Sheet layering by color" }
+              ]
+            },
+            {
+              "name": "PART PARAMETERS",
+              "features": [
+                { "name": "Distance limits between part and part" },
+                { "name": "Rotation limits" },
+                { "name": "Mirroring" },
+                { "name": "Island recognition" },
+                { "name": "Part-in-Part" }
+              ]
+            },
+            {
+              "name": "OUTPUT PARAMETERS",
+              "features": [
+                { "name": "Estimation of # of sheets needed for nest" },
+                { "name": "Overflow Utilization" },
+                { "name": "Tagging of Nests" }
+              ]
+            }
+          ]
+        },
+        "faq": {
+          "title": "Câu Hỏi Thường Gặp",
+          "items": [
+            {
+              "question": "RhinoCAM-NEST có đi kèm với RhinoCAM không?",
+              "answer": "Có, RhinoCAM-NEST được bao gồm miễn phí trong tất cả các cấu hình RhinoCAM."
+            },
+            {
+              "question": "Tôi có thể sắp xếp bao nhiêu chi tiết?",
+              "answer": "RhinoCAM-NEST hỗ trợ số lượng chi tiết không giới hạn và có thể xử lý nhiều tấm vật liệu cùng một lúc."
+            }
+          ]
+        }
+      },
+      "art": {
+        "hero": {
+          "title": "RhinoCAM – ART",
+          "subtitle": "Chuyển đổi nghệ thuật thành hình học gia công",
+          "description": "RhinoCAM-ART chuyển đổi tác phẩm nghệ thuật thành hình học phù hợp cho gia công, được sử dụng để mô hình hóa các hình dạng nghệ thuật từ hình ảnh raster, mở rộng khả năng của module gia công."
+        },
+        "overview": {
+          "title": "Tổng Quan",
+          "description": "Module nghệ thuật mạnh mẽ cho phép tạo mô hình 3D từ hình ảnh bitmap và chuyển đổi thành hình học có thể gia công.",
+          "features": [
+            "Tạo relief 3D từ hình ảnh bitmap",
+            "Chuyển đổi raster sang vector",
+            "Tạo khối lượng 3D từ đường cong",
+            "Boolean operations trên khối lượng 3D"
+          ],
+          "whatDoes": {
+            "title": "RhinoCAM-ART làm gì?",
+            "description": "RhinoCAM-ART cung cấp các công cụ để:",
+            "capabilities": [
+              "Tạo relief 3D từ file hình ảnh bitmap",
+              "Giới hạn tạo relief bằng màu sắc và/hoặc đường cong",
+              "Tạo khối lượng 3D phồng lên bằng đường cong đóng",
+              "Tạo khối lượng 3D sweep bằng các profile khác nhau",
+              "Kết hợp khối lượng 3D bằng các thao tác Boolean",
+              "Xuất khối lượng 3D đã tạo dưới dạng Mesh geometry",
+              "Chuyển đổi hình học CAD 3D thành khối lượng ART 3D",
+              "Chuyển đổi Raster sang Vector để tạo đường cong 2D"
+            ]
+          }
+        },
+        "applications": {
+          "title": "Ứng Dụng",
+          "items": [
+            "Chạm khắc và điêu khắc",
+            "Tạo mẫu nghệ thuật",
+            "Đồ trang sức và trang trí",
+            "Signage và lettering"
+          ]
+        },
+        "features": {
+          "title": "Danh Sách Tính Năng",
+          "items": [
+            { "name": "Create 3D Relief from bitmap image files" },
+            { "name": "Ability to limit creation of reliefs using colors and/or curves" },
+            { "name": "Create puffed up 3D volumes using closed curves" },
+            { "name": "Create 3D sweep volumes using various profiles" },
+            { "name": "Combine 3D volumes using various Boolean operations during creation" },
+            { "name": "Export created 3D volumes as Mesh geometry to CAD system" },
+            { "name": "Convert 3D CAD geometry to ART 3D volumes" },
+            { "name": "Create 2D Curve geometry from image files using Raster to Vector operations" },
+            { "name": "All operations are associative to CAD geometry used in creation" },
+            { "name": "Save and reuse previously created 3D volumes using Shape Library functionality" }
+          ]
+        },
+        "faq": {
+          "title": "Câu Hỏi Thường Gặp",
+          "items": [
+            {
+              "question": "RhinoCAM-ART có đi kèm với RhinoCAM không?",
+              "answer": "Có, RhinoCAM-ART được bao gồm miễn phí trong tất cả các cấu hình RhinoCAM."
+            },
+            {
+              "question": "Tôi có thể sử dụng những loại file hình ảnh nào?",
+              "answer": "RhinoCAM-ART hỗ trợ các định dạng hình ảnh bitmap phổ biến như BMP, JPG, PNG và các định dạng khác."
+            }
+          ]
+        }
+      }
+    },
+    "scan3dTexu630w": {
+      "hero": {
+        "title": "Scan3D Texu 630W",
+        "subtitle": "Máy quét 3D công nghiệp công suất cao",
+        "description": "Scan3D Texu 630W là máy quét 3D laser công nghiệp với công suất 630W, được thiết kế cho các ứng dụng quét quy mô lớn và độ chính xác cao. Công nghệ laser tiên tiến cho phép đo chính xác các vật thể lớn với tốc độ nhanh và độ phân giải cao.",
+        "requestQuote": "Yêu cầu báo giá",
+        "contactUs": "Liên hệ",
+        "imageError": "Không thể tải hình ảnh"
+      },
+      "overview": {
+        "title": "Tổng Quan",
+        "description": "Scan3D Texu 630W là giải pháp quét 3D chuyên nghiệp với công suất laser 630W, phù hợp cho các ứng dụng công nghiệp đòi hỏi độ chính xác cao và tốc độ quét nhanh. Thiết bị này được thiết kế để xử lý các vật thể lớn và phức tạp với hiệu suất vượt trội.",
+        "features": [
+          "Công suất laser 630W cao",
+          "Độ chính xác cao",
+          "Tốc độ quét nhanh",
+          "Phù hợp cho vật thể lớn",
+          "Công nghệ laser tiên tiến",
+          "Giao diện dễ sử dụng"
+        ],
+        "whatDoes": {
+          "title": "Scan3D Texu 630W làm gì?",
+          "description": "Scan3D Texu 630W cung cấp khả năng quét 3D chuyên nghiệp cho:",
+          "capabilities": [
+            "Quét 3D các vật thể lớn với độ chính xác cao",
+            "Thu thập dữ liệu bề mặt chi tiết",
+            "Tạo mô hình 3D từ vật thể thực",
+            "Kiểm tra chất lượng và đo lường",
+            "Reverse engineering",
+            "Ứng dụng trong sản xuất và kiểm tra"
+          ]
+        }
+      },
+      "features": {
+        "title": "Tính Năng Nổi Bật",
+        "items": [
+          {
+            "icon": "scan",
+            "title": "Công Suất Laser Cao",
+            "description": "Công suất laser 630W cho phép quét các vật thể lớn với độ chính xác và tốc độ cao"
+          },
+          {
+            "icon": "zap",
+            "title": "Tốc Độ Quét Nhanh",
+            "description": "Tốc độ quét được tối ưu hóa để thu thập dữ liệu nhanh chóng và hiệu quả"
+          },
+          {
+            "icon": "shield",
+            "title": "Độ Chính Xác Cao",
+            "description": "Công nghệ laser tiên tiến đảm bảo độ chính xác đo lường cao cho các ứng dụng công nghiệp"
+          },
+          {
+            "icon": "award",
+            "title": "Chất Lượng Chuyên Nghiệp",
+            "description": "Thiết bị được thiết kế và sản xuất theo tiêu chuẩn công nghiệp cao"
+          },
+          {
+            "icon": "camera",
+            "title": "Độ Phân Giải Cao",
+            "description": "Độ phân giải cao cho phép thu thập chi tiết bề mặt một cách chính xác"
+          },
+          {
+            "icon": "cpu",
+            "title": "Xử Lý Dữ Liệu Mạnh Mẽ",
+            "description": "Hệ thống xử lý dữ liệu tích hợp cho phép xử lý và hiển thị kết quả quét ngay lập tức"
+          }
+        ]
+      },
+      "specifications": {
+        "title": "Thông Số Kỹ Thuật",
+        "items": [
+          {
+            "name": "Công suất laser",
+            "value": "630W"
+          },
+          {
+            "name": "Độ chính xác",
+            "value": "±0.05mm"
+          },
+          {
+            "name": "Tốc độ quét",
+            "value": "Lên đến 1,000,000 điểm/giây"
+          },
+          {
+            "name": "Khoảng cách quét",
+            "value": "0.3m - 3.0m"
+          },
+          {
+            "name": "Độ phân giải",
+            "value": "0.1mm"
+          },
+          {
+            "name": "Kích thước vật thể",
+            "value": "Lên đến 10m x 10m x 10m"
+          },
+          {
+            "name": "Nguồn điện",
+            "value": "AC 220V/50Hz"
+          },
+          {
+            "name": "Giao tiếp",
+            "value": "USB 3.0, Ethernet"
+          },
+          {
+            "name": "Hệ điều hành hỗ trợ",
+            "value": "Windows 10/11"
+          },
+          {
+            "name": "Phần mềm đi kèm",
+            "value": "Scan3D Studio Professional"
+          }
+        ]
+      },
+      "applications": {
+        "title": "Ứng Dụng",
+        "items": [
+          "Kiểm tra chất lượng sản xuất",
+          "Reverse engineering",
+          "Đo lường và kiểm tra kích thước",
+          "Tạo mô hình 3D cho CAD",
+          "Quét các vật thể lớn",
+          "Ứng dụng trong ngành ô tô",
+          "Ứng dụng trong ngành hàng không",
+          "Kiến trúc và xây dựng"
+        ]
+      },
+      "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "items": [
+          {
+            "question": "Scan3D Texu 630W phù hợp cho những ứng dụng nào?",
+            "answer": "Scan3D Texu 630W phù hợp cho các ứng dụng công nghiệp đòi hỏi quét các vật thể lớn với độ chính xác cao, bao gồm kiểm tra chất lượng, reverse engineering, đo lường và tạo mô hình 3D."
+          },
+          {
+            "question": "Độ chính xác của máy quét là bao nhiêu?",
+            "answer": "Scan3D Texu 630W có độ chính xác ±0.05mm, đủ để đáp ứng các yêu cầu đo lường công nghiệp chính xác."
+          },
+          {
+            "question": "Máy có thể quét vật thể có kích thước như thế nào?",
+            "answer": "Máy có thể quét vật thể lên đến 10m x 10m x 10m, phù hợp cho các ứng dụng quét quy mô lớn."
+          },
+          {
+            "question": "Phần mềm đi kèm có những tính năng gì?",
+            "answer": "Phần mềm Scan3D Studio Professional đi kèm cung cấp các công cụ xử lý dữ liệu quét, tạo mô hình 3D, xuất file CAD và phân tích đo lường."
+          },
+          {
+            "question": "Tôi có thể nhận được hỗ trợ kỹ thuật không?",
+            "answer": "Có, chúng tôi cung cấp hỗ trợ kỹ thuật đầy đủ bao gồm đào tạo, cài đặt và bảo trì cho khách hàng."
+          }
+        ]
+      }
+    },
+    "scan3dTexu3w": {
+      "hero": {
+        "title": "Scan3D Texu 3W",
+        "subtitle": "Máy quét 3D compact công suất thấp",
+        "description": "Scan3D Texu 3W là máy quét 3D laser compact với công suất 3W, được thiết kế cho các ứng dụng quét vật thể nhỏ đến trung bình. Thiết kế di động và nhỏ gọn với độ chính xác chuyên nghiệp, phù hợp cho các ứng dụng trong phòng thí nghiệm, giáo dục và sản xuất quy mô nhỏ.",
+        "requestQuote": "Yêu cầu báo giá",
+        "contactUs": "Liên hệ",
+        "imageError": "Không thể tải hình ảnh"
+      },
+      "overview": {
+        "title": "Tổng Quan",
+        "description": "Scan3D Texu 3W là giải pháp quét 3D compact với công suất laser 3W, lý tưởng cho các ứng dụng cần độ chính xác cao nhưng không đòi hỏi công suất lớn. Thiết bị này phù hợp cho việc quét các vật thể nhỏ và trung bình với hiệu suất tốt và giá cả hợp lý.",
+        "features": [
+          "Công suất laser 3W tiết kiệm năng lượng",
+          "Thiết kế compact và di động",
+          "Độ chính xác cao",
+          "Dễ sử dụng",
+          "Giá cả hợp lý",
+          "Phù hợp cho vật thể nhỏ đến trung bình"
+        ],
+        "whatDoes": {
+          "title": "Scan3D Texu 3W làm gì?",
+          "description": "Scan3D Texu 3W cung cấp khả năng quét 3D chuyên nghiệp cho:",
+          "capabilities": [
+            "Quét 3D các vật thể nhỏ và trung bình",
+            "Thu thập dữ liệu bề mặt chi tiết",
+            "Tạo mô hình 3D từ vật thể thực",
+            "Kiểm tra chất lượng sản phẩm",
+            "Reverse engineering",
+            "Ứng dụng trong giáo dục và nghiên cứu"
+          ]
+        }
+      },
+      "features": {
+        "title": "Tính Năng Nổi Bật",
+        "items": [
+          {
+            "icon": "scan",
+            "title": "Thiết Kế Compact",
+            "description": "Thiết kế nhỏ gọn và di động, dễ dàng di chuyển và sử dụng trong nhiều môi trường khác nhau"
+          },
+          {
+            "icon": "zap",
+            "title": "Tiết Kiệm Năng Lượng",
+            "description": "Công suất laser 3W tiết kiệm năng lượng nhưng vẫn đảm bảo chất lượng quét tốt"
+          },
+          {
+            "icon": "shield",
+            "title": "Độ Chính Xác Cao",
+            "description": "Công nghệ laser tiên tiến đảm bảo độ chính xác đo lường cao cho các ứng dụng chuyên nghiệp"
+          },
+          {
+            "icon": "award",
+            "title": "Giá Cả Hợp Lý",
+            "description": "Giải pháp quét 3D chất lượng với mức giá phù hợp cho các ứng dụng giáo dục và sản xuất nhỏ"
+          },
+          {
+            "icon": "camera",
+            "title": "Độ Phân Giải Tốt",
+            "description": "Độ phân giải tốt cho phép thu thập chi tiết bề mặt một cách chính xác"
+          },
+          {
+            "icon": "cpu",
+            "title": "Xử Lý Dữ Liệu Hiệu Quả",
+            "description": "Hệ thống xử lý dữ liệu tích hợp cho phép xử lý và hiển thị kết quả quét nhanh chóng"
+          }
+        ]
+      },
+      "specifications": {
+        "title": "Thông Số Kỹ Thuật",
+        "items": [
+          {
+            "name": "Công suất laser",
+            "value": "3W"
+          },
+          {
+            "name": "Độ chính xác",
+            "value": "±0.08mm"
+          },
+          {
+            "name": "Tốc độ quét",
+            "value": "Lên đến 500,000 điểm/giây"
+          },
+          {
+            "name": "Khoảng cách quét",
+            "value": "0.2m - 1.5m"
+          },
+          {
+            "name": "Độ phân giải",
+            "value": "0.15mm"
+          },
+          {
+            "name": "Kích thước vật thể",
+            "value": "Lên đến 2m x 2m x 2m"
+          },
+          {
+            "name": "Nguồn điện",
+            "value": "AC 220V/50Hz"
+          },
+          {
+            "name": "Giao tiếp",
+            "value": "USB 3.0"
+          },
+          {
+            "name": "Hệ điều hành hỗ trợ",
+            "value": "Windows 10/11"
+          },
+          {
+            "name": "Phần mềm đi kèm",
+            "value": "Scan3D Studio Basic"
+          }
+        ]
+      },
+      "applications": {
+        "title": "Ứng Dụng",
+        "items": [
+          "Giáo dục và nghiên cứu",
+          "Quét vật thể nhỏ",
+          "Tạo mô hình 3D",
+          "Kiểm tra chất lượng",
+          "Reverse engineering",
+          "Sản xuất quy mô nhỏ",
+          "Phòng thí nghiệm",
+          "Prototyping"
+        ]
+      },
+      "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "items": [
+          {
+            "question": "Scan3D Texu 3W phù hợp cho những ứng dụng nào?",
+            "answer": "Scan3D Texu 3W phù hợp cho các ứng dụng quét vật thể nhỏ đến trung bình, bao gồm giáo dục, nghiên cứu, kiểm tra chất lượng và reverse engineering trong các môi trường không đòi hỏi công suất cao."
+          },
+          {
+            "question": "Độ chính xác của máy quét là bao nhiêu?",
+            "answer": "Scan3D Texu 3W có độ chính xác ±0.08mm, đủ để đáp ứng các yêu cầu đo lường chính xác cho các ứng dụng giáo dục và sản xuất quy mô nhỏ."
+          },
+          {
+            "question": "Máy có thể quét vật thể có kích thước như thế nào?",
+            "answer": "Máy có thể quét vật thể lên đến 2m x 2m x 2m, phù hợp cho các vật thể nhỏ và trung bình."
+          },
+          {
+            "question": "Thiết bị có dễ sử dụng không?",
+            "answer": "Có, Scan3D Texu 3W được thiết kế với giao diện thân thiện và dễ sử dụng, phù hợp cho cả người mới bắt đầu và người dùng chuyên nghiệp."
+          },
+          {
+            "question": "Tôi có thể nhận được hỗ trợ kỹ thuật không?",
+            "answer": "Có, chúng tôi cung cấp hỗ trợ kỹ thuật đầy đủ bao gồm đào tạo, cài đặt và bảo trì cho khách hàng."
+          }
+        ]
+      }
+    },
+    "scan3dTexuT22": {
+      "hero": {
+        "title": "Scan3D Texu T22",
+        "subtitle": "Máy quét 3D chuyên nghiệp công nghệ T22",
+        "description": "Scan3D Texu T22 là máy quét 3D chuyên nghiệp với công nghệ T22 tiên tiến, có tốc độ quét và độ chính xác được nâng cao. Thiết bị được thiết kế đặc biệt cho việc thu thập bề mặt chi tiết với hiệu suất vượt trội, phù hợp cho các ứng dụng công nghiệp đòi hỏi độ chính xác và tốc độ cao.",
+        "requestQuote": "Yêu cầu báo giá",
+        "contactUs": "Liên hệ",
+        "imageError": "Không thể tải hình ảnh"
+      },
+      "overview": {
+        "title": "Tổng Quan",
+        "description": "Scan3D Texu T22 là giải pháp quét 3D chuyên nghiệp với công nghệ T22 độc quyền, được tối ưu hóa cho tốc độ quét nhanh và độ chính xác cao. Thiết bị này phù hợp cho các ứng dụng công nghiệp đòi hỏi thu thập dữ liệu bề mặt chi tiết với hiệu suất cao.",
+        "features": [
+          "Công nghệ T22 tiên tiến",
+          "Tốc độ quét nhanh",
+          "Độ chính xác cao",
+          "Thu thập bề mặt chi tiết",
+          "Hiệu suất vượt trội",
+          "Phù hợp cho ứng dụng công nghiệp"
+        ],
+        "whatDoes": {
+          "title": "Scan3D Texu T22 làm gì?",
+          "description": "Scan3D Texu T22 cung cấp khả năng quét 3D chuyên nghiệp cho:",
+          "capabilities": [
+            "Quét 3D với tốc độ cao và độ chính xác",
+            "Thu thập dữ liệu bề mặt chi tiết",
+            "Tạo mô hình 3D chất lượng cao",
+            "Kiểm tra chất lượng và đo lường",
+            "Reverse engineering chuyên nghiệp",
+            "Ứng dụng trong sản xuất công nghiệp"
+          ]
+        }
+      },
+      "features": {
+        "title": "Tính Năng Nổi Bật",
+        "items": [
+          {
+            "icon": "scan",
+            "title": "Công Nghệ T22",
+            "description": "Công nghệ T22 độc quyền được tối ưu hóa cho tốc độ quét nhanh và độ chính xác cao"
+          },
+          {
+            "icon": "zap",
+            "title": "Tốc Độ Quét Cao",
+            "description": "Tốc độ quét được tối ưu hóa để thu thập dữ liệu nhanh chóng với độ chính xác cao"
+          },
+          {
+            "icon": "shield",
+            "title": "Độ Chính Xác Vượt Trội",
+            "description": "Công nghệ tiên tiến đảm bảo độ chính xác đo lường cao nhất cho các ứng dụng công nghiệp"
+          },
+          {
+            "icon": "award",
+            "title": "Chất Lượng Chuyên Nghiệp",
+            "description": "Thiết bị được thiết kế và sản xuất theo tiêu chuẩn công nghiệp cao nhất"
+          },
+          {
+            "icon": "camera",
+            "title": "Thu Thập Bề Mặt Chi Tiết",
+            "description": "Khả năng thu thập chi tiết bề mặt một cách chính xác và đầy đủ"
+          },
+          {
+            "icon": "cpu",
+            "title": "Xử Lý Dữ Liệu Mạnh Mẽ",
+            "description": "Hệ thống xử lý dữ liệu tích hợp mạnh mẽ cho phép xử lý và hiển thị kết quả quét ngay lập tức"
+          }
+        ]
+      },
+      "specifications": {
+        "title": "Thông Số Kỹ Thuật",
+        "items": [
+          {
+            "name": "Công nghệ",
+            "value": "T22 Advanced"
+          },
+          {
+            "name": "Độ chính xác",
+            "value": "±0.03mm"
+          },
+          {
+            "name": "Tốc độ quét",
+            "value": "Lên đến 1,500,000 điểm/giây"
+          },
+          {
+            "name": "Khoảng cách quét",
+            "value": "0.25m - 2.5m"
+          },
+          {
+            "name": "Độ phân giải",
+            "value": "0.05mm"
+          },
+          {
+            "name": "Kích thước vật thể",
+            "value": "Lên đến 5m x 5m x 5m"
+          },
+          {
+            "name": "Nguồn điện",
+            "value": "AC 220V/50Hz"
+          },
+          {
+            "name": "Giao tiếp",
+            "value": "USB 3.0, Ethernet"
+          },
+          {
+            "name": "Hệ điều hành hỗ trợ",
+            "value": "Windows 10/11"
+          },
+          {
+            "name": "Phần mềm đi kèm",
+            "value": "Scan3D Studio Professional"
+          }
+        ]
+      },
+      "applications": {
+        "title": "Ứng Dụng",
+        "items": [
+          "Kiểm tra chất lượng công nghiệp",
+          "Reverse engineering",
+          "Đo lường chính xác",
+          "Tạo mô hình 3D chất lượng cao",
+          "Quét bề mặt chi tiết",
+          "Ứng dụng trong ngành ô tô",
+          "Ứng dụng trong ngành hàng không",
+          "Sản xuất công nghiệp"
+        ]
+      },
+      "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "items": [
+          {
+            "question": "Scan3D Texu T22 khác với các model khác như thế nào?",
+            "answer": "Scan3D Texu T22 sử dụng công nghệ T22 độc quyền với tốc độ quét và độ chính xác được nâng cao, đặc biệt phù hợp cho việc thu thập bề mặt chi tiết với hiệu suất cao."
+          },
+          {
+            "question": "Độ chính xác của máy quét là bao nhiêu?",
+            "answer": "Scan3D Texu T22 có độ chính xác ±0.03mm, một trong những mức độ chính xác cao nhất trong dòng sản phẩm Scan3D Texu."
+          },
+          {
+            "question": "Máy có thể quét vật thể có kích thước như thế nào?",
+            "answer": "Máy có thể quét vật thể lên đến 5m x 5m x 5m, phù hợp cho các ứng dụng công nghiệp quy mô trung bình đến lớn."
+          },
+          {
+            "question": "Công nghệ T22 có những ưu điểm gì?",
+            "answer": "Công nghệ T22 được tối ưu hóa cho tốc độ quét nhanh và độ chính xác cao, đặc biệt hiệu quả trong việc thu thập dữ liệu bề mặt chi tiết."
+          },
+          {
+            "question": "Tôi có thể nhận được hỗ trợ kỹ thuật không?",
+            "answer": "Có, chúng tôi cung cấp hỗ trợ kỹ thuật đầy đủ bao gồm đào tạo, cài đặt và bảo trì cho khách hàng."
+          }
+        ]
+      }
+    }
+  },
+  "devices": {
+    "scan3dTexu630w": "Scan3D Texu 630W",
+    "scan3dTexu3w": "Scan3D Texu 3W",
+    "scan3dTexuT22": "Scan3D Texu T22"
+  },
+  "devicesPage": {
+    "hero": {
+      "title": "Thiết bị",
+      "description": "Khám phá dòng thiết bị quét 3D chuyên nghiệp của chúng tôi. Độ chính xác cao, công nghệ tiên tiến cho ứng dụng công nghiệp."
+    },
+    "filters": {
+      "searchPlaceholder": "Tìm kiếm thiết bị...",
+      "allDevices": "Tất cả thiết bị"
+    },
+    "device": {
+      "contact": "Liên hệ",
+      "loading": "Đang tải thiết bị...",
+      "noDevices": "Không tìm thấy thiết bị",
+      "noDevicesDescription": "Thử thay đổi từ khóa tìm kiếm hoặc danh mục thiết bị",
+      "showing": "Hiển thị",
+      "devices": "thiết bị",
+      "descriptions": {
+        "scan3dTexu630w": "Máy quét 3D độ chính xác cao với công suất 630W, lý tưởng cho các ứng dụng quét công nghiệp quy mô lớn. Công nghệ laser tiên tiến cho phép đo chính xác.",
+        "scan3dTexu3w": "Máy quét 3D compact với công suất 3W, hoàn hảo cho các vật thể nhỏ đến trung bình. Thiết kế di động với độ chính xác chuyên nghiệp.",
+        "scan3dTexuT22": "Máy quét 3D chuyên nghiệp với công nghệ T22, có tốc độ quét và độ chính xác được nâng cao. Phù hợp cho việc thu thập bề mặt chi tiết."
+      }
+    }
+  },
+  "productsPage": {
+    "hero": {
+      "title": "Sản phẩm",
+      "description": "Khám phá bộ sưu tập sản phẩm hàng đầu thế giới. Từ thiết kế 3D đến gia công CNC, từ in 3D đến tối ưu hóa topology."
+    },
+    "filters": {
+      "searchPlaceholder": "Tìm kiếm sản phẩm...",
+      "allProducts": "Tất cả sản phẩm",
+      "categories": {
+        "cad": "Phần mềm CAD",
+        "cam": "Phần mềm CAM",
+        "cadcam": "Phần mềm CAD/CAM", 
+        "additive": "Phần mềm Additive",
+        "plugin": "Plugin CAD"
+      }
+    },
+    "product": {
+      "contact": "Liên hệ",
+      "viewDetails": "Chi tiết sản phẩm",
+      "loading": "Đang tải sản phẩm...",
+      "noProducts": "Không tìm thấy sản phẩm",
+      "noProductsDescription": "Thử thay đổi từ khóa tìm kiếm hoặc danh mục sản phẩm",
+      "showing": "Hiển thị",
+      "products": "sản phẩm",
+      "descriptions": {
+        "rhinocam": "Phần mềm CAM mạnh mẽ tích hợp với Rhino, hỗ trợ gia công 2.5D, 3D và 5 trục. Giao diện trực quan và dễ sử dụng.",
+        "voxeldanceAdditive": "Phần mềm thiết kế và tối ưu hóa cho công nghệ in 3D kim loại. Hỗ trợ thiết kế lattice structure và topology optimization.",
+        "mastercam": "Phần mềm CAM hàng đầu thế giới với khả năng gia công phức tạp, hỗ trợ đầy đủ các loại máy CNC.",
+        "rhinoceros": "Phần mềm thiết kế 3D chuyên nghiệp với công nghệ NURBS tiên tiến. Hỗ trợ modeling, rendering và animation.",
+        "orangRhino": "Plugin chuyên nghiệp cho Rhinoceros 3D, thiết kế đế giày với công cụ tiên tiến. Hỗ trợ thiết kế multi-layer và precision engineering. Orang-Rhino & Ant3D.",
+        "fusion360": "Phần mềm CAD/CAM/CAE tích hợp đầy đủ, phù hợp cho thiết kế sản phẩm và gia công CNC.",
+        "solidworks": "Phần mềm CAD 3D chuyên nghiệp, được sử dụng rộng rãi trong thiết kế cơ khí và sản xuất.",
+        "voxeldanceTango": "Phần mềm thiết kế và tối ưu hóa cho công nghệ in 3D polymer, hỗ trợ thiết kế lattice và topology.",
+        "powermill": "Phần mềm CAM chuyên dụng cho gia công 3D và 5 trục, được sử dụng trong ngành hàng không và ô tô.",
+        "creo": "Phần mềm CAD/CAM/CAE tích hợp từ PTC, hỗ trợ thiết kế parametric và gia công CNC."
+      }
+    },
+    "features": {
+      "title": "Tại sao chọn sản phẩm của chúng tôi?",
+      "description": "Chúng tôi cung cấp các giải pháp CADCAM hàng đầu với hỗ trợ kỹ thuật chuyên nghiệp",
+      "quality": {
+        "title": "Chất lượng hàng đầu",
+        "description": "Các sản phẩm được chứng nhận và kiểm định chất lượng quốc tế"
+      },
+      "support": {
+        "title": "Hỗ trợ 24/7",
+        "description": "Đội ngũ kỹ thuật viên chuyên nghiệp sẵn sàng hỗ trợ mọi lúc"
+      },
+      "updates": {
+        "title": "Cập nhật thường xuyên",
+        "description": "Luôn cập nhật phiên bản mới nhất với tính năng tiên tiến"
+      }
+    }
+  },
+
+  "contact": {
+    "header": {
+      "backToHome": "Về trang chủ",
+      "title": "Liên hệ"
+    },
+    "info": {
+      "title": "Thông tin liên hệ",
+      "headquarters": "Trụ sở",
+      "headquartersDesc": "Địa chỉ chính",
+      "hotline": "Hotline",
+      "hotlineDesc": "Hỗ trợ 24/7",
+      "email": "Email",
+      "legal": "Thông tin pháp lý",
+      "legalDesc": "Đại diện pháp luật: Nguyễn Trường Sơn"
+    },
+    "map": {
+      "title": "Vị trí của chúng tôi",
+      "officeAddress": "Địa chỉ văn phòng",
+      "openInMaps": "Mở trên Google Maps"
+    },
+    "zalo": {
+      "title": "Liên hệ qua Zalo",
+      "scanQR": "Quét mã QR để liên hệ với chúng tôi",
+      "instructions": "Mở ứng dụng Zalo và quét mã QR để bắt đầu trò chuyện",
+      "orCall": "Hoặc gọi: 0918416100"
+    }
+  }
+}

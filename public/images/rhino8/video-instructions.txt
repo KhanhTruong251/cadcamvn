@@ -1,0 +1,38 @@
+HƯỚNG DẪN THÊM VIDEO SHRINKWRAP
+
+1. TẢI VIDEO CHÍNH THỨC:
+   - Truy cập: https://www.rhino3d.com/en/features/shrinkwrap/
+   - Tìm video demo ShrinkWrap
+   - Tải về định dạng MP4 (1080p khuyến nghị)
+
+2. ĐẶT TÊN FILE:
+   - Đổi tên thành: new-in-v8-shrinkwrap-1080p.mp4
+   - Đặt vào thư mục này: public/images/rhino8/
+
+3. TỐI ƯU HOÁ VIDEO (tùy chọn):
+   - Sử dụng ffmpeg để nén:
+     ffmpeg -i input.mp4 -c:v libx264 -crf 23 -c:a aac -b:a 128k new-in-v8-shrinkwrap-1080p.mp4
+
+4. TẠO POSTER IMAGE:
+   - Chụp frame đầu của video
+   - Lưu thành: shrinkwrap-poster.jpg (1920x1080px)
+
+5. ĐỊNH DẠNG HỖ TRỢ:
+   - MP4 (H.264) - chính
+   - WebM (VP9) - phụ
+   - Poster: JPG/PNG
+
+6. KIỂM TRA:
+   - Reload trang web
+   - Video sẽ tự động hiển thị khi file tồn tại
+   - Nếu không có video, sẽ hiển thị placeholder
+
+7. NGUỒN VIDEO THAY THẾ:
+   - YouTube: Tìm "Rhino 8 ShrinkWrap"
+   - Vimeo: McNeel channel
+   - Download với youtube-dl hoặc tương tự
+
+KÍCH THƯỚC FILE KHUYẾN NGHỊ:
+- Dưới 50MB cho web
+- 1920x1080 (Full HD)
+- Bitrate: 2-5 Mbps

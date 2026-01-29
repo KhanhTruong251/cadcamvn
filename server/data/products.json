@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "Máy CNC 3 trục XYZ-300",
+    "price": 150000000,
+    "description": "Máy CNC 3 trục chính xác cao, phù hợp cho gia công kim loại và nhựa. Tốc độ cao, độ chính xác ±0.01mm.",
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=400",
+    "quantity": 5,
+    "category": "Máy CNC",
+    "createdAt": "2024-01-15T08:00:00.000Z",
+    "updatedAt": "2024-01-15T08:00:00.000Z"
+  },
+  {
+    "id": "2", 
+    "name": "Phần mềm CAD Professional 2024",
+    "price": 25000000,
+    "description": "Phần mềm thiết kế CAD chuyên nghiệp với đầy đủ tính năng 2D/3D. Hỗ trợ nhiều định dạng file.",
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400",
+    "quantity": 50,
+    "category": "Phần mềm CAD",
+    "createdAt": "2024-01-16T09:00:00.000Z",
+    "updatedAt": "2024-01-16T09:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Dao phay HSS Ø10mm",
+    "price": 350000,
+    "description": "Dao phay HSS chất lượng cao, phù hợp gia công thép carbon và thép không gỉ. Tuổi thọ cao.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400",
+    "quantity": 100,
+    "category": "Dao cắt",
+    "createdAt": "2024-01-17T10:00:00.000Z",
+    "updatedAt": "2024-01-17T10:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Thiết bị đo 3D Scanner Pro",
+    "price": 85000000,
+    "description": "Máy quét 3D chính xác cao, hỗ trợ reverse engineering và kiểm tra chất lượng sản phẩm.",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400",
+    "quantity": 3,
+    "category": "Thiết bị đo",
+    "createdAt": "2024-01-18T11:00:00.000Z",
+    "updatedAt": "2024-01-18T11:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Phần mềm CAM MasterCAM 2024",
+    "price": 45000000,
+    "description": "Phần mềm lập trình gia công CNC hàng đầu thế giới. Hỗ trợ đầy đủ các chiến lược gia công.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400",
+    "quantity": 20,
+    "category": "Phần mềm CAM",
+    "createdAt": "2024-01-19T12:00:00.000Z",
+    "updatedAt": "2024-01-19T12:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Kẹp phôi thủy lực 6 inch",
+    "price": 12000000,
+    "description": "Kẹp phôi thủy lực chính xác cao, lực kẹp mạnh, phù hợp cho gia công CNC.",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583eb92d232?w=400",
+    "quantity": 15,
+    "category": "Phụ kiện",
+    "createdAt": "2024-01-20T13:00:00.000Z",
+    "updatedAt": "2024-01-20T13:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Máy CNC 5 trục DMU-500",
+    "price": 850000000,
+    "description": "Máy CNC 5 trục cao cấp, khả năng gia công phức tạp, độ chính xác cực cao ±0.005mm.",
+    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=400",
+    "quantity": 2,
+    "category": "Máy CNC",
+    "createdAt": "2024-01-21T14:00:00.000Z",
+    "updatedAt": "2024-01-21T14:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Thước cặp điện tử Mitutoyo",
+    "price": 2500000,
+    "description": "Thước cặp điện tử chính xác cao, độ phân giải 0.01mm, chống nước IP67.",
+    "image": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=400",
+    "quantity": 25,
+    "category": "Thiết bị đo",
+    "createdAt": "2024-01-22T15:00:00.000Z",
+    "updatedAt": "2024-01-22T15:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Dao tiện carbide TNMG",
+    "price": 850000,
+    "description": "Mảnh dao tiện carbide chất lượng cao, phủ coating TiAlN, tốc độ cắt cao.",
+    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=400",
+    "quantity": 200,
+    "category": "Dao cắt",
+    "createdAt": "2024-01-23T16:00:00.000Z",
+    "updatedAt": "2024-01-23T16:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Phần mềm CAD SolidWorks Premium",
+    "price": 55000000,
+    "description": "Phần mềm thiết kế 3D hàng đầu với tính năng simulation và rendering chuyên nghiệp.",
+    "image": "https://images.unsplash.com/photo-1581092446210-6b2d0c9c3b6d?w=400",
+    "quantity": 30,
+    "category": "Phần mềm CAD",
+    "createdAt": "2024-01-24T17:00:00.000Z",
+    "updatedAt": "2024-01-24T17:00:00.000Z"
+  },
+  {
+    "id": "11",
+    "name": "Máy đo tọa độ CMM-600",
+    "price": 450000000,
+    "description": "Máy đo tọa độ 3 trục, độ chính xác cao, hệ thống probe tự động.",
+    "image": "https://images.unsplash.com/photo-1581092918484-8313ce5d8c84?w=400",
+    "quantity": 1,
+    "category": "Thiết bị đo",
+    "createdAt": "2024-01-25T18:00:00.000Z",
+    "updatedAt": "2024-01-25T18:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "Bộ dao khoan HSS 1-13mm",
+    "price": 1200000,
+    "description": "Bộ dao khoan HSS 25 chi tiết từ 1-13mm, hộp đựng kim loại, chất lượng công nghiệp.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400",
+    "quantity": 40,
+    "category": "Dao cắt",
+    "createdAt": "2024-01-26T19:00:00.000Z",
+    "updatedAt": "2024-01-26T19:00:00.000Z"
+  }
+]

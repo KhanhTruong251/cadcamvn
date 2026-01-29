@@ -1,0 +1,12 @@
+# ShrinkWrap Demo Model Placeholder
+# This is a placeholder file for the ShrinkWrap demo model
+# Replace this with the actual .3dm file from Rhino3D
+# Download from: https://www.rhino3d.com/en/features/shrinkwrap/
+
+# The actual demo model contains:
+# - 3D scan of a shoe last used in shoemaking
+# - Major gaps and broken, uneven mesh geometry
+# - Perfect for demonstrating ShrinkWrap functionality
+
+# File size should be approximately 2-5 MB
+# Contains complex geometry with holes and self-intersections
