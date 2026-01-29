@@ -2,28 +2,21 @@ import React, { useState, useEffect } from 'react';
 import { 
   Plus, 
   Search, 
-  Filter, 
   Edit, 
   Trash2, 
-  Eye, 
   MoreVertical,
 
   List,
   Download,
   Upload,
   TrendingUp,
-  TrendingDown,
   Package,
   Tag,
   DollarSign,
-  Users,
   ShoppingCart,
   BarChart3,
-  Calendar,
   Clock,
   AlertCircle,
-  CheckCircle,
-  XCircle
 } from 'lucide-react';
 import { Product, Category } from '../types';
 import { productApi } from '../services/api';
@@ -265,6 +258,12 @@ const AdminDashboard: React.FC = () => {
 
   return (
     <div className="space-y-6">
+      {error && (
+        <div className="bg-red-50 border border-red-200 text-red-700 rounded-xl px-4 py-3 flex items-start gap-3">
+          <AlertCircle className="w-5 h-5 mt-0.5 flex-shrink-0" />
+          <span className="text-sm leading-relaxed">{error}</span>
+        </div>
+      )}
       {/* Header với Tabs */}
       <div className="bg-white rounded-xl shadow-sm border border-gray-200">
         <div className="px-6 py-4 border-b border-gray-200">

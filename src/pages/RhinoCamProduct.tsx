@@ -4,12 +4,9 @@ import {
   CheckCircle, 
   Download, 
   MessageCircle, 
-  Play,
   ChevronDown,
   ChevronUp,
   Cpu,
-  Phone,
-  Mail,
   Globe
 } from 'lucide-react';
 import { useLocale } from '../contexts/LocaleContext';

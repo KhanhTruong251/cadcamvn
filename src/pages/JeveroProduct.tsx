@@ -3,17 +3,6 @@ import { Link } from 'react-router-dom';
 import { 
   ArrowRight,
   MessageCircle,
-  Layers,
-  Ruler,
-  FileText,
-  Calculator,
-  Package,
-  Download,
-  Grid,
-  Zap,
-  Settings,
-  Workflow,
-  Globe
 } from 'lucide-react';
 import { useLocale } from '../contexts/LocaleContext';
 

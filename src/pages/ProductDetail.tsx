@@ -1,27 +1,29 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { 
-  ArrowLeft, 
   Star, 
   Download, 
   Play, 
-  ExternalLink,
   CheckCircle,
-  Clock,
-  Users,
-  Award,
-  Shield,
-  Zap,
   FileText,
-  Video,
   MessageCircle,
-  Share2,
-  Heart,
-  ShoppingCart
 } from 'lucide-react';
 import { Product } from '../types';
 import { useLocale } from '../contexts/LocaleContext';
 import { formatPrice, formatDate } from '../utils/formatters';
+
+const MOCK_PRODUCT_DETAILS: Product = {
+  id: '2',
+  name: 'VoxelDance Additive',
+  price: 18000000,
+  description: 'Phần mềm thiết kế và tối ưu hóa cho công nghệ in 3D kim loại. Hỗ trợ thiết kế lattice structure và topology optimization.',
+  image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop',
+  quantity: 30,
+  category: 'Phần mềm Additive',
+  createdAt: '2024-01-10',
+  updatedAt: '2024-01-10',
+  status: 'active'
+};
 
 const ProductDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -29,20 +31,6 @@ const ProductDetail: React.FC = () => {
   const [product, setProduct] = useState<Product | null>(null);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState('overview');
-
-  // Mock data for product details
-  const productDetails: Product = {
-    id: '2',
-    name: 'VoxelDance Additive',
-    price: 18000000,
-    description: 'Phần mềm thiết kế và tối ưu hóa cho công nghệ in 3D kim loại. Hỗ trợ thiết kế lattice structure và topology optimization.',
-    image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop',
-    quantity: 30,
-    category: 'Phần mềm Additive',
-    createdAt: '2024-01-10',
-    updatedAt: '2024-01-10',
-    status: 'active'
-  };
 
   const features = [
     'Thiết kế lattice structure tiên tiến',
@@ -93,7 +81,7 @@ const ProductDetail: React.FC = () => {
   useEffect(() => {
     // Simulate API call
     setTimeout(() => {
-      setProduct(productDetails);
+      setProduct(MOCK_PRODUCT_DETAILS);
       setLoading(false);
     }, 1000);
   }, [id]);

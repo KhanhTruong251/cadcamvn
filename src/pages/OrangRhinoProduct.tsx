@@ -21,7 +21,6 @@ import {
   TrendingUp,
   Footprints,
   Scissors,
-  Cpu,
   Factory,
   X,
   BookOpen,

@@ -1,13 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { 
   Search, 
-  Filter, 
   Grid, 
   List, 
   ChevronRight
 } from 'lucide-react';
-import { productApi } from '../services/api';
 import { Product } from '../types';
 import { useLocale } from '../contexts/LocaleContext';
 
@@ -29,7 +27,7 @@ const Products: React.FC = () => {
   }, [searchParams]);
 
   // Function to get mock data with translations
-  const getMockProducts = (): Product[] => [
+  const getMockProducts = useCallback((): Product[] => [
     {
       id: '1',
       name: 'RhinoCam',
@@ -134,7 +132,7 @@ const Products: React.FC = () => {
       updatedAt: '2024-01-14',
       specialPage: '/products/rizomuv'
     },
-  ];
+  ], [t]);
 
   const categories = [
     { id: 'all', name: t('productsPage.filters.allProducts') },
@@ -145,7 +143,7 @@ const Products: React.FC = () => {
   ];
 
   // Function to fetch products from API
-  const fetchProducts = async () => {
+  const fetchProducts = useCallback(async () => {
     try {
       setLoading(true);
       // TODO: Replace with actual API call
@@ -161,11 +159,11 @@ const Products: React.FC = () => {
       console.error('Error fetching products:', error);
       setLoading(false);
     }
-  };
+  }, [getMockProducts]);
 
   useEffect(() => {
     fetchProducts();
-  }, [t]);
+  }, [fetchProducts]);
 
   const filteredProducts = products.filter(product => {
     const matchesSearch = product.name.toLowerCase().includes(searchTerm.toLowerCase()) ||

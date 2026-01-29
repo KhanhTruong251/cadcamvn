@@ -3,13 +3,6 @@ import { Link } from 'react-router-dom';
 import { 
   ArrowRight,
   MessageCircle,
-  Layers,
-  Image,
-  Move,
-  Grid,
-  Edit,
-  FileImage,
-  Palette
 } from 'lucide-react';
 import { useLocale } from '../contexts/LocaleContext';
 

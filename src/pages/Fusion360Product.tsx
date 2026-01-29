@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowLeft, ChevronRight, CheckCircle, Download, MessageCircle } from 'lucide-react';
+import { CheckCircle, Download, MessageCircle } from 'lucide-react';
 
 const Fusion360Product: React.FC = () => {
   return (

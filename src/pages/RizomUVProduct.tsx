@@ -1,12 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { 
-  Play,
   MessageCircle,
   Download,
   ArrowRight,
-  CheckCircle,
-  Layers,
   Settings,
   Zap,
   Grid,

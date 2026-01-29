@@ -6,10 +6,6 @@ import {
   MessageCircle, 
   ChevronDown,
   ChevronUp,
-  Layers,
-  Phone,
-  Mail,
-  Globe,
   ArrowLeft
 } from 'lucide-react';
 import { useLocale } from '../contexts/LocaleContext';

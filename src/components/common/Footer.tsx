@@ -119,30 +119,38 @@ const Footer: React.FC = () => {
               <span className="text-gray-400 text-sm font-medium">{t('common.footer.followUs')}</span>
               <div className="flex space-x-3 text-gray-400">
                 <a
-                  href="#"
+                  href="https://www.facebook.com/"
                   className="hover:text-blue-300 transition-colors"
                   aria-label="Facebook"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <Facebook size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://x.com/"
                   className="hover:text-blue-300 transition-colors"
                   aria-label="Twitter"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <Twitter size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://www.instagram.com/"
                   className="hover:text-blue-300 transition-colors"
                   aria-label="Instagram"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <Instagram size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="https://www.youtube.com/"
                   className="hover:text-blue-300 transition-colors"
                   aria-label="Youtube"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <Youtube size={20} />
                 </a>

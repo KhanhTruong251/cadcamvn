@@ -1,11 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowLeft, ChevronRight, CheckCircle, Download, MessageCircle } from 'lucide-react';
-import { useLocale } from '../contexts/LocaleContext';
+import { CheckCircle, Download, MessageCircle } from 'lucide-react';
 
 const CreoProduct: React.FC = () => {
-  const { t } = useLocale();
-  
   return (
     <div className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm border-b">

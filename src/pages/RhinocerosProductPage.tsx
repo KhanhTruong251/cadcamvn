@@ -1,17 +1,8 @@
-﻿import React, { useState, useMemo } from 'react';
-import { Link } from 'react-router-dom';
+/* eslint-disable unicode-bom */
+import React, { useState, useMemo } from 'react';
 import {
-  ArrowLeft,
-  Download,
-  Play,
-  Star,
-  Users,
   Award,
-  Zap,
-  Shield,
-  Globe,
   CheckCircle,
-  ChevronRight,
   ExternalLink,
   MessageCircle
 } from 'lucide-react';

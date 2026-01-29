@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { 
   Search, 
@@ -27,7 +27,7 @@ const Devices: React.FC = () => {
   }, [searchParams]);
 
   // Function to get mock data with translations
-  const getMockDevices = (): Product[] => [
+  const getMockDevices = useCallback((): Product[] => [
     {
       id: 'device-1',
       name: 'Scan3D Texu 630W',
@@ -67,7 +67,7 @@ const Devices: React.FC = () => {
       updatedAt: '2024-01-12',
       specialPage: '/products/scan3d-texu-t22'
     },
-  ];
+  ], [t]);
 
   const categories = [
     { id: 'all', name: t('devicesPage.filters.allDevices') },
@@ -75,7 +75,7 @@ const Devices: React.FC = () => {
   ];
 
   // Function to fetch devices from API
-  const fetchDevices = async () => {
+  const fetchDevices = useCallback(async () => {
     try {
       setLoading(true);
       // TODO: Replace with actual API call
@@ -91,11 +91,11 @@ const Devices: React.FC = () => {
       console.error('Error fetching devices:', error);
       setLoading(false);
     }
-  };
+  }, [getMockDevices]);
 
   useEffect(() => {
     fetchDevices();
-  }, [t]);
+  }, [fetchDevices]);
 
   const filteredDevices = devices.filter(device => {
     const matchesSearch = device.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
