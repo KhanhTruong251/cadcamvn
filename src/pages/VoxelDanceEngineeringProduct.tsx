@@ -1,9 +1,6 @@
 import React from 'react';
-import { useLocale } from '../contexts/LocaleContext';
 
 const VoxelDanceEngineeringProduct: React.FC = () => {
-  const { t } = useLocale();
-
   // Extract video ID from YouTube URL
   const videoId = '9A38bSK-V4g';
 

@@ -1,7 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { 
-  Play, 
   Zap
 } from 'lucide-react';
 import { useLocale } from '../contexts/LocaleContext';

@@ -9,33 +9,23 @@ import {
   Layers,
   Settings,
   Zap,
-  Package,
   Grid,
-  FileText,
   Monitor,
   Cpu,
   Globe,
   Code,
-  Users,
-  Award,
   Star,
   Sparkles,
   Wand2,
   BarChart3,
   Lock,
-  Unlock,
-  RefreshCw,
   Eye,
-  X,
-  ExternalLink,
   Ruler,
   ChevronDown,
   HelpCircle
 } from 'lucide-react';
-import { useLocale } from '../contexts/LocaleContext';
 
 const RizomUVProduct: React.FC = () => {
-  const { t } = useLocale();
   const [selectedMode, setSelectedMode] = useState<'virtual' | 'real'>('virtual');
   const [openFAQ, setOpenFAQ] = useState<number | null>(null);
   const [selectedHighlight, setSelectedHighlight] = useState<number>(0);
@@ -447,7 +437,6 @@ const RizomUVProduct: React.FC = () => {
                 {/* Slider Bars - Left Side */}
                 <div className="lg:col-span-1 space-y-2">
                   {virtualSpacesFeatures.map((feature, index) => {
-                    const IconComponent = feature.icon;
                     const isSelected = selectedHighlight === index;
                     return (
                       <button
@@ -610,9 +599,9 @@ const RizomUVProduct: React.FC = () => {
                       <p className="font-semibold text-gray-800">{testimonial.name}</p>
                       <p className="text-sm text-gray-600">{testimonial.role}</p>
                       {testimonial.link && (
-                        <a href="#" className="text-sm text-indigo-600 hover:underline mt-2 inline-block">
+                        <span className="text-sm text-indigo-600 mt-2 inline-block">
                           {testimonial.link} →
-                        </a>
+                        </span>
                       )}
                     </div>
                   </div>
@@ -702,7 +691,6 @@ const RizomUVProduct: React.FC = () => {
                 {/* Slider Bars - Left Side */}
                 <div className="lg:col-span-1 space-y-2">
                   {realSpaceFeatures.map((feature, index) => {
-                    const IconComponent = feature.icon;
                     const isSelected = selectedRealHighlight === index;
                     return (
                       <button
@@ -802,9 +790,9 @@ const RizomUVProduct: React.FC = () => {
                       <p className="font-semibold text-gray-800">{testimonial.name}</p>
                       <p className="text-sm text-gray-600">{testimonial.role}</p>
                       {testimonial.link && (
-                        <a href="#" className="text-sm text-indigo-600 hover:underline mt-2 inline-block">
+                        <span className="text-sm text-indigo-600 mt-2 inline-block">
                           {testimonial.link} →
-                        </a>
+                        </span>
                       )}
                     </div>
                   </div>
