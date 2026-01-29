@@ -1,5 +1,5 @@
 import React from 'react';
-import { 
+import {
   Zap
 } from 'lucide-react';
 import { useLocale } from '../contexts/LocaleContext';

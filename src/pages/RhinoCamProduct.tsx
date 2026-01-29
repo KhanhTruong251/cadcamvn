@@ -1,9 +1,9 @@
 import React, { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
-import { 
-  CheckCircle, 
-  Download, 
-  MessageCircle, 
+import {
+  CheckCircle,
+  Download,
+  MessageCircle,
   ChevronDown,
   ChevronUp,
   Cpu,

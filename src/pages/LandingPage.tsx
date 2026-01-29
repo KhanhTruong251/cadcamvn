@@ -1,13 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { 
-  ArrowRight, 
-  CheckCircle, 
-  Star, 
-  Users, 
-  Shield, 
-  Zap,
-  Download,
+import {
+  ArrowRight,
+  CheckCircle, Download,
   Play,
   Mail,
   Phone,

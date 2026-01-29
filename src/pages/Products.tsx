@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { 
-  Search, 
-  Grid, 
-  List, 
+import {
+  Search,
+  Grid,
+  List,
   ChevronRight
 } from 'lucide-react';
 import { Product } from '../types';
