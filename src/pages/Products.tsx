@@ -30,12 +30,12 @@ const Products: React.FC = () => {
   const getMockProducts = useCallback((): Product[] => [
     {
       id: '1',
-      name: 'RhinoCam',
+      name: 'RhinoCAM',
       price: 25000000,
       description: t('productsPage.product.descriptions.rhinocam'),
       image: '/images/rhinocam/rhinocam-logo-f97fcd96.png',
       quantity: 50,
-      category: 'Phần mềm Rhino',
+      category: 'Plugin-Rhino',
       status: 'active',
       createdAt: '2024-01-15',
       updatedAt: '2024-01-15',
@@ -61,7 +61,7 @@ const Products: React.FC = () => {
       description: t('productsPage.product.descriptions.orangRhino'),
       image: '/images/orang/orang_logo.png',
       quantity: 15,
-      category: 'Phần mềm Rhino',
+      category: 'Plugin-Rhino',
       status: 'active',
       createdAt: '2024-01-15',
       updatedAt: '2024-01-15',
@@ -69,29 +69,16 @@ const Products: React.FC = () => {
     },
     {
       id: '9',
-      name: 'VoxelDance Manufacturing',
+      name: 'VoxelDance Additive',
       price: 20000000,
-      description: t('common.home.featuredProducts.items.voxeldanceManufacturing.description'),
+      description: t('common.home.featuredProducts.items.voxeldanceAdditive.description'),
       image: '/images/voxeldance/logo.jpg',
       quantity: 25,
       category: 'Phần mềm Voxeldance',
       status: 'active',
       createdAt: '2024-01-10',
       updatedAt: '2024-01-10',
-      specialPage: '/products/voxeldance-manufacturing'
-    },
-    {
-      id: '10',
-      name: 'VoxelDance Engineering',
-      price: 22000000,
-      description: t('common.home.featuredProducts.items.voxeldanceEngineering.description'),
-      image: '/images/voxeldance/logo.jpg',
-      quantity: 20,
-      category: 'Phần mềm Voxeldance',
-      status: 'active',
-      createdAt: '2024-01-11',
-      updatedAt: '2024-01-11',
-      specialPage: '/products/voxeldance-engineering'
+      specialPage: '/products/voxeldance-additive'
     },
     {
       id: '11-jevero',
@@ -100,24 +87,11 @@ const Products: React.FC = () => {
       description: 'Easy pattern making, on top of Rhino. Create and modify patterns with ease and efficiency with powerful parametric tools.',
       image: '/images/jevero/logo.jpg',
       quantity: 30,
-      category: 'Phần mềm Jevero',
+      category: 'Plugin-Rhino',
       status: 'active',
       createdAt: '2024-01-13',
       updatedAt: '2024-01-13',
       specialPage: '/products/jevero'
-    },
-    {
-      id: '11-botcha',
-      name: 'Botcha',
-      price: 30000000,
-      description: 'Virtual prototypes as fast as possible. The ultimate 3D footwear tool with intuitive user interface built on Rhinoceros.',
-      image: '/images/jevero/logo.jpg',
-      quantity: 30,
-      category: 'Phần mềm Jevero',
-      status: 'active',
-      createdAt: '2024-01-13',
-      updatedAt: '2024-01-13',
-      specialPage: '/products/botcha'
     },
     {
       id: '12',
@@ -177,11 +151,11 @@ const Products: React.FC = () => {
       to={product.specialPage || `/product/${product.id}`}
       className="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col h-full border border-gray-100 hover:border-blue-200"
     >
-      <div className="relative aspect-video bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
+      <div className="relative aspect-video bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden flex items-center justify-center p-4">
         <img 
           src={product.image} 
           alt={product.name}
-          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+          className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-105"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
         <div className="absolute top-4 left-4">
@@ -219,11 +193,11 @@ const Products: React.FC = () => {
     >
       <div className="flex items-center gap-6">
         <div className="relative flex-shrink-0">
-          <div className="w-28 h-24 rounded-lg overflow-hidden bg-gradient-to-br from-gray-100 to-gray-200">
+          <div className="w-28 h-24 rounded-lg overflow-hidden bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center p-2">
             <img 
               src={product.image} 
               alt={product.name}
-              className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+              className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
             />
           </div>
           <div className="absolute top-2 left-2">

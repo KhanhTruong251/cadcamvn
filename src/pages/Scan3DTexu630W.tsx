@@ -85,7 +85,7 @@ const Scan3DTexu630W: React.FC = () => {
                 <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                   {!imageError ? (
                     <img 
-                      src="/images/scan3d/630W.jpg" 
+                      src="/images/scan3d/01Vn may 630 W.png" 
                       alt="Scan3D Texu 630W" 
                       className="w-full h-auto object-cover"
                       onError={() => setImageError(true)}

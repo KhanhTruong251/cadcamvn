@@ -23,19 +23,9 @@ const Home: React.FC = () => {
       link: '/products/jevero'
     },
     {
-      key: 'botcha',
-      image: '/images/jevero/logo.jpg',
-      link: '/products/botcha'
-    },
-    {
-      key: 'voxeldanceManufacturing',
+      key: 'voxeldanceAdditive',
       image: '/images/voxeldance/logo.jpg',
-      link: '/products/voxeldance-manufacturing'
-    },
-    {
-      key: 'voxeldanceEngineering',
-      image: '/images/voxeldance/logo.jpg',
-      link: '/products/voxeldance-engineering'
+      link: '/products/voxeldance-additive'
     },
     {
       key: 'rhinocam',
@@ -89,12 +79,6 @@ const Home: React.FC = () => {
     },
     { 
       id: 4, 
-      video: '/videos/botcha/Botcha.mp4', 
-      title: 'Botcha - Demo',
-      alt: 'Botcha Demonstration'
-    },
-    { 
-      id: 5, 
       video: '/videos/rhino8/new-in-v8-metal-1080p.mp4', 
       title: 'Rhinoceros 8 - Metal',
       alt: 'Rhinoceros 8 Metal Performance'

@@ -350,6 +350,12 @@ const OrangRhinoProduct: React.FC = () => {
       videoUrl: 'https://www.youtube.com/watch?v=Wzgo0FFX2Hg&pp=0gcJCZEKAYcqIYzv',
       product: 'orang'
     },
+    {
+      id: 11,
+      title: 'Orang-Rhino Video 2',
+      videoUrl: 'https://www.youtube.com/watch?v=Wzgo0FFX2Hg',
+      product: 'orang'
+    },
   ];
 
   return (
@@ -400,7 +406,7 @@ const OrangRhinoProduct: React.FC = () => {
             <div className="relative max-w-5xl mx-auto w-full mt-6">
               <div className="relative w-full aspect-video bg-gray-900 rounded-2xl overflow-hidden shadow-xl border-2 border-white/50">
                 <iframe
-                  src="https://www.youtube.com/embed/AL0di7yN3MA?rel=0&autoplay=1&mute=1&loop=1&playlist=AL0di7yN3MA&controls=0&modestbranding=1"
+                  src="https://www.youtube.com/embed/AL0di7yN3MA?rel=0&autoplay=1&mute=1&loop=1&playlist=AL0di7yN3MA&controls=1&modestbranding=1"
                   title="Orang-Rhino Main Banner Video"
                   className="w-full h-full"
                   allow="autoplay; encrypted-media; picture-in-picture"
@@ -503,7 +509,7 @@ const OrangRhinoProduct: React.FC = () => {
               <div className="mb-12">
                 <div className="relative w-full aspect-video bg-gray-900 rounded-2xl overflow-hidden shadow-lg">
                   <iframe
-                    src="https://www.youtube.com/embed/AL0di7yN3MA?rel=0&autoplay=1&mute=1&loop=1&playlist=AL0di7yN3MA&controls=0&modestbranding=1"
+                    src="https://www.youtube.com/embed/AL0di7yN3MA?rel=0&autoplay=1&mute=1&loop=1&playlist=AL0di7yN3MA&controls=1&modestbranding=1"
                     title="Orang-Rhino Overview Video"
                     className="w-full h-full"
                     allow="autoplay; encrypted-media; picture-in-picture"
@@ -666,7 +672,7 @@ const OrangRhinoProduct: React.FC = () => {
               <div className="mb-12">
                 <div className="relative w-full aspect-video bg-gray-900 rounded-2xl overflow-hidden shadow-lg">
                   <iframe
-                    src="https://www.youtube.com/embed/p__vUPtovtc?rel=0&autoplay=1&mute=1&loop=1&playlist=p__vUPtovtc&controls=0&modestbranding=1"
+                    src="https://www.youtube.com/embed/p__vUPtovtc?rel=0&autoplay=1&mute=1&loop=1&playlist=p__vUPtovtc&controls=1&modestbranding=1"
                     title="Ant3D Video"
                     className="w-full h-full"
                     allow="autoplay; encrypted-media; picture-in-picture"
@@ -1205,7 +1211,7 @@ const OrangRhinoProduct: React.FC = () => {
             </button>
             {selectedVideo.startsWith('yt:') ? (
               <iframe
-                src={`https://www.youtube.com/embed/${selectedVideo.slice(3)}?rel=0&autoplay=1&mute=1&loop=1&playlist=${selectedVideo.slice(3)}&controls=0&modestbranding=1`}
+                src={`https://www.youtube.com/embed/${selectedVideo.slice(3)}?rel=0&autoplay=1&mute=1&loop=1&playlist=${selectedVideo.slice(3)}&controls=1&modestbranding=1`}
                 title="Video"
                 className="w-full h-full"
                 allow="autoplay; encrypted-media; picture-in-picture"

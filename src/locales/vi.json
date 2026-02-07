@@ -100,7 +100,7 @@
             "title": "VoxelDance Additive",
             "description": "Phần mềm chuẩn bị in 3D kim loại và nhựa tối ưu",
             "tag": "In 3D",
-            "link": "/products"
+            "link": "/products/voxeldance-additive"
           },
           "voxeldanceManufacturing": {
             "title": "VoxelDance Manufacturing",
@@ -657,6 +657,31 @@
     "rizomuv": "RizomUV"
   },
   "productPages": {
+    "voxeldanceAdditive": {
+      "hero": {
+        "boostYour": "NÂNG CAO",
+        "productivity": "NĂNG SUẤT",
+        "tagline": "Giải pháp phần mềm chuẩn bị build All-in-One chuyên nghiệp cho các nhà lãnh đạo và tương lai sẵn sàng đổi mới và thành công.",
+        "learnMore": "Tìm hiểu thêm"
+      },
+      "industries": {
+        "title": "Nâng tầm ngành của bạn",
+        "aerospace": "Hàng không & Quốc phòng",
+        "shoes": "Giày dép",
+        "industrial": "Công nghiệp",
+        "dental": "Nha khoa",
+        "consumerGoods": "Hàng tiêu dùng"
+      },
+      "solutions": {
+        "title": "Giải pháp phần mềm in 3D được tùy chỉnh",
+        "subtitle": "Nâng cao trải nghiệm in ấn của bạn",
+        "additive": {
+          "title": "VoxelDance Additive",
+          "description": "Phần mềm sản xuất bồi đắp All-in-One công nghiệp cho OEMs, doanh nghiệp, tương thích với công nghệ LPBF, SLA và SLS.",
+          "learnMore": "Tìm hiểu thêm"
+        }
+      }
+    },
     "voxeldanceManufacturing": {
       "hero": {
         "title": "VoxelDance Manufacturing",

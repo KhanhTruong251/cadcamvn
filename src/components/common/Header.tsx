@@ -22,7 +22,6 @@ const Header: React.FC<HeaderProps> = () => {
   // Danh mục sản phẩm từ dữ liệu
   const productCategories = [
     { name: 'Jevero', href: '/products/jevero' },
-    { name: 'Botcha', href: '/products/botcha' },
     { name: 'Orang-Rhino & Ant3D', href: '/products/orang-rhino' },
     { name: 'RhinoCAM', href: '/products/rhinocam' },
     { name: 'Rhinoceros 8', href: '/products/rhinoceros' },

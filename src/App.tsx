@@ -32,7 +32,6 @@ import Scan3DTexu630W from './pages/Scan3DTexu630W';
 import Scan3DTexu3W from './pages/Scan3DTexu3W';
 import Scan3DTexuT22 from './pages/Scan3DTexuT22';
 import JeveroProduct from './pages/JeveroProduct';
-import BotchaProduct from './pages/BotchaProduct';
 import RizomUVProduct from './pages/RizomUVProduct';
 import ProductList from './components/ProductList';
 import AdminDashboard from './components/AdminDashboard';
@@ -97,13 +96,6 @@ const App: React.FC = () => {
                   <Route path="/products/jevero" element={
                     <MainLayout>
                       <JeveroProduct />
-                    </MainLayout>
-                  } />
-
-                  {/* Botcha Product Page */}
-                  <Route path="/products/botcha" element={
-                    <MainLayout>
-                      <BotchaProduct />
                     </MainLayout>
                   } />
 

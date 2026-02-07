@@ -100,7 +100,7 @@
             "title": "VoxelDance Additive",
             "description": "Software for optimizing metal and polymer 3D printing workflows",
             "tag": "3D Printing",
-            "link": "/products"
+            "link": "/products/voxeldance-additive"
           },
           "voxeldanceManufacturing": {
             "title": "VoxelDance Manufacturing",
@@ -657,6 +657,31 @@
     "rizomuv": "RizomUV"
   },
   "productPages": {
+    "voxeldanceAdditive": {
+      "hero": {
+        "boostYour": "BOOST YOUR",
+        "productivity": "PRODUCTIVITY",
+        "tagline": "The professional All-in-One build preparation software solutions for leaders and future leaders willing to innovate and succeed.",
+        "learnMore": "Learn More"
+      },
+      "industries": {
+        "title": "Empower your industries",
+        "aerospace": "Aerospace & Defense",
+        "shoes": "Shoes",
+        "industrial": "Industrial",
+        "dental": "Dental",
+        "consumerGoods": "Consumer goods"
+      },
+      "solutions": {
+        "title": "Tailored 3D printing software solutions",
+        "subtitle": "Improving your printing experience",
+        "additive": {
+          "title": "VoxelDance Additive",
+          "description": "An industrial all-in-one additive manufacturing software for OEMs, enterprises, compatible with LPBF, SLA and SLS technologies.",
+          "learnMore": "Learn More"
+        }
+      }
+    },
     "voxeldanceManufacturing": {
       "hero": {
         "title": "VoxelDance Manufacturing",
